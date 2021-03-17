@@ -1,7 +1,7 @@
 # learn.ml
 Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
 
-I'll be sharing 50 weeks learning information on Machine Learning.
+I'll be sharing 25+ weeks learning information on Machine Learning.
 
 |   Week   |   Week   |   Week   |   Week   |   Week   | 
 |  :----:  |  :----:  |  :----:  |  :----:  |  :----:  |
@@ -15,3 +15,14 @@ I'll be sharing 50 weeks learning information on Machine Learning.
 |  36 - [](./week-3/README.md)    |  37  |  38  |  39  |  40 - [Mini Projects](./week-40/README.md)  | 
 |  41 - [](./week-4/README.md)    |  42  |  43  |  44  |  45 - [Mini Projects](./week-45/README.md)  |
 |  46 - [](./week-4/README.md)   |  47  |  48  |  49  |  50 - [Mini Projects](./week-50/README.md)  | 
+
+
+* ![GitHub language count](https://img.shields.io/github/languages/count/krishnamanchikalapudi/examples.ml) 
+![GitHub last commit](https://img.shields.io/github/last-commit/krishnamanchikalapudi/examples.ml) 
+![GitHub repo size](https://img.shields.io/github/repo-size/krishnamanchikalapudi/examples.ml) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/krishnamanchikalapudi/examples.ml) 
+
+* [![GitHub stars](https://img.shields.io/github/stars/krishnamanchikalapudi/examples.ml.svg)](https://github.com/krishnamanchikalapudi/examples.ml/stargazers)
+![GitHub followers](https://img.shields.io/github/followers/krishnamanchikalapudi?style=social)
+![GitHub forks](https://img.shields.io/github/forks/krishnamanchikalapudi/examples.js?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/krishnamanchikalapudi/examples.js?style=social)
