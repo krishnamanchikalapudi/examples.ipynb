@@ -4,9 +4,9 @@ Machine learning is a method of data analysis that automates analytical model bu
 I'll be sharing 25+ weeks learning information on Machine Learning.
 
 |   Week   |   Week   |   Week   |   Week   |   Week   | 
-|  :----:  |  :----:  |  :----:  |  :----:  |  :----:  |
-|  1 - [Basics](./week-1/README.md)  |  2 - [Setup](./week-2/README.md)  |  3 - [Foundations](./week-3/README.md)  |  4 - [Python](./week-4/README.md)  |  5 - [Mini Projects](./week-5/README.md)  |
-|  6 - [Numpy](./week-6/README.md) |  7 - [Pandas](./week-7/README.md) |  8 - [Matplotlib](./week-8/README.md)  |  9 - [Seaborn](./week-9/README.md)  |  10 - [Mini Projects](./week-10/README.md)  | 
+|  :----  |  :----  |  :----  |  :----  |  :----  |
+|  01 - [Basics](./week-01/README.md)  |  02 - [Setup](./week-02/README.md)  |  03 - [Foundations](./week-03/README.md)  |  04 - [Python](./week-04/README.md)  |  05 - [Mini Projects](./week-05/README.md)  |
+|  06 - [Numpy](./week-06/README.md) |  07 - [Pandas](./week-07/README.md) |  08 - [Matplotlib](./week-08/README.md)  |  09 - [Seaborn](./week-09/README.md)  |  10 - [Mini Projects](./week-10/README.md)  | 
 |  11 - [ML Fundamentals](./week-11/README.md) |  12 - [Supervised Learning](./week-12/README.md) |  13 - [Unsupervised Learning](./week-13/README.md)  |  14 - [Reinforcement Learning](./week-14/README.md)  |  15 - [Semisupervised Learning](./week-15/README.md)  |
 |  16 - [Scikit-Learn](./week-16/README.md) |  17 - [Tensorflow](./week-17/README.md) |  18 - [Keras](./week-18/README.md)  |  19 - [Pytorch](./week-19/README.md)  |  20 - [Mini Projects](./week-20/README.md)  |
 |  21 - [](./week-21/README.md)  |  22 - [](./week-22/README.md)   |  23 - [](./week-23/README.md)   |  24 - [](./week-24/README.md)   |  25 - [Mini Projects](./week-25/README.md)  |
