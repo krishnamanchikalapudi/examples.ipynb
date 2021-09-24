@@ -16,6 +16,8 @@
 ## Cheatsheet
 - [Python](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
 - [Jupyter Notebook](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
+- [TensorFlow 2.x](https://storage.googleapis.com/kaggle-forum-message-attachments/889691/15952/19-04-11-Cheat-Sheet-TensorFlow-2-0.pdf) 
+  - [TF objects](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
 - [Numpy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 - [Pandas](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf)
 - [Matplotlib](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
