@@ -6,6 +6,11 @@
 - [Python](https://www.python.org/downloads/)
 - [PyCharm IDE](https://www.jetbrains.com/pycharm/)
 
+## Python Libraries
+``````
+pip install -r requirements.txt
+``````
+
 ## Tutorials
 - [TensorFlow](https://www.tensorflow.org/tutorials/quickstart/beginner)
 - [Keras](https://www.tensorflow.org/tutorials/keras/)
