@@ -3,13 +3,20 @@
 - [Candidate Handbook](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf)
 
 ## prerequisite
-- [Python](https://www.python.org/downloads/)
+- [Python 3.8+](https://www.python.org/downloads/)
 - [PyCharm IDE](https://www.jetbrains.com/pycharm/)
 
 ## Python Libraries
 ``````
 pip install -r requirements.txt
 ``````
+
+## Handson 
+- [ML Basics with Keras](https://www.tensorflow.org/tutorials/keras/classification)
+- [Coursera TF certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+- [TensorFlow Tutorial For Beginners](https://youtu.be/DFKHh7_zzJc)
+- [Intro to tensorflow](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
+- [GC Tensorflow training](https://cloud.google.com/ai-platform/training/docs/tensorflow-2)
 
 ## Tutorials
 - [TensorFlow](https://www.tensorflow.org/tutorials/quickstart/beginner)
