@@ -17,6 +17,8 @@ pip install -r requirements.txt
 - [TensorFlow Tutorial For Beginners](https://youtu.be/DFKHh7_zzJc)
 - [Intro to tensorflow](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
 - [GC Tensorflow training](https://cloud.google.com/ai-platform/training/docs/tensorflow-2)
+- [TF certification course](https://www.tfcertification.com/courses/tensorflow-developer-professional-certificate)
+- [Katacode](https://katacoda.com/learn?q=tensorflow)
 
 ## Tutorials
 - [TensorFlow](https://www.tensorflow.org/tutorials/quickstart/beginner)
@@ -37,3 +39,7 @@ pip install -r requirements.txt
     - [Model Selection and Evaluation](https://scikit-learn.org/stable/model_selection.html)
     - [Model examples](https://scikit-learn.org/stable/auto_examples/index.html)
     - [Metrics & Scoring info](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
+
+## Developer network
+- [TF Certified Network](https://developers.google.com/certification/directory/tensorflow)
