@@ -13,9 +13,16 @@ def retrieve_data(remote_file, local_file):
     else:
         print(f"File: '{local_file}' already exists!")
 
-remote_filename = 'https://archive.ics.uci.edu/ml/machine-learning-databases/concrete/slump/slump_test.data'
-local_filename = './data/concrete_slump.csv'
 
 # main method
 if __name__ == '__main__':
-    retrieve_data(remote_filename, local_filename)
+    # Downloading csv file
+    remote_filename_concrete = 'https://archive.ics.uci.edu/ml/machine-learning-databases/concrete/slump/slump_test.data'
+    local_filename_concrete = './data/concrete_slump.csv'
+    retrieve_data(remote_filename_concrete, local_filename_concrete)
+
+    # Downloading json file
+    remote_filename_timeseries = 'https://www.ncdc.noaa.gov/cag/national/time-series/110-pcp-ytd-12-1895-2021.json'
+    local_filename_timeseries = './data/national_timeseries.json'
+
+    retrieve_data(remote_filename_timeseries, local_filename_timeseries)
