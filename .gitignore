@@ -2,6 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.tar.gz
+*.tar.gz
+*/.tar.gz
+*/*.tar.gz
+
+TFdeveloperCertificate/data/*
+/TFdeveloperCertificate/data/*
 
 # C extensions
 *.so

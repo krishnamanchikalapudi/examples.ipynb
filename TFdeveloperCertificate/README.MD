@@ -68,6 +68,18 @@
 pip install -r requirements.txt
 ``````
 
+## Deep Learning Algorithms 
+- Convolutional Neural Networks 'CNN'
+- Long Short Term Memory Networks 'LSTM'
+- Recurrent Neural Networks 'RNN'
+- Generative Adversarial Networks 'GAN'
+- Radial Basis Function Networks 'RBFN'
+- Multilayer Perceptrons 'MLP'
+- Self Organizing Maps 'SOM'
+- Deep Belief Networks 'DBN'
+- Restricted Boltzmann Machines 'RBM'
+- Autoencoders
+
 ## Handson 
 - [ML Basics with Keras](https://www.tensorflow.org/tutorials/keras/classification)
 - [Coursera TF certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
@@ -78,6 +90,7 @@ pip install -r requirements.txt
 - [Katacode](https://katacoda.com/learn?q=tensorflow)
 
 ## Tutorials
+- [Rules of Machine Learning](https://developers.google.com//machine-learning/guides/rules-of-ml)
 - [TensorFlow](https://www.tensorflow.org/tutorials/quickstart/beginner)
     - [Datasets](https://www.tensorflow.org/datasets/catalog/overview)
 - [Keras](https://www.tensorflow.org/tutorials/keras/)
