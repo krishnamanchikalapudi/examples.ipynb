@@ -88,6 +88,11 @@ pip install -r requirements.txt
 - [GC Tensorflow training](https://cloud.google.com/ai-platform/training/docs/tensorflow-2)
 - [TF certification course](https://www.tfcertification.com/courses/tensorflow-developer-professional-certificate)
 - [Katacode](https://katacoda.com/learn?q=tensorflow)
+    - [Getting Started](https://www.katacoda.com/basiafusinska/courses/tensorflow-getting-started)
+    - [Learn Tensors](https://www.katacoda.com/courses/tensorflow)
+    - [Tensor Layors](https://www.katacoda.com/basiafusinska/courses/tensorflow-in-3-sentences)
+    - [Deep Learning](https://www.katacoda.com/basiafusinska/courses/deep-learning-with-tensorflow)
+    - [NLP with Tensorflow](https://www.katacoda.com/basiafusinska/courses/nlp-with-tensorflow)
 
 ## Tutorials
 - [Rules of Machine Learning](https://developers.google.com//machine-learning/guides/rules-of-ml)
