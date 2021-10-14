@@ -69,16 +69,17 @@ pip install -r requirements.txt
 ``````
 
 ## Deep Learning Algorithms 
-- Convolutional Neural Networks 'CNN'
-- Long Short Term Memory Networks 'LSTM'
-- Recurrent Neural Networks 'RNN'
-- Generative Adversarial Networks 'GAN'
-- Radial Basis Function Networks 'RBFN'
-- Multilayer Perceptrons 'MLP'
-- Self Organizing Maps 'SOM'
-- Deep Belief Networks 'DBN'
-- Restricted Boltzmann Machines 'RBM'
 - Autoencoders
+- Convolutional Neural Networks 'CNN'
+- Deep Belief Networks 'DBN'
+- Generative Adversarial Networks 'GAN'
+- Long Short Term Memory Networks 'LSTM'
+- Multilayer Perceptrons 'MLP'
+- Radial Basis Function Networks 'RBFN'
+- Recurrent Neural Networks 'RNN'
+- Restricted Boltzmann Machines 'RBM'
+- Self Organizing Maps 'SOM'
+
 
 ## Handson 
 - [ML Basics with Keras](https://www.tensorflow.org/tutorials/keras/classification)
@@ -93,6 +94,7 @@ pip install -r requirements.txt
     - [Tensor Layors](https://www.katacoda.com/basiafusinska/courses/tensorflow-in-3-sentences)
     - [Deep Learning](https://www.katacoda.com/basiafusinska/courses/deep-learning-with-tensorflow)
     - [NLP with Tensorflow](https://www.katacoda.com/basiafusinska/courses/nlp-with-tensorflow)
+ - [https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) 
 
 ## Tutorials
 - [Rules of Machine Learning](https://developers.google.com//machine-learning/guides/rules-of-ml)
@@ -117,6 +119,11 @@ pip install -r requirements.txt
     - [Model examples](https://scikit-learn.org/stable/auto_examples/index.html)
     - [Metrics & Scoring info](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
+## BOOKS
+- [AI and Machine Learning for Coders](https://www.oreilly.com/library/view/ai-and-machine/9781492078180/)
+- []()
+- [The Applied TensorFlow and Keras Workshop](https://learning.oreilly.com/library/view/the-applied-tensorflow/9781800201217/)
+- [TensorFlow 2 Pocket Reference](https://learning.oreilly.com/library/view/tensorflow-2-pocket/9781492089179/)
 
 ## Developer network
 - [TF Certified Network](https://developers.google.com/certification/directory/tensorflow)

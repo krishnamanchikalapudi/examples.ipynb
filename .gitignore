@@ -15,6 +15,7 @@ TFdeveloperCertificate/data/*
 .DS_Store
 /.DS_Store
 */.DS_Store
+TEST/*
 
 *.h5
 */*.h5
