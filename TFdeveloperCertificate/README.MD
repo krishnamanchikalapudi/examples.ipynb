@@ -63,14 +63,15 @@
 - [Python 3.8+](https://www.python.org/downloads/)
 - [PyCharm IDE](https://www.jetbrains.com/pycharm/)
 
-## Python Libraries
+## Build and execute
+Execute project.sh in Mac, Linux, or Windows 'WSL'. Follow commands
 ``````
-pip install -r requirements.txt
+./project.sh
 ``````
 
 ## Deep Learning Algorithms 
 - Autoencoders
-- Convolutional Neural Networks 'CNN'
+- [:tv:](https://youtu.be/umGJ30-15_A) Convolutional Neural Networks 'CNN'
 - Deep Belief Networks 'DBN'
 - Generative Adversarial Networks 'GAN'
 - Long Short Term Memory Networks 'LSTM'
@@ -101,7 +102,7 @@ pip install -r requirements.txt
 - [TensorFlow](https://www.tensorflow.org/tutorials/quickstart/beginner)
     - [Datasets](https://www.tensorflow.org/datasets/catalog/overview)
 - [Keras](https://www.tensorflow.org/tutorials/keras/)
-    - [[Datasets](https://keras.io/api/datasets/)
+    - [Datasets](https://keras.io/api/datasets/)
 - [Numpy](https://numpy.org/learn/)
 - [Pandas](https://pandas.pydata.org/getting_started.html)
 - [Matplotlib](https://matplotlib.org/stable/gallery/index.html)
@@ -121,7 +122,6 @@ pip install -r requirements.txt
 
 ## BOOKS
 - [AI and Machine Learning for Coders](https://www.oreilly.com/library/view/ai-and-machine/9781492078180/)
-- []()
 - [The Applied TensorFlow and Keras Workshop](https://learning.oreilly.com/library/view/the-applied-tensorflow/9781800201217/)
 - [TensorFlow 2 Pocket Reference](https://learning.oreilly.com/library/view/tensorflow-2-pocket/9781492089179/)
 

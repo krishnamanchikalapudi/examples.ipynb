@@ -2,6 +2,9 @@
 # GLOBAL packages imports
 # ---------------------------
 
+# code to be executed.
+from scripts.learn.L0_prerequisite import *
+
 # common imports
 from scripts.utils.FileExten import *
 
