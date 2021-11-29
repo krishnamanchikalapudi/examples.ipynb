@@ -127,7 +127,8 @@ Execute project.sh in Mac, Linux, or Windows 'WSL'. Follow commands
 
 ## Developer network
 - [TF Certified Network](https://developers.google.com/certification/directory/tensorflow)
-
+- [TF Model examples](https://www.tensorflow.org/js/models)
+- [TF Models](https://tfhub.dev/)
 
 ## Other useful info
 - [Emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
