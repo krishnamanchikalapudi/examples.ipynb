@@ -121,9 +121,13 @@ Execute project.sh in Mac, Linux, or Windows 'WSL'. Follow commands
     - [Metrics & Scoring info](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
 ## BOOKS
+- [Deep Learning with Python, Second Edition](https://learning.oreilly.com/api/v1/continue/9781617296864/)
+- [The Deep Learning with Keras Workshop](https://learning.oreilly.com/api/v1/continue/9781800562967/)
+- [Deep Learning Patterns and Practices](https://learning.oreilly.com/api/v1/continue/9781617298264/)
+- [TensorFlow 2 Pocket Reference](https://learning.oreilly.com/library/view/tensorflow-2-pocket/9781492089179/)
 - [AI and Machine Learning for Coders](https://www.oreilly.com/library/view/ai-and-machine/9781492078180/)
 - [The Applied TensorFlow and Keras Workshop](https://learning.oreilly.com/library/view/the-applied-tensorflow/9781800201217/)
-- [TensorFlow 2 Pocket Reference](https://learning.oreilly.com/library/view/tensorflow-2-pocket/9781492089179/)
+- [Practical Machine Learning with AWS : Process, Build, Deploy, and Productionize Your Models Using AWS](https://learning.oreilly.com/api/v1/continue/9781484262221/)
 
 ## Developer network
 - [TF Certified Network](https://developers.google.com/certification/directory/tensorflow)
