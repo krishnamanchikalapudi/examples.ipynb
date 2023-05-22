@@ -15,8 +15,14 @@ cd FastChat
 pip3 install fschat
 ```````
 - Follow README.md [Method 2: From source](https://github.com/lm-sys/FastChat/blob/main/README.md#method-2-from-source) instructions
+   - MAC  
 ```````
 brew install rust cmake
+pip3 install --upgrade pip
+pip3 install -e .
+```````
+   - Linux
+```````   
 pip3 install --upgrade pip
 pip3 install -e .
 ```````
