@@ -6,7 +6,9 @@ __pycache__/
 *.tar.gz
 */.tar.gz
 */*.tar.gz
-
+*.drawio.bkp
+*/.drawio.bkp
+*/*.drawio.bkp
 TFdeveloperCertificate/data/*
 /TFdeveloperCertificate/data/*
 
