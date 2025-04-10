@@ -28,6 +28,9 @@ TEST/*
 /.idea
 */.idea
 
+PyTorch/data/
+*/data/
+
 # Distribution / packaging
 .Python
 build/
