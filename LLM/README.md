@@ -11,8 +11,16 @@ LangChain is an open source orchestration framework for the development of appli
 ## What is Ollama?
 A tool that facilitates running LLM locally on personal devices, providing the ability to load and interact with AI models such as Llama 3.2. 
 
+
 ## What is Small Language Models (SLMs)?
 SLMs are more efficient, requiring less computational power and tailored for specific tasks.
+
+
+## What is Natural Language Processing (NLP)?
+A field of artificial intelligence
+that focuses on the interaction between computers and humans using
+natural language. It enables machines to understand, interpret, and
+generate human language.
 
 
 ## What is Vector Databases?
