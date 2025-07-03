@@ -5,7 +5,11 @@ Large Language Models (LLMs) are a class of foundation models trained on vast da
 
 
 ## What is LangChain?
-LangChain is an open source orchestration framework for the development of applications using LLMs. Available in both Python- and JavaScript-based libraries, LangChain’s tools and APIs simplify the process of building LLM-driven applications like chatbots and virtual agents. 
+LangChain is an open source orchestration framework for the development of applications using LLMs. Available in both Python- and JavaScript-based libraries, LangChain’s tools and APIs simplify the process of building LLM-driven applications like chatbots and virtual agents. LangChain is a powerful and open-source Python library designed for natural language processing tasks. It facilitates easy access to a range of potent language models from providers such as OpenAI, Cohere, Huggingface Hub, and IBM watsonx, among others. Beyond mere model access, LangChain offers tools for interactive dialogues with these models, allowing for seamless human-machine conversations. We’ll use LangChain to:
+ - Connect to an AI model.
+ - Create and manage AI conversations.
+ - Build sequences of AI tasks.
+ - Use tools like web APIs alongside AI.
 
 
 ## What is Ollama?
@@ -26,3 +30,7 @@ generate human language.
 ## What is Vector Databases?
 Specialized databases used to store and query vector representations of data, particularly useful in AI applications like semantic search, where similarities between data points are computed based on their vector representations.
 
+
+## References
+- [https://python.langchain.com/api_reference/ollama](https://python.langchain.com/api_reference/ollama)
+- 
