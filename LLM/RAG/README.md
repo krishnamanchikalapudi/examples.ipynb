@@ -20,5 +20,24 @@ A typical RAG application has two main components:
     - Retrieve: Given a user input, relevant splits are retrieved from storage using a retriever.
     - Generate: A ChatModel / LLM produces an answer using a prompt that includes the question and the retrieved data.
 
+## RAG Stages
+Within the RAG framework, there are five key stages, though in this lab, we'll focus on the first four. These stages are fundamental to most larger applications you might develop. The stages include:
+<img src="./docs/stages.png">
+- Loading: This involves bringing your data into your workflow, regardless of its source—be it text files, PDFs, websites, databases, or APIs. LlamaHub offers a wide array of connectors to facilitate this process.
+- Indexing: This stage involves creating a data structure that enables efficient querying. For LLMs, this typically involves generating vector embeddings, which are numerical representations that capture the meaning of your data, along with various metadata strategies to ensure accurate and contextually relevant data retrieval.
+- Storing: After indexing, it's usually important to save your index along with associated metadata to avoid the need for re-indexing in the future.
+- Querying: Depending on your indexing strategy, there are multiple ways to utilize LLMs and LlamaIndex data structures for querying. This can include sub-queries, multi-step queries, and hybrid approaches.
+- Evaluation: An essential stage in any workflow is evaluating how effective your approach is compared to others or when adjustments are made. Evaluation offers objective metrics to assess the accuracy, fidelity, and speed of your query responses.
+
+
+## Start the notebooks
+- [RAG system for web data using ollama service with llama](./LLAMAusingWebPageWithChromaVectorDB.ipynb)
+- [Summarize private documents using RAG LangChain and LLM](./SummarizePrivateDocsUsingLLMs.ipynb)
+- []()
+
+
+<br/><br/>
+<img src="./docs/basic_rag.png">
+
 <br/><br/>
 <img src="./docs/rag.jpg">

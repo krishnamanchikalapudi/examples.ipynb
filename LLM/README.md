@@ -33,4 +33,4 @@ Specialized databases used to store and query vector representations of data, pa
 
 ## References
 - [https://python.langchain.com/api_reference/ollama](https://python.langchain.com/api_reference/ollama)
-- 
+- [https://docs.llamaindex.ai/en/stable/api_reference/llms/ollama/](https://docs.llamaindex.ai/en/stable/api_reference/llms/ollama/)
