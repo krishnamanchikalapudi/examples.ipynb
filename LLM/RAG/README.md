@@ -31,13 +31,16 @@ Within the RAG framework, there are five key stages, though in this lab, we'll f
 
 
 ## Start the notebooks
-- [RAG system for web data using ollama service with llama](./LLAMAusingWebPageWithChromaVectorDB.ipynb)
-- [Summarize private documents using RAG LangChain and LLM](./SummarizePrivateDocsUsingLLMs.ipynb)
-- []()
-
+- [RAG system for web data using ollama service with VectorDB](./RAGForWebPageUsingOllamaWithVectorDB.ipynb)
+- [Summarize private docs 'Txt' with Ollama using LangChain's PromptTemplaten](./RAGforTxtFilesUsingOllamaUsingLangChainPromptTemplate.ipynb)
+- [RAG system for PDF's using Ollama service with LlamaIndex](./RAGForPdfsUsingOllamaWithLlamaIndex.ipynb)
+- [Build a grounded Q/A Agent with Ollama service with Langchain and RAG](./BuildAroundedQuestionAndAnsAgentWithLangchainAndRAG.ipynb)
 
 <br/><br/>
-<img src="./docs/basic_rag.png">
+<img src="./docs/rag_basic.png">
+
+<br/><br/>
+<img src="./docs/rag_stages.png">
 
 <br/><br/>
 <img src="./docs/rag.jpg">
