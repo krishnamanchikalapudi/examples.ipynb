@@ -10,6 +10,9 @@ LLMs can reason about wide-ranging topics, but their knowledge is limited to pub
 
 LangChain has several components that are designed to help build Q&A applications and RAG applications, more generally.
 
+## What is a question-answering agent?
+A question-answering agent is a type of artificial intelligence system that is designed to generate responses to questions. It is typically based on an LLM that is trained on a variety of language tasks. Question-answering agents are used in a wide range of applications, including chatbots, search engines, and virtual assistants.
+
 ## RAG architecture
 A typical RAG application has two main components:
 - Indexing: A pipeline for ingesting and indexing data from a source. This usually happens offline.
@@ -34,7 +37,7 @@ Within the RAG framework, there are five key stages, though in this lab, we'll f
 - [RAG system for web data using ollama service with VectorDB](./RAGForWebPageUsingOllamaWithVectorDB.ipynb)
 - [Summarize private docs 'Txt' with Ollama using LangChain's PromptTemplaten](./RAGforTxtFilesWithOllamaUsingLangChainPromptTemplate.ipynb)
 - [RAG system for PDF's using Ollama service with LlamaIndex](./RAGForPdfsUsingOllamaWithLlamaIndex.ipynb)
-- [Build a grounded Q/A Agent with Ollama service with Langchain and RAG](./BuildAroundedQuestionAndAnsAgentWithLangchainAndRAG.ipynb)
+- [RAG build a grounded Q & A Agent with Ollama service with Langchain](./RAGbuildAroundedQuestionAndAnsAgentWithLangchain.ipynb)
 
 <br/><br/>
 <img src="./docs/rag_basic.png">
