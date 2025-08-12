@@ -38,6 +38,7 @@ Within the RAG framework, there are five key stages, though in this lab, we'll f
 - [Summarize private docs 'Txt' with Ollama using LangChain's PromptTemplaten](./RAGforTxtFilesWithOllamaUsingLangChainPromptTemplate.ipynb)
 - [RAG system for PDF's using Ollama service with LlamaIndex](./RAGForPdfsUsingOllamaWithLlamaIndex.ipynb)
 - [RAG build a grounded Q & A Agent with Ollama service with Langchain](./RAGbuildAroundedQuestionAndAnsAgentWithLangchain.ipynb)
+- [](RAGyoutubeSummarizerQuestionAndAnsGudeWithLangChain.ipynb)
 
 <br/><br/>
 <img src="./docs/rag_basic.png">
