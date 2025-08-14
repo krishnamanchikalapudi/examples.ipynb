@@ -25,8 +25,8 @@
 
 
 ## Leetcode solutions
-- Top Interview 150 prblems: https://leetcode.com/studyplan/top-interview-150/ 
-- https://leetcode.com/problem-list/2slqrfse/
+- Top Interview 150 problems: https://leetcode.com/studyplan/top-interview-150/ 
+- Blind top 75 problems: https://leetcode.com/problem-list/nbhoml55/
 
 | Problem | Difficulty | 
 | :--- | :----- | 
