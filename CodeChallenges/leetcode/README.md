@@ -28,9 +28,9 @@
 - https://leetcode.com/problem-list/nbhoml55/
 
 | Problem | Difficulty | Tags |
-| :--- | :----- | :----- | 
-| [1. Two sum](./1-two-sum.ipynb) | Easy | `Array`, `Hash Table` |
-| [3. Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters.ipynb) | Medium | `Hash Table`, `String`, `Sliding Window`|
+| :----- | :----- | :----- | 
+| [1. Two sum](./1-two-sum.ipynb) :white_check_mark: | Easy | `Array`, `Hash Table` |
+| [3. Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters.ipynb) :white_check_mark: | Medium | `Hash Table`, `String`, `Sliding Window`|
 | [5. Longest Palindromic Substring](./) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
 | [11. Container With Most Water](./) | Medium | `Array`, `Two Pointers`, `Greedy` |
 | [15. 3Sum](./) | Medium | `Array`, `Two Pointers`, `Sorting` |
@@ -106,15 +106,18 @@
 | [1143. Longest Common Subsequence](./) | Medium | `String`, `Dynamic Programming` |
 
 
-
 ## Top interview 75 coding challenges
 - https://leetcode.com/studyplan/leetcode-75/
 
 | Category | Problem | Difficulty | Tags |
-| :--- | :--- | :----- | :----- | 
+| :----- | :----- | :----- | :----- | 
 | 'Array / String' | [1768. Merge Strings Alternately](./) | Easy | `Two Pointers`, `String` |
 | 'Array / String' | [1071. Greatest Common Divisor of Strings](./) | Easy | `Math`, `String` |
-
+| '' | [](./) | Easy | ``, `` |
+| '' | [](./) | Easy | ``, `` |
+| '' | [](./) | Easy | ``, `` |
+| '' | [](./) | Easy | ``, `` |
+| '' | [](./) | Easy | ``, `` |
 
 
 
@@ -126,7 +129,118 @@
 | :--- | :--- | :----- | :----- | 
 | 'Array / String' | [88. Merge Sorted Array](./88-merge-sorted-array.ipynb) | Easy | `Array`, `Two Pointers`, `Sorting` |
 | 'Array / String' | [27. Remove Element](./27-remove-element.ipynb) | Easy | `Array`, `Two Pointers` |
+| '' | [](./) | Easy | ``, `` |
+| '' | [](./) | Easy | ``, `` |
+| '' | [](./) | Easy | ``, `` |
+| '' | [](./) | Easy | ``, `` |
+| '' | [](./) | Easy | ``, `` |
 
+
+## Premium Algorithm 100
+- https://leetcode.com/studyplan/premium-algo-100/
+
+| Category | Problem | Difficulty | Tags |
+| :----- | :----- | :----- | :----- | 
+| 'Array / String' | [624.Maximum Distance in Arrays](./) | Medium | `Array`, `Greedy` |
+| 'Array / String' | [280. Wiggle Sort](./) | Medium | `Array`, `Greedy`, `Sorting` |
+| 'Array / String' | [1056. Confusing Number](./) | Easy | `Math` |
+| 'Array / String' | [1427. Perform String Shifts](./) | Easy | `Array`, `Math`, `String` |
+| 'Array / String' | [161. One Edit Distance](./) | Medium | `Two Pointers`, `String` |
+| 'Array / String' | [186. Reverse Words in a String II](./) | Medium | `Two Pointers`, `String` |
+| 'Array / String' | [1055. Shortest Way to Form String](./) | Medium | `Two Pointers`, `String`, `Binary Search`, `Greedy` |
+| 'Sliding Window' | [159. Longest Substring with At Most Two Distinct Characters](./) | Medium | `Hash Table`, `String`, `Sliding Window` |
+| 'Sliding Window' | [340. Longest Substring with At Most K Distinct Characters](./) | Medium | `Hash Table`, `String`, `Sliding Window` |
+| 'Sliding Window' | [487. Max Consecutive Ones II](./) | Medium | `Array`, `Dynamic Programming`, `Sliding Window` |
+| 'Sliding Window' | [1100. Find K-Length Substrings With No Repeated Characters](./) | Medium | `Hash Table`, `String`, `Sliding Window` |
+| 'Hashing' | [760. Find Anagram Mappings](./) | Easy | `Array`, `Hash Table` |
+| 'Hashing' | [266. Palindrome Permutation](./) | Easy | `Hash Table`, `String`, `Bit Manipulation` |
+| 'Hashing' | [734. Sentence Similarity](./) | Easy | `Array`, `Hash Table`, `String` |
+| 'Hashing' | [1165. Single-Row Keyboard](./) | Easy | `Hash Table`, `String` |
+| 'Hashing' | [249. Group Shifted Strings](./) | Medium | `Array`, `Hash Table`, `String` |
+| 'Hashing' | [1133. Largest Unique Number](./) | Easy | `Array`, `Hash Table`, `Sorting` |
+| 'Hashing' | [1426. Counting Elements](./) | Easy | `ArrayHash Table` |
+| 'Hashing' | [1198. Find Smallest Common Element in All Rows](./) | Medium | `Array`, `Hash Table`, `Binary Search`, `Matrix`, `Counting` |
+| 'Matrix' | [422. Valid Word Square](./) | Easy | `Array`, `Matrix` |
+| 'Matrix' | [531. Lonely Pixel I](./) | Medium | `Array`, `Hash Table`, `Matrix` |
+| 'Matrix' | [311. Sparse Matrix Multiplication](./) | Medium | `Array`, `Hash Table`, `Matrix` |
+| 'Matrix' | [723. Candy Crush](./) | Medium | `Array`, `Two Pointers`, `Matrix`, `Simulation` |
+| 'Intervals' | [163. Missing Ranges](./) | Easy | `Array` |
+| 'Intervals' | [252. Meeting Rooms](./) | Easy | `Array`, `Sorting` |
+| 'Intervals' | [253. Meeting Rooms II](./) | Medium | `Array`, `Two Pointers`, `Greedy`, `Storing`, `Heap (Priority Queue)`, `Prefix Sum` |
+| 'Intervals' | [616Add Bold Tag in String](./) | Medium | `Array`, `Hash Table`, `String`, `Trie`, `String Matching` |
+| 'Intervals' | [1272. Remove Interval](./) | Medium | `Array` |
+| 'Stack' | [439. Ternary Expression Parser](./) | Medium | `String`, `Stack`, `Recursion` |
+| 'Stack' | [484. Find Permutation](./) | Medium | `Array`, `String`, `Stack`, `Greedy` |
+| 'Stack' | [772. Basic Calculator III](./) |Hard  | `Math`, `String`, `Stack`, `Recursion` |
+| 'Queue' | [346. Moving Average from Data Stream](./) | Easy | `Array`, `Design`, `Queue`, `Data Stream` |
+| 'Queue' | [1429. First Unique Number](./) | Medium | `Array`, `Hash Table`, `Design`, `Queue`, `Data Stream` |
+| 'Linked Lists' | [1474. Delete N Nodes After M Nodes of a Linked List](./) | Easy | `Linked List` |
+| 'Linked Lists' | [708. Insert into a Sorted Circular Linked List](./) | Medium | `Linked List` |
+| 'Linked Lists' | [369. Plus One Linked List](./) | Medium | `Linked List`, `Math` |
+| 'Linked Lists' | [1265. Print Immutable Linked List in Reverse](./) | Medium | `Linked List`, `Two Pointers`, `Stack`, `Recursion` |
+| 'Binary Tree - General' | [298. Binary Tree Longest Consecutive Sequence](./) | Medium | `TreeDepth-First Search`, `Binary Tree` |
+| 'Binary Tree - General' | [549. Binary Tree Longest Consecutive Sequence II](./) | Medium | `TreeDepth-First Search`, `Binary Tree` |
+| 'Binary Tree - General' | [250. Count Univalue Subtrees](./) | Medium | `Tree`, `Depth-First Search`, `Binary Tree` |
+| 'Binary Tree - General' | [1120. Maximum Average Subtree](./) | Medium | `Tree`, `Depth-First Search`, `Binary Tree` |
+| 'Binary Tree - General' | [545. Boundary of Binary Tree](./) | Medium | `Tree`, `Depth-First Search`, `Binary Tree` |
+| 'Binary Tree - General' | [366. Find Leaves of Binary Tree](./) | Medium | `Tree`, `Depth-First Search`, `Binary Tree` |
+| 'Binary Tree - General' | [314. Binary Tree Vertical Order Traversal](./) | Medium | `Hash Table`, `Tree`, `Depth-First Search`,`Breadth-First Search`, `Sorting`, `Binary Tree` |
+| 'Binary Search Tree' | [270. Closest Binary Search Tree Value](./) | Easy | `Binary Search`,`Tree`,`Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
+| 'Binary Search Tree' | [272. Closest Binary Search Tree Value II](./) | Hard | `Two Pointers`, `Stack`, `Tree`,`Depth-First Search`, `Binary Search Tree`, `Heap (Priority Queue)`, `Binary Tree` |
+| 'Binary Search Tree' | [255. Verify Preorder Sequence in Binary Search Tree](./) | Medium | `Array`, `Stack`, `Tree`, `Binary Search Tree`, `Recursion`, `Monotonic Stack`, `Binary Tree` |
+| 'Binary Search Tree' | [1214. Two Sum BSTs](./) | Medium | `Two Pointers`, `Binary Search`, `Stack`, `Tree`,`Depth-First Search`, `Binary Search`, `Binary Tree` |
+| 'Binary Search Tree' | [333. Largest BST Subtree](./) | Medium | `Dynamic Programming`, `Tree`, `Depth-First Search`,  `Binary Search Tree`, `Binary Tree` |
+| 'N-ary Tree' | [1490. Clone N-ary Tree](./) | Medium | `Hash Table`, `Tree`, `Depth-First Search`, `Breadth-First Search` |
+| 'N-ary Tree' | [1506. Find Root of N-Ary Tree](./) | Medium | `Hash Table`, `Bit Manipulation`, `Tree`, `Depth-First Search` |
+| 'N-ary Tree' | [1522. Diameter of N-Ary Tree](./) | Medium | `Tree`, `Depth-First Search` |
+| 'Graph - General' | [277. Find the Celebrity](./) | Medium | `Two Pointers`, `Graph`, `Interactive` |
+| 'Graph - General' | [582. Kill Process](./) | Medium | `Array`, `Hash Table`, `Tree`, `Depth-First Search`, `Breadth-First Search` |
+| 'Graph - General' | [323. Number of Connected Components in an Undirected Graph](./) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` |
+| 'Graph - General' | [1059. All Paths from Source Lead to Destination](./) | Medium | `Graph`, `Topological Sort` |
+| 'Graph - General' | [1236. Web Crawler](./) | Medium | `String`, `Depth-First Search`, `Breadth-First Search`, Interactive` |
+| 'Graph - General' | [305. Number of Islands II](./) | Hard | `Array`, `Hash Table`, `Union Find` |
+| 'Graph - General' | [694. Number of Distinct Islands](./) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Hash Function` |
+| 'Graph - General' | [1136. Parallel Courses](./) | Medium | `Graph`, `Topological Sort` |
+| 'Graph - BFS' | [490. The Maze](./) | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
+| 'Graph - BFS' | [505. The Maze II](./) | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Graph`,`Heap (Priority Queue)`, `Matrix`, `Shortest Path` |
+| 'Graph - BFS' | [499. The Maze III](./) | Hard | `Array`, `String`, `Depth-First Search`, `Breadth-First Search`, `Graph`,`Heap (Priority Queue)`, `Matrix`, `Shortest Path` |
+| 'Graph - BFS' | [1197.Minimum Knight Moves](./) | Medium | `Breadth-First Search` |
+| 'Graph - BFS' | [286. Walls and Gates](./) | Medium | `Array`, `Breadth-First Search`, `Matrix` |
+| 'Graph - BFS' | [317. Shortest Distance from All Buildings](./) | Hard | `Array`, `Breadth-First Search`, `Matrix` |
+| 'Graph - BFS' | [269. Alien Dictionary](./) | Hard | `ArrayStringDepth-First Search`, `Breadth-First Search`, `Graph`, `Topological Sort` |
+| 'Trie' | [588. Design In-Memory File System](./) | Hard | `Hash Table`, `String`, `Design`, `Trie`, `Sorting` |
+| 'Trie' | [642. Design Search Autocomplete System](./) | Hard | `String`, `Depth-First Search`, `Design`, `Trie`, `Sorting`, `Heap (Priority Queue)`, `Data Stream` |
+| 'Heap' | [1086. High Five](./) | Easy | `ArrayHash TableSorting`, `Heap (Priority Queue)` |
+| 'Heap' | [1167. Minimum Cost to Connect Sticks](./) | Medium | `Array`, `Greedy`, `Heap (Priority Queue)` |
+| 'Heap' | [1057. Campus Bikes](./) | Medium | `Array`, `Sorting`, `Heap (Priority Queue)` |
+| 'Heap' | [358. Rearrange String k Distance Apart](./) | Hard | `Hash Table`, `String`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Counting` |
+| 'Binary Search' | [1228. Missing Number In Arithmetic Progression](./) | Easy | `Array`, `Math` |
+| 'Binary Search' | [1060. Missing Element in Sorted Array](./) | Medium | `Array`, `Binary Search` |
+| 'Binary Search' | [1533. Find the Index of the Large Integer](./) | Medium | `Array`, `Binary Search`, `Interactive` |
+| 'Binary Search' | [1150. Check If a Number Is Majority Element in a Sorted Array](./) | Easy | `Array`, `Binary Search` |
+| 'Binary Search' | [1231. Divide Chocolate](./) | Hard | `Array`, `Binary Search` |
+| 'Binary Search' | [644. Maximum Average Subarray II](./) | Hard | `Array`, `Binary Search`, `Prefix Sum` |
+| 'Design' | [348. Design Tic-Tac-Toe](./) | Medium | `Array`, `Hash Table`, `Design`, `Matrix`, `Simulation` |
+| 'Design' | [353. Design Snake Game](./) | Medium | `Array`, `Hash Table`, `Design`, `Queue`, `Simulation` |
+| 'Design' | [604. Design Compressed String Iterator](./) | Easy | `Array`, `String`, `Design` |
+| 'Design' | [271. Encode and Decode Strings](./) | Medium | `Array`, `String`, `Design` |
+| 'Design' | [281. Zigzag Iterator](./) | Medium | `Array`, `Design`, `Queue`, `Iterator` |
+| 'Design' | [716. Max Stack](./) | Hard | `Linked List`, `Stack`, `Design`, `Doubly-Linked List`, `Ordered Set` |
+| 'Design' | [1244. Design A Leaderboard](./) | Medium | `Hash Table`, `Design`, `Sorting` |
+| 'Design' | [428. Serialize and Deserialize N-ary Tree](./) | Hard | `String`, `Tree`, `Depth-First Search`, `Breath-First Search` |
+| 'Design' | [431. Encode N-ary Tree to Binary Tree](./) | Hard | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Design`, `Binary Tree` |
+| 'Backtracking' | [247. Strobogrammatic Number II](./) | Medium | `Array`, `String`, `Recursion` |
+| 'Backtracking' | [254. Factor Combinations](./) | Medium | `Backtracking` |
+| 'Backtracking' | [1087. Brace Expansion](./) | Medium | `String`, `Backtracking`, `Breadth-First Search` |
+| 'Dynamic Programming' | [276. Paint Fence](./) | Medium | `Dynamic Programming` |
+| 'Dynamic Programming' | [256. Paint House](./) | Medium | `Array`, `Dynamic Programming` |
+| 'Dynamic Programming' | [265. Paint House II](./) | Hard | `Array`, `Dynamic Programming` |
+| 'Dynamic Programming' | [651. 4 Keys Keyboard](./) | Medium | `Math`, `Dynamic Programming` |
+| 'Dynamic Programming' | [1259. Handshakes That Don't Cross](./) | Hard | `Math`, `Dynamic Programming` |
+| 'Math' | [1134. Armstrong Number](./) | Easy | `Math` |
+| 'Math' | [1180. Count Substrings with Only One Distinct Letter](./) | Easy | `MathS`, `tring` |
+| 'Math' | [1538. Guess the Majority in a Hidden Array](./) | Medium | `Array`, `Math`, `Interactive`` |
+| 'Math' | [1183. Maximum Number of Ones](./) | Hard | `Math`, `Greedy`, `Sorting`, `Heap (Priority Queue)` |
 
 
 <!--

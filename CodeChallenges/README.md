@@ -27,3 +27,6 @@
 </a>
 
 <br />
+
+- [LeetCode problem list](./leetcode/README.md)
+- [HackerRank problem list](./hackerrank/README.md)

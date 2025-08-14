@@ -5,8 +5,16 @@
 
 | Category | Problem | Difficulty | Tags |
 | :--- | :--- | :----- | :----- | 
-| 'Array / String' | [1768. Merge Strings Alternately](./) | Easy | `Two Pointers` `String` |
-| 'Array / String' | [1071. Greatest Common Divisor of Strings](./) | Easy | `Math` `String` |
+| 'Array / String' | [1768. Merge Strings Alternately](./) | Easy | `Two Pointers`, `String` |
+| 'Array / String' | [1071. Greatest Common Divisor of Strings](./) | Easy | `Math`, `String` |
+
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
 
 
 Kids With the Greatest Number of Candies
@@ -39,6 +47,14 @@ Solution
 Medium
 
 # 334ArrayGreedy
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 String Compression
 Solution
 Medium
@@ -71,6 +87,14 @@ Solution
 Easy
 
 # 643ArraySliding Window
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Maximum Number of Vowels in a Substring of Given Length
 Solution
 Medium
@@ -108,6 +132,14 @@ Solution
 Easy
 
 # 1207ArrayHash Table
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Determine if Two Strings Are Close
 Solution
 Medium
@@ -145,6 +177,14 @@ Solution
 Medium
 
 # 649StringGreedyQueue
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Linked List
 Delete the Middle Node of a Linked List
 Solution
@@ -177,6 +217,14 @@ Solution
 Easy
 
 # 872TreeDepth-First SearchBinary Tree
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Count Good Nodes in Binary Tree
 Solution
 Medium
@@ -208,6 +256,14 @@ Solution
 Medium
 
 # 1161TreeDepth-First SearchBreadth-First Search1+
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Binary Search Tree
 Search in a Binary Search Tree
 Solution
@@ -246,6 +302,14 @@ Solution
 Medium
 
 # 1926ArrayBreadth-First SearchMatrix
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Rotting Oranges
 Solution
 Medium
@@ -272,6 +336,14 @@ Solution
 Medium
 
 # 2462ArrayTwo PointersHeap (Priority Queue)1+
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Binary Search
 Guess Number Higher or Lower
 Solution
@@ -299,6 +371,14 @@ Solution
 Medium
 
 # 17Hash TableStringBacktracking
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Combination Sum III
 Solution
 Medium
@@ -341,6 +421,14 @@ Solution
 Medium
 
 # 714ArrayDynamic ProgrammingGreedy
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Edit Distance
 Solution
 Medium
@@ -373,6 +461,14 @@ Solution
 Medium
 
 # 1268ArrayStringBinary Search3+
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Intervals
 Non-overlapping Intervals
 Solution
@@ -395,3 +491,12 @@ Solution
 Medium
 
 # 901StackDesignMonotonic Stack1+
+
+
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |

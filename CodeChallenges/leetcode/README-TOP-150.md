@@ -9,6 +9,14 @@
 | 'Array / String' | [27. Remove Element](./27-remove-element.ipynb) | Easy | `Array` `Two Pointers` |
 
 
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
+
 
 Remove Duplicates from Sorted Array
 Solution
@@ -55,6 +63,14 @@ Solution
 Medium
 
 # 274ArraySortingCounting Sort
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Insert Delete GetRandom O(1)
 Solution
 Medium
@@ -100,6 +116,14 @@ Solution
 Easy
 
 # 14ArrayStringTrie
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Reverse Words in a String
 Solution
 Medium
@@ -133,6 +157,14 @@ Solution
 Medium
 
 # 167ArrayTwo PointersBinary Search
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Container With Most Water
 Solution
 Medium
@@ -172,6 +204,14 @@ Solution
 Medium
 
 # 36ArrayHash TableMatrix
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Spiral Matrix
 Solution
 Medium
@@ -202,6 +242,14 @@ Solution
 Easy
 
 # 205Hash TableString
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Word Pattern
 Solution
 Easy
@@ -232,6 +280,14 @@ Solution
 Easy
 
 # 219ArrayHash TableSliding Window
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Longest Consecutive Sequence
 Solution
 Medium
@@ -267,6 +323,14 @@ Solution
 Medium
 
 # 71StringStack
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Min Stack
 Solution
 Medium
@@ -290,6 +354,14 @@ Solution
 Medium
 
 # 2Linked ListMathRecursion
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Merge Two Sorted Lists
 Solution
 Easy
@@ -330,6 +402,14 @@ Solution
 Medium
 
 # 86Linked ListTwo Pointers
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 LRU Cache
 Solution
 Medium
@@ -359,6 +439,14 @@ Solution
 Medium
 
 # 105ArrayHash TableDivide and Conquer2+
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Construct Binary Tree from Inorder and Postorder Traversal
 Solution
 Medium
@@ -384,6 +472,14 @@ Solution
 Medium
 
 # 129TreeDepth-First SearchBinary Tree
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Binary Tree Maximum Path Sum
 Solution
 Hard
@@ -412,6 +508,14 @@ Solution
 Easy
 
 # 637TreeDepth-First SearchBreadth-First Search1+
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Binary Tree Level Order Traversal
 Solution
 Medium
@@ -443,6 +547,14 @@ Solution
 Medium
 
 # 130ArrayDepth-First SearchBreadth-First Search2+
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Clone Graph
 Solution
 Medium
@@ -458,6 +570,14 @@ Solution
 Medium
 
 # 207Depth-First SearchBreadth-First SearchGraph1+
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Course Schedule II
 Solution
 Medium
@@ -499,6 +619,14 @@ Solution
 Medium
 
 # 77Backtracking
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Permutations
 Solution
 Medium
@@ -533,6 +661,14 @@ Solution
 Medium
 
 # 148Linked ListTwo PointersDivide and Conquer2+
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Construct Quad Tree
 Solution
 Medium
@@ -562,6 +698,14 @@ Solution
 Medium
 
 # 74ArrayBinary SearchMatrix
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Find Peak Element
 Solution
 Medium
@@ -597,6 +741,14 @@ Solution
 Hard
 
 # 502ArrayGreedySorting1+
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Find K Pairs with Smallest Sums
 Solution
 Medium
@@ -626,6 +778,14 @@ Solution
 Easy
 
 # 136ArrayBit Manipulation
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Single Number II
 Solution
 Medium
@@ -659,6 +819,14 @@ Solution
 Medium
 
 # 50MathRecursion
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Max Points on a Line
 Solution
 Hard
@@ -682,6 +850,14 @@ Solution
 Medium
 
 # 322ArrayDynamic ProgrammingBreadth-First Search
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Longest Increasing Subsequence
 Solution
 Medium
@@ -711,6 +887,14 @@ Solution
 Medium
 
 # 97StringDynamic Programming
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+
 Edit Distance
 Solution
 Medium
@@ -731,3 +915,11 @@ Solution
 Medium
 
 # 221ArrayDynamic ProgrammingMatrix
+
+
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
+| '' | [](./) |  | ``, `` |
