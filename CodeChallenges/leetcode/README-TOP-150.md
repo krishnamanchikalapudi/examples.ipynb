@@ -3,18 +3,18 @@
 
 ## Problem list
 
-| Category | Problem | Difficulty | Tags |
-| :--- | :--- | :----- | :----- | 
-| 'Array / String' | [88. Merge Sorted Array](./88-merge-sorted-array.ipynb) | Easy | `Array` `Two Pointers` `Sorting` |
-| 'Array / String' | [27. Remove Element](./27-remove-element.ipynb) | Easy | `Array` `Two Pointers` |
+| Category | Solved | Problem | Difficulty | Tags |
+| :--- | :--- | :----- | :----- |  :----- | 
+| 'Array / String' | :negative_squared_cross_mark: | [88. Merge Sorted Array](./88-merge-sorted-array.ipynb) | Easy | `Array` `Two Pointers` `Sorting` |
+| 'Array / String' | :negative_squared_cross_mark: | [27. Remove Element](./27-remove-element.ipynb) | Easy | `Array` `Two Pointers` |
 
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 
 
@@ -64,12 +64,12 @@ Medium
 
 # 274ArraySortingCounting Sort
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Insert Delete GetRandom O(1)
 Solution
@@ -117,12 +117,12 @@ Easy
 
 # 14ArrayStringTrie
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Reverse Words in a String
 Solution
@@ -146,7 +146,7 @@ Hard
 # 68ArrayStringSimulation
 
 
-| 'Two Pointers' | [125. Valid Palindrome](./) | Easy | `Two Pointers` `String` |
+| 'Two Pointers' | :negative_squared_cross_mark: | [125. Valid Palindrome](./) | Easy | `Two Pointers` `String` |
 Is Subsequence
 Solution
 Easy
@@ -158,12 +158,12 @@ Medium
 
 # 167ArrayTwo PointersBinary Search
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Container With Most Water
 Solution
@@ -178,7 +178,7 @@ Medium
 
 
 
-| 'Sliding Window' | [209. Minimum Size Subarray Sum](./) | Easy | `TArray` `Binary Search` `Sliding Window` `Prefix Sum` |
+| 'Sliding Window' | :negative_squared_cross_mark: | [209. Minimum Size Subarray Sum](./) | Easy | `TArray` `Binary Search` `Sliding Window` `Prefix Sum` |
 
 Longest Substring Without Repeating Characters
 Solution
@@ -197,7 +197,7 @@ Hard
 # 76Hash TableStringSliding Window
 Matrix
 
-| 'Sliding Window' | [209. Minimum Size Subarray Sum](./) | Easy | `TArray` `Binary Search` `Sliding Window` `Prefix Sum` |
+| 'Sliding Window' | :negative_squared_cross_mark: | [209. Minimum Size Subarray Sum](./) | Easy | `TArray` `Binary Search` `Sliding Window` `Prefix Sum` |
 
 Valid Sudoku
 Solution
@@ -205,12 +205,12 @@ Medium
 
 # 36ArrayHash TableMatrix
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Spiral Matrix
 Solution
@@ -234,7 +234,7 @@ Medium
 # 289ArrayMatrixSimulation
 
 
-| 'Hashmap' | [383. Ransom Note](./) | Easy | `Hash Table` `String` `Counting` |
+| 'Hashmap' | :negative_squared_cross_mark: | [383. Ransom Note](./) | Easy | `Hash Table` `String` `Counting` |
 
 
 Isomorphic Strings
@@ -243,12 +243,12 @@ Easy
 
 # 205Hash TableString
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Word Pattern
 Solution
@@ -281,12 +281,12 @@ Easy
 
 # 219ArrayHash TableSliding Window
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Longest Consecutive Sequence
 Solution
@@ -295,7 +295,7 @@ Medium
 # 128ArrayHash TableUnion Find
 
 
-| 'Intervals' | [228. Summary Ranges](./) | Easy | `Array` |
+| 'Intervals' | :negative_squared_cross_mark: | [228. Summary Ranges](./) | Easy | `Array` |
 
 
 Merge Intervals
@@ -315,7 +315,7 @@ Medium
 # 452ArrayGreedySorting
 
 
-| 'Stack' | [20. Valid Parentheses](./) | Easy | `String` `Stack` |
+| 'Stack' | :negative_squared_cross_mark: | [20. Valid Parentheses](./) | Easy | `String` `Stack` |
 
 # StringStack
 Simplify Path
@@ -324,12 +324,12 @@ Medium
 
 # 71StringStack
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Min Stack
 Solution
@@ -347,7 +347,7 @@ Hard
 
 # 224MathStringStack1+
 
-| 'Linked List' | [141. Linked List Cycle](./) | Easy | `Hash Table` `Linked List` `Two Pointers` |
+| 'Linked List' | :negative_squared_cross_mark: | [141. Linked List Cycle](./) | Easy | `Hash Table` `Linked List` `Two Pointers` |
 
 Add Two Numbers
 Solution
@@ -355,12 +355,12 @@ Medium
 
 # 2Linked ListMathRecursion
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Merge Two Sorted Lists
 Solution
@@ -403,12 +403,12 @@ Medium
 
 # 86Linked ListTwo Pointers
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 LRU Cache
 Solution
@@ -417,7 +417,7 @@ Medium
 # 146Hash TableLinked ListDesign1+
 
 
-| 'Binary Tree General' | [104. Maximum Depth of Binary Tree](./) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
+| 'Binary Tree General' | :negative_squared_cross_mark: | [104. Maximum Depth of Binary Tree](./) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
 
 Same Tree
 Solution
@@ -440,12 +440,12 @@ Medium
 
 # 105ArrayHash TableDivide and Conquer2+
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Construct Binary Tree from Inorder and Postorder Traversal
 Solution
@@ -473,12 +473,12 @@ Medium
 
 # 129TreeDepth-First SearchBinary Tree
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Binary Tree Maximum Path Sum
 Solution
@@ -501,7 +501,7 @@ Medium
 
 # 236TreeDepth-First SearchBinary Tree
 
-| 'Binary Tree BFS' | [199. Binary Tree Right Side View](./) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
+| 'Binary Tree BFS' | :negative_squared_cross_mark: | [199. Binary Tree Right Side View](./) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
 
 Average of Levels in Binary Tree
 Solution
@@ -509,12 +509,12 @@ Easy
 
 # 637TreeDepth-First SearchBreadth-First Search1+
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Binary Tree Level Order Traversal
 Solution
@@ -527,7 +527,7 @@ Medium
 
 # 103TreeBreadth-First SearchBinary Tree
 
-| 'Binary Search Tree' | [530. Minimum Absolute Difference in BST](./) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Search Tree` `Binary Tree` |
+| 'Binary Search Tree' | :negative_squared_cross_mark: | [530. Minimum Absolute Difference in BST](./) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Search Tree` `Binary Tree` |
 
 Kth Smallest Element in a BST
 Solution
@@ -540,7 +540,7 @@ Medium
 
 # 98TreeDepth-First SearchBinary Search Tree1+
 
-| 'Graph General' | [200. Number of Islands](./) | Easy | `Array` `Depth-First Search` `Breadth-First Search` `Union Find` `Matrix` |
+| 'Graph General' | :negative_squared_cross_mark: | [200. Number of Islands](./) | Easy | `Array` `Depth-First Search` `Breadth-First Search` `Union Find` `Matrix` |
 
 Surrounded Regions
 Solution
@@ -548,12 +548,12 @@ Medium
 
 # 130ArrayDepth-First SearchBreadth-First Search2+
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Clone Graph
 Solution
@@ -571,12 +571,12 @@ Medium
 
 # 207Depth-First SearchBreadth-First SearchGraph1+
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Course Schedule II
 Solution
@@ -584,7 +584,7 @@ Medium
 
 # 210Depth-First SearchBreadth-First SearchGraph1+
 
-| 'Graph BFS' | [909. Snakes and Ladders](./) | Easy | `Array` `Breadth-First Search` `Matrix` |
+| 'Graph BFS' | :negative_squared_cross_mark: | [909. Snakes and Ladders](./) | Easy | `Array` `Breadth-First Search` `Matrix` |
 
 
 Minimum Genetic Mutation
@@ -598,7 +598,7 @@ Hard
 
 # 127Hash TableStringBreadth-First Search
 
-| 'Trie' | [208. Implement Trie (Prefix Tree)](./) | Medium | `Hash Table` `String` `Design` `Trie` |
+| 'Trie' | :negative_squared_cross_mark: | [208. Implement Trie (Prefix Tree)](./) | Medium | `Hash Table` `String` `Design` `Trie` |
 
 Design Add and Search Words Data Structure
 Solution
@@ -611,7 +611,7 @@ Hard
 
 # 212ArrayStringBacktracking2+
 
-| 'Backtracking' | [17. Letter Combinations of a Phone Number](./) | Medium | `Hash Table` `String` `Backtracking` |
+| 'Backtracking' | :negative_squared_cross_mark: | [17. Letter Combinations of a Phone Number](./) | Medium | `Hash Table` `String` `Backtracking` |
 
 
 Combinations
@@ -620,12 +620,12 @@ Medium
 
 # 77Backtracking
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Permutations
 Solution
@@ -653,7 +653,7 @@ Medium
 
 # 79ArrayStringBacktracking2+
 
-| 'Divide & Conquer' | [108. Convert Sorted Array to Binary Search Tree](./) | Easy | `Array` `Divide and Conquer` `Tree` `Binary Search Tree` `Binary Tree` |
+| 'Divide & Conquer' | :negative_squared_cross_mark: | [108. Convert Sorted Array to Binary Search Tree](./) | Easy | `Array` `Divide and Conquer` `Tree` `Binary Search Tree` `Binary Tree` |
 
 
 Sort List
@@ -662,12 +662,12 @@ Medium
 
 # 148Linked ListTwo PointersDivide and Conquer2+
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Construct Quad Tree
 Solution
@@ -681,7 +681,7 @@ Hard
 # 23Linked ListDivide and ConquerHeap (Priority Queue)1+
 
 
-| 'Kadane's Algorithm' | [53. Maximum Subarray](./) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
+| 'Kadane's Algorithm' | :negative_squared_cross_mark: | [53. Maximum Subarray](./) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
 
 
 Maximum Sum Circular Subarray
@@ -690,7 +690,7 @@ Medium
 
 # 918ArrayDivide and ConquerDynamic Programming2+
 
-| 'Binary Search' | [35. Search Insert Position](./) | Easy | `Array` `Binary Search` |
+| 'Binary Search' | :negative_squared_cross_mark: | [35. Search Insert Position](./) | Easy | `Array` `Binary Search` |
 
 
 Search a 2D Matrix
@@ -699,12 +699,12 @@ Medium
 
 # 74ArrayBinary SearchMatrix
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Find Peak Element
 Solution
@@ -733,7 +733,7 @@ Hard
 # 4ArrayBinary SearchDivide and Conquer
 
 
-| 'Heap' | [215. Kth Largest Element in an Array](./) | Medium | `Array` `Divide and Conquer` `Sorting` `Heap (Priority Queue)` `Quickselect` |
+| 'Heap' | :negative_squared_cross_mark: | [215. Kth Largest Element in an Array](./) | Medium | `Array` `Divide and Conquer` `Sorting` `Heap (Priority Queue)` `Quickselect` |
 
 
 IPO
@@ -742,12 +742,12 @@ Hard
 
 # 502ArrayGreedySorting1+
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Find K Pairs with Smallest Sums
 Solution
@@ -760,7 +760,7 @@ Hard
 
 # 295Two PointersDesignSorting2+
 
-| 'Bit Manipulation' | [67. Add Binary](./) | Easy | `Math` `String` `Bit Manipulation` `Simulation` |
+| 'Bit Manipulation' | :negative_squared_cross_mark: | [67. Add Binary](./) | Easy | `Math` `String` `Bit Manipulation` `Simulation` |
 
 
 Reverse Bits
@@ -779,12 +779,12 @@ Easy
 
 # 136ArrayBit Manipulation
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Single Number II
 Solution
@@ -797,7 +797,7 @@ Medium
 
 # 201Bit Manipulation
 
-| 'Math' | [9. Palindrome Number](./) | Easy | `Math` |
+| 'Math' | :negative_squared_cross_mark: | [9. Palindrome Number](./) | Easy | `Math` |
 
 Plus One
 Solution
@@ -820,12 +820,12 @@ Medium
 
 # 50MathRecursion
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Max Points on a Line
 Solution
@@ -833,7 +833,7 @@ Hard
 
 # 149ArrayHash TableMath1+
 
-| '1D DP' | [70. Climbing Stairs](./) | Easy | `Math` `Dynamic Programming` `Memoization` |
+| '1D DP' | :negative_squared_cross_mark: | [70. Climbing Stairs](./) | Easy | `Math` `Dynamic Programming` `Memoization` |
 
 House Robber
 Solution
@@ -851,12 +851,12 @@ Medium
 
 # 322ArrayDynamic ProgrammingBreadth-First Search
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Longest Increasing Subsequence
 Solution
@@ -864,7 +864,7 @@ Medium
 
 # 300ArrayBinary SearchDynamic Programming
 
-| 'Multidimensional DP' | [120. Triangle](./) | Medium | `Array` `Dynamic Programming`  |
+| 'Multidimensional DP' | :negative_squared_cross_mark: | [120. Triangle](./) | Medium | `Array` `Dynamic Programming`  |
 
 
 Minimum Path Sum
@@ -888,12 +888,12 @@ Medium
 
 # 97StringDynamic Programming
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Edit Distance
 Solution
@@ -917,9 +917,9 @@ Medium
 # 221ArrayDynamic ProgrammingMatrix
 
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |

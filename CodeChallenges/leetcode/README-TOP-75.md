@@ -3,18 +3,18 @@
 
 ## Problem list
 
-| Category | Problem | Difficulty | Tags |
-| :--- | :--- | :----- | :----- | 
-| 'Array / String' | [1768. Merge Strings Alternately](./) | Easy | `Two Pointers`, `String` |
-| 'Array / String' | [1071. Greatest Common Divisor of Strings](./) | Easy | `Math`, `String` |
+| Category | Solved | Problem | Difficulty | Tags |
+| :--- | :--- | :----- | :----- | :----- | 
+| 'Array / String' | :negative_squared_cross_mark: | [1768. Merge Strings Alternately](./) | Easy | `Two Pointers`, `String` |
+| 'Array / String' | :negative_squared_cross_mark: | [1071. Greatest Common Divisor of Strings](./) | Easy | `Math`, `String` |
 
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 
 Kids With the Greatest Number of Candies
@@ -48,12 +48,12 @@ Medium
 
 # 334ArrayGreedy
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 String Compression
 Solution
@@ -88,12 +88,12 @@ Easy
 
 # 643ArraySliding Window
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Maximum Number of Vowels in a Substring of Given Length
 Solution
@@ -133,12 +133,12 @@ Easy
 
 # 1207ArrayHash Table
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Determine if Two Strings Are Close
 Solution
@@ -178,12 +178,12 @@ Medium
 
 # 649StringGreedyQueue
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Linked List
 Delete the Middle Node of a Linked List
@@ -218,12 +218,12 @@ Easy
 
 # 872TreeDepth-First SearchBinary Tree
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Count Good Nodes in Binary Tree
 Solution
@@ -257,12 +257,12 @@ Medium
 
 # 1161TreeDepth-First SearchBreadth-First Search1+
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Binary Search Tree
 Search in a Binary Search Tree
@@ -303,12 +303,12 @@ Medium
 
 # 1926ArrayBreadth-First SearchMatrix
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Rotting Oranges
 Solution
@@ -337,12 +337,12 @@ Medium
 
 # 2462ArrayTwo PointersHeap (Priority Queue)1+
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Binary Search
 Guess Number Higher or Lower
@@ -372,12 +372,12 @@ Medium
 
 # 17Hash TableStringBacktracking
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Combination Sum III
 Solution
@@ -422,12 +422,12 @@ Medium
 
 # 714ArrayDynamic ProgrammingGreedy
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Edit Distance
 Solution
@@ -462,12 +462,12 @@ Medium
 
 # 1268ArrayStringBinary Search3+
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
 
 Intervals
 Non-overlapping Intervals
@@ -494,9 +494,9 @@ Medium
 
 
 
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
-| '' | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
+| '' | :negative_squared_cross_mark: | [](./) |  | ``, `` |
