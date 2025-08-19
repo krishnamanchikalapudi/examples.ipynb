@@ -83,18 +83,18 @@
 | :x: | [230. Kth Smallest Element in a BST](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | :x: | [235. Lowest Common Ancestor of a Binary Search Tree](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | :x: | [238. Product of Array Except Self](./) | Medium | `Array`, `Prefix Sum` |
-| :white_check_mark: | [242. Valid Anagram](./22-valid-anagram.ipynb) | Easy | `Hash Table`, `String`, `Sorting` |
-| :white_check_mark: | [252. Meeting Rooms](./252-meeting-rooms.ipynb) | Easy | `Array`, `Sorting` |
-| :white_check_mark: | [253. Meeting Rooms II](./253-meeting-rooms-ii.ipynb) | Medium | `Array`, `Two Pointers`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Prefix Sum` |
-| :white_check_mark: | [261. Graph Valid Tree](./261-graph-valid-tree.ipynb) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` |
+| :white_check_mark: | [242. Valid Anagram](./242-valid-anagram.ipynb) | Easy | `Hash Table`, `String`, `Sorting` |
+| :x: | [252. Meeting Rooms](./252-meeting-rooms.ipynb) | Easy | `Array`, `Sorting` |
+| :x: | [253. Meeting Rooms II](./253-meeting-rooms-ii.ipynb) | Medium | `Array`, `Two Pointers`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Prefix Sum` |
+| :x: | [261. Graph Valid Tree](./261-graph-valid-tree.ipynb) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` |
 | :x: | [268. Missing Number](./) | Easy | `Array`, `Hash Table`, `Math`, `Binary Search`, `Bit Manipulation`, `Sorting` |
-| :white_check_mark: | [269. Alien Dictionary](./269-alien-dictionary.ipynb) | Hard | `Array`, `String`, `Depth-First Search`, `Breadth-First Search`, `Graph`, `Topological Sort` |
-| :white_check_mark: | [271. Encode and Decode Strings](./271-encode-and-decode-strings.ipynb) | Medium | `Array`, `String`, ` Design` |
+| :x:: | [269. Alien Dictionary](./269-alien-dictionary.ipynb) | Hard | `Array`, `String`, `Depth-First Search`, `Breadth-First Search`, `Graph`, `Topological Sort` |
+| :x: | [271. Encode and Decode Strings](./271-encode-and-decode-strings.ipynb) | Medium | `Array`, `String`, ` Design` |
 | :x: | [295. Find Median from Data Stream](./) | Hard | `Two Pointers`, `Design`, `Sorting`, `Heap (Priority Queue)`, `Data Stream` |
 | :x: | [297. Serialize and Deserialize Binary Tree](./) | Hard | `String`, `Tree`, `Depth-First Search`, `Breadth-First Search`, `Design`, `Binary Tree` |
 | :x: | [300. Longest Increasing Subsequence](./) | Medium | `ArrayBinary SearchDynamic Programming` |
 | :x: | [322. Coin Change](./) | Medium | `ArrayDynamic ProgrammingBreadth-First Search` |
-| :white_check_mark: | [323. Number of Connected Components in an Undirected Graph](./323-number-of-connected-components-in-an-undirected-graph.ipynb) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` |
+| :x: | [323. Number of Connected Components in an Undirected Graph](./323-number-of-connected-components-in-an-undirected-graph.ipynb) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` |
 | :x: | [338. Counting Bits](./) | Easy | `Dynamic Programming`, `Bit Manipulation` |
 | :x: | [347. Top K Frequent Elements](./) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting`, `Quickselect` |
 | :x: | [371. Sum of Two Integers](./) | Medium | `Math`, `Bit Manipulation` |
@@ -235,7 +235,7 @@
 | Hashmap | :x: | [383. Ransom Note](./) | Easy | `Hash Table`, `String`, `Counting` |
 | Hashmap | :x: | [205. Isomorphic Strings](./) | Easy | `Hash TableS`, `tring` |
 | Hashmap | :x: | [290. Word Pattern](./) | Easy | `Hash Table`, `String` |
-| Hashmap | :white_check_mark: | [242. Valid Anagram](./22-valid-anagram.ipynb) | Easy | `Hash Table`, `String`, `Sorting` |
+| Hashmap | :white_check_mark: | [242. Valid Anagram](./242-valid-anagram.ipynb) | Easy | `Hash Table`, `String`, `Sorting` |
 | Hashmap | :white_check_mark: | [49. Group Anagrams](./49-group-anagrams.ipynb) | Medium | `Array`, `Hash Table`, `String`, `` |
 | Hashmap | :white_check_mark: | [1. Two sum](./1-two-sum.ipynb) | Easy | `Array`, `Hash Table` |
 | Hashmap | :x: | [202. Happy Number](./) | Easy | `Hash Table`, `Math`, `Two Pointers` |
