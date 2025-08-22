@@ -1,4 +1,5 @@
 # Leetcode Solutions
+
 <a href="https://leetcode.com/kmanchikalapudi" target="_new">
   <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
 </a>
@@ -96,7 +97,7 @@
 | :x: | [322. Coin Change](./) | Medium | `ArrayDynamic ProgrammingBreadth-First Search` |
 | :x: | [323. Number of Connected Components in an Undirected Graph](./323-number-of-connected-components-in-an-undirected-graph.ipynb) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` |
 | :x: | [338. Counting Bits](./) | Easy | `Dynamic Programming`, `Bit Manipulation` |
-| :x: | [347. Top K Frequent Elements](./) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting`, `Quickselect` |
+| :white_check_mark: | [347. Top K Frequent Elements](./347-top-k-frequent-elements.ipynb) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting`, `Quickselect` |
 | :x: | [371. Sum of Two Integers](./) | Medium | `Math`, `Bit Manipulation` |
 | :x: | [417. Pacific Atlantic Water Flow](./) | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
 | :x: | [424. Longest Repeating Character Replacement](./) | Medium | `Hash Table`, `String`, `Sliding Window` |
@@ -104,6 +105,26 @@
 | :x: | [572. Subtree of Another Tree](./) | Easy | `Tree`, `Depth-First Search`, `String Matching`, `Binary Tree`, `Hash Function` |
 | :x: | [647. Palindromic Substrings](./) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
 | :x: | [1143. Longest Common Subsequence](./) | Medium | `String`, `Dynamic Programming` |
+
+
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<br/><br/>
+
 
 
 ## Top interview 75 coding challenges
@@ -188,6 +209,24 @@
 | Monotonic Stack | :x: | [901. Online Stock Span](./) | Medium | `Stack`, `Design`, `Monotonic Stack`, `Data Stream` |
 
 
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<br/><br/>
+
 
 ## Top interview 150 coding challenges
 - https://leetcode.com/studyplan/top-interview-150/
@@ -212,7 +251,7 @@
 | Array / String | :x: | [42. Trapping Rain Water](./) | Hard | `Array`, `Two Pointers`, `Dynamic Programming`, `Stack`, `Monotonic Stack` |
 | Array / String | :x: | [13. Roman to Integer](./) | Easy | `Hash Table`, `Math`, `String` |
 | Array / String | :x: | [12. Integer to Roman](./) | Medium | `Hash Table`, `Math`, `String` |
-| Array / String | :x: | [58. Length of Last Word](./) | Easy | `String` |
+| Array / String | :white_check_mark: | [58. Length of Last Word](./58-length-of-last-word.ipynb) | Easy | `String` |
 | Array / String | :x: | [14. Longest Common Prefix](./) | Easy | `Array`, `String`, `Trie` |
 | Array / String | :x: | [151. Reverse Words in a String](./) | Medium | `Two Pointers`, `String` |
 | Array / String | :x: | [6. Zigzag Conversion](./) | Medium | `String` |
@@ -346,13 +385,31 @@
 | Multidimensional DP | :x: | [221. Maximal Square](./) | Medium | `Array`, `Dynamic Programming`, `Matrix` |
 
 
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<br/><br/>
+
 
 ## Premium Algorithm 100
 - https://leetcode.com/studyplan/premium-algo-100/
 
 | Category | Solved | Problem | Difficulty | Tags |
 | :----- | :----- | :----- | :----- |  :----- | 
-| Array / String | :white_check_mark: | [624.Maximum Distance in Arrays](./624-maximum-distance-in-arrays.ipynb) | Medium | `Array`, `Greedy` |
+| Array / String | :x: | [624.Maximum Distance in Arrays](./624-maximum-distance-in-arrays.ipynb) | Medium | `Array`, `Greedy` |
 | Array / String | :x: | [280. Wiggle Sort](./) | Medium | `Array`, `Greedy`, `Sorting` |
 | Array / String | :x: | [1056. Confusing Number](./) | Easy | `Math` |
 | Array / String | :x: | [1427. Perform String Shifts](./) | Easy | `Array`, `Math`, `String` |
@@ -465,3 +522,29 @@ Master Data Structures and Algorithms Interviews - Ace Leetcode & Blind 75+ # ht
 Data Structures and Algorithms: The Complete Masterclass# https://learning-oreilly-com.rpa.sccl.org/videos/-/9781801078504/
 
  -->
+
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<br/><br/>
