@@ -46,7 +46,7 @@
 | :x: | [53. Maximum Subarray](./) | Medium | `Array`, `Divide and Conquer`, `Dynamic Programming` |
 | :x: | [54. Spiral Matrix](./) | Medium | `Array`, `Matrix`, `Simulation` |
 | :x: | [55. Jump Game](./) | Medium | `Array`, `Dynamic Programming`, `Greedy` |
-| :x: | [56. Merge Intervals](./) | Medium | `ArraySorting` |
+| :x: | [56. Merge Intervals](./) | Medium | `Array`, `Sorting` |
 | :x: | [57. Insert Interval](./) | Medium | `Array` |
 | :x: | [62. Unique Paths](./) | Medium | `Math`, `Dynamic Programming`, `Combinatorics` |
 | :x: | [70. Climbing Stairs](./) | Easy | `Math`, `Dynamic Programming`, `Memoization` |
@@ -135,9 +135,9 @@
 | Array / String | :x: | [1768. Merge Strings Alternately](./) | Easy | `Two Pointers`, `String` |
 | Array / String | :x: | [1071. Greatest Common Divisor of Strings](./) | Easy | `Math`, `String` |
 | Array / String | :x: | [1431. Kids With the Greatest Number of Candies](./) | Easy | `Array`` |
-| Array / String | :x: | [605. Can Place Flowers](./) | Easy | `Array`, `Greedy`, `` |
-| Array / String | :x: | [345. Reverse Vowels of a String](./) | Easy | `Two Pointers`, `String`, `` |
-| Array / String | :x: | [151. Reverse Words in a String](./) | Medium | `Two Pointers`, `String`, `` |
+| Array / String | :x: | [605. Can Place Flowers](./) | Easy | `Array`, `Greedy` |
+| Array / String | :x: | [345. Reverse Vowels of a String](./) | Easy | `Two Pointers`, `String` |
+| Array / String | :x: | [151. Reverse Words in a String](./) | Medium | `Two Pointers`, `String` |
 | Array / String | :x: | [238. Product of Array Except Self](./) | Medium | `Array`, `Prefix Sum` |
 | Array / String | :x: | [334. Increasing Triplet Subsequence](./) | Medium | `Array`, `Greedy` |
 | Array / String | :x: | [443. String Compression](./) | Medium | `Two PointersString` |
@@ -239,10 +239,10 @@
 | Array / String | :x: | [Remove Duplicates from Sorted Array II](./) | Medium | `Array` `Two Pointers` |
 | Array / String | :x: | [169. Majority Element](./) | Easy | `Array` `Hash Table` `Divide and Conquer`, `Sorting`, `Counting` |
 | Array / String | :x: | [189. Rotate Array](./) | Medium | `Array`, `Math`, `Two Pointers` |
-| Array / String | :x: | [121. Best Time to Buy and Sell Stock](./) | Easy | `Array`, ``Dynamic Programming` |
-| Array / String | :x: | [122. Best Time to Buy and Sell Stock II](./) | Medium | `Array`, ``Dynamic Programming`, `Greedy` |
-| Array / String | :x: | [55. Jump Game](./) | Medium | `Array`, ``Dynamic Programming`, `Greedy` |
-| Array / String | :x: | [45. Jump Game II](./) | Medium | `Array`, ``Dynamic Programming`, `Greedy` |
+| Array / String | :x: | [121. Best Time to Buy and Sell Stock](./) | Easy | `Array`, `Dynamic Programming` |
+| Array / String | :x: | [122. Best Time to Buy and Sell Stock II](./) | Medium | `Array`, `Dynamic Programming`, `Greedy` |
+| Array / String | :x: | [55. Jump Game](./) | Medium | `Array`, `Dynamic Programming`, `Greedy` |
+| Array / String | :x: | [45. Jump Game II](./) | Medium | `Array`, `Dynamic Programming`, `Greedy` |
 | Array / String | :x: | [274. H-Index](./) | Medium | `Array`, `Sorting`, `Counting Sort` |
 | Array / String | :x: | [380. Insert Delete GetRandom O(1)](./) | Medium | `Array`, `Hash Table`, `Math`, `Design`, `Randomized` |
 | Array / String | :x: | [238. Product of Array Except Self](./) | Medium | `Array`, `Prefix Sum` |
@@ -275,7 +275,7 @@
 | Hashmap | :x: | [205. Isomorphic Strings](./) | Easy | `Hash TableS`, `tring` |
 | Hashmap | :x: | [290. Word Pattern](./) | Easy | `Hash Table`, `String` |
 | Hashmap | :white_check_mark: | [242. Valid Anagram](./242-valid-anagram.ipynb) | Easy | `Hash Table`, `String`, `Sorting` |
-| Hashmap | :white_check_mark: | [49. Group Anagrams](./49-group-anagrams.ipynb) | Medium | `Array`, `Hash Table`, `String`, `` |
+| Hashmap | :white_check_mark: | [49. Group Anagrams](./49-group-anagrams.ipynb) | Medium | `Array`, `Hash Table`, `String` |
 | Hashmap | :white_check_mark: | [1. Two sum](./1-two-sum.ipynb) | Easy | `Array`, `Hash Table` |
 | Hashmap | :x: | [202. Happy Number](./) | Easy | `Hash Table`, `Math`, `Two Pointers` |
 | Hashmap | :x: | [219. Contains Duplicate II](./) | Easy | `Array`, `Hash Table`, `Sliding Window` |
@@ -285,9 +285,9 @@
 | Intervals | :x: | [57. Insert Interval](./) | Medium | `Array` |
 | Intervals | :x: | [452. Minimum Number of Arrows to Burst Balloons](./) | Medium | `Array`, `Greedy`, `Sorting` |
 | Stack | :x: | [20. Valid Parentheses](./) | Easy | `String`, `Stack` |
-| Stack | :x: | [71. Simplify Path](./) | Medium | `StringStack` |
-| Stack | :x: | [155. Min Stack](./) | Medium | `StackDesign` |
-| Stack | :x: | [150. Evaluate Reverse Polish Notation](./) | Medium | `ArrayMathStack` |
+| Stack | :x: | [71. Simplify Path](./) | Medium | `String`, Stack` |
+| Stack | :x: | [155. Min Stack](./) | Medium | `Stack`, Design` |
+| Stack | :x: | [150. Evaluate Reverse Polish Notation](./) | Medium | `Array`, Math`, Stack` |
 | Stack | :x: | [224. Basic Calculator](./) | Hard | `MathStringStack`, `Recursion` |
 | Linked List | :x: | [141. Linked List Cycle](./) | Easy | `Hash Table`, `Linked List`, `Two Pointers` |
 | Linked List | :x: | [2. Add Two Numbers](./) | Medium | `Linked List`, `Math`, `Recursion` |
@@ -332,7 +332,7 @@
 | Graph BFS | :x: | [127. Word Ladder](./) | Hard | `Hash Table`, `String`, `Breadth-First Search` |
 | Trie | :x: | [208. Implement Trie (Prefix Tree)](./) | Medium | `Hash Table`, `String`, `Design`, `Trie` |
 | Trie | :x: | [211. Design Add and Search Words Data Structure](./) | Medium | `StringDepth-First SearchDesign`, `Trie` |
-| Trie | :x: | [212. Word Search II](./) | Hard | `ArrayStringBacktracking`, `Trie`, `Matrix` |
+| Trie | :x: | [212. Word Search II](./) | Hard | `Array`, `String`, `Backtracking`, `Trie`, `Matrix` |
 | Backtracking | :x: | [17. Letter Combinations of a Phone Number](./) | Medium | `Hash Table`, `String`, `Backtracking` |
 | Backtracking | :x: | [77. Combinations](./) | Medium | `Backtracking` |
 | Backtracking | :x: | [46. Permutations](./) | Medium | `Array`, `Backtracking` |
@@ -371,7 +371,7 @@
 | Math | :x: | [149. Max Points on a Line](./) | Hard | `Array`, `Hash Table`, `Math`, `Geometry` |
 | 1D DP | :x: | [70. Climbing Stairs](./) | Easy | `Math`, `Dynamic Programming`, `Memoization` |
 | 1D DP | :x: | [198. House Robber](./) | Medium | `Array`, `Dynamic Programming` |
-| 1D DP | :x: | [139. Word Break](./) | Medium | `Array`, `Hash Table`, `String`, `` |
+| 1D DP | :x: | [139. Word Break](./) | Medium | `Array`, `Hash Table`, `String` |
 | 1D DP | :x: | [322. Coin Change](./) | Medium | `Array`, `Dynamic Programming`, `Breadth-First Search` |
 | 1D DP | :x: | [300. Longest Increasing Subsequence](./) | Medium | `Array`, `Binary Search`, `Dynamic Programming` |
 | Multidimensional DP | :x: | [120. Triangle](./) | Medium | `Array`, `Dynamic Programming`  |
