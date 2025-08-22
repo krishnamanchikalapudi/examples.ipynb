@@ -134,7 +134,7 @@
 | :----- | :----- | :----- | :----- | :----- | 
 | Array / String | :x: | [1768. Merge Strings Alternately](./) | Easy | `Two Pointers`, `String` |
 | Array / String | :x: | [1071. Greatest Common Divisor of Strings](./) | Easy | `Math`, `String` |
-| Array / String | :x: | [1431. Kids With the Greatest Number of Candies](./) | Easy | `Array`` |
+| Array / String | :x: | [1431. Kids With the Greatest Number of Candies](./) | Easy | `Array` |
 | Array / String | :x: | [605. Can Place Flowers](./) | Easy | `Array`, `Greedy` |
 | Array / String | :x: | [345. Reverse Vowels of a String](./) | Easy | `Two Pointers`, `String` |
 | Array / String | :x: | [151. Reverse Words in a String](./) | Medium | `Two Pointers`, `String` |
@@ -233,11 +233,11 @@
 
 | Category | Solved | Problem | Difficulty | Tags |
 | :--- | :--- | :----- | :----- |  :----- | 
-| Array / String | :white_check_mark: | [88. Merge Sorted Array](./88-merge-sorted-array.ipynb) | Easy | `Array` `Two Pointers` `Sorting` |
-| Array / String | :white_check_mark: | [27. Remove Element](./27-remove-element.ipynb) | Easy | `Array` `Two Pointers` |
-| Array / String | :x: | [26. Remove Duplicates from Sorted Array](./) | Easy | `Array` `Two Pointers` |
-| Array / String | :x: | [Remove Duplicates from Sorted Array II](./) | Medium | `Array` `Two Pointers` |
-| Array / String | :x: | [169. Majority Element](./) | Easy | `Array` `Hash Table` `Divide and Conquer`, `Sorting`, `Counting` |
+| Array / String | :white_check_mark: | [88. Merge Sorted Array](./88-merge-sorted-array.ipynb) | Easy | `Array`, `Two Pointers`, `Sorting` |
+| Array / String | :white_check_mark: | [27. Remove Element](./27-remove-element.ipynb) | Easy | `Array`, `Two Pointers` |
+| Array / String | :x: | [26. Remove Duplicates from Sorted Array](./) | Easy | `Array`, `Two Pointers` |
+| Array / String | :x: | [Remove Duplicates from Sorted Array II](./) | Medium | `Array`, `Two Pointers` |
+| Array / String | :x: | [169. Majority Element](./) | Easy | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Counting` |
 | Array / String | :x: | [189. Rotate Array](./) | Medium | `Array`, `Math`, `Two Pointers` |
 | Array / String | :x: | [121. Best Time to Buy and Sell Stock](./) | Easy | `Array`, `Dynamic Programming` |
 | Array / String | :x: | [122. Best Time to Buy and Sell Stock II](./) | Medium | `Array`, `Dynamic Programming`, `Greedy` |
@@ -262,7 +262,7 @@
 | Two Pointers | :x: | [167. Two Sum II - Input Array Is Sorted](./) | Medium | `Array`, `Two Pointers`, `Binary Search` |
 | Two Pointers | :x: | [11. Container With Most Water](./) | Medium | `Array`, `Two Pointers`, `Greedy` |
 | Two Pointers | :x: | [15. 3Sum](./) | Medium | `Array`, `Two Pointers`, `Sorting` |
-| Sliding Window | :x: | [209. Minimum Size Subarray Sum](./) | Medium | `TArray`, `Binary Search`, `Sliding Window`, `Prefix Sum` |
+| Sliding Window | :x: | [209. Minimum Size Subarray Sum](./) | Medium | `Array`, `Binary Search`, `Sliding Window`, `Prefix Sum` |
 | Sliding Window | :white_check_mark: | [3. Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters.ipynb)  | Medium | `Hash Table`, `String`, `Sliding Window` |
 | Sliding Window | :x: | [30. Substring with Concatenation of All Words](./) | Hard | `Hash Table`, `String`, `Sliding Window` |
 | Sliding Window | :x: | [76. Minimum Window Substring](./) | Hard | `Hash Table`, `String`, `Sliding Window` |
@@ -347,12 +347,12 @@
 | Kadane's Algorithm | :x: | [53. Maximum Subarray](./) | Medium | `Array`, `Divide and Conquer`, `Dynamic Programming` |
 | Kadane's Algorithm | :x: | [918. Maximum Sum Circular Subarray](./) | Medium | `Array`, `Divide and Conquer`, `Dynamic Programming`, `Queue`, `Monotonic Queue` |
 | Binary Search | :x: | [35. Search Insert Position](./) | Easy | `Array`, `Binary Search` |
-| Binary Search | :x: | [74. Search a 2D Matrix](./) | Medium | `Array, `Binary Search, `Matrix` |
-| Binary Search | :x: | [162. Find Peak Element](./) | Medium | `Array, `Binary Search` |
-| Binary Search | :x: | [33. Search in Rotated Sorted Array](./) | Medium | `Array, `Binary Search` |
-| Binary Search | :x: | [34. Find First and Last Position of Element in Sorted Array](./) | Medium | `Array, `Binary Search` |
-| Binary Search | :x: | [153. Find Minimum in Rotated Sorted Array](./) | Medium | `Array, `Binary Search` |
-| Binary Search | :x: | [4. Median of Two Sorted Arrays](./) | Hard | `Array, `Binary Search, `Divide and Conquer` |
+| Binary Search | :x: | [74. Search a 2D Matrix](./) | Medium | `Array`, `Binary Search`, `Matrix` |
+| Binary Search | :x: | [162. Find Peak Element](./) | Medium | `Array`, `Binary Search` |
+| Binary Search | :x: | [33. Search in Rotated Sorted Array](./) | Medium | `Array`, `Binary Search` |
+| Binary Search | :x: | [34. Find First and Last Position of Element in Sorted Array](./) | Medium | `Array`, `Binary Search` |
+| Binary Search | :x: | [153. Find Minimum in Rotated Sorted Array](./) | Medium | `Array`, `Binary Search` |
+| Binary Search | :x: | [4. Median of Two Sorted Arrays](./) | Hard | `Array`, `Binary Search, `Divide and Conquer` |
 | Heap | :x: | [215. Kth Largest Element in an Array](./) | Medium | `Array`, `Divide and Conquer`, `Sorting`, `Heap (Priority Queue)`, `Quickselect` |
 | Heap | :x: | [502. IPO](./) | Hard | `Array`, `Greedy`, `Sorting`, `Heap (Priority Queue)` |
 | Heap | :x: | [373. Find K Pairs with Smallest Sums](./) | Medium | `Array`, `Heap (Priority Queue)` |
