@@ -143,7 +143,7 @@
 | Array / String | :x: | [334. Increasing Triplet Subsequence](./) | Medium | `Array`, `Greedy` |
 | Array / String | :x: | [443. String Compression](./) | Medium | `Two PointersString` |
 | Two Pointers | :x: | [283. Move Zeroes](./) | Easy | `Array`, `Two Pointers` |
-| Two Pointers | :x: | [392. Is Subsequence](./) | Easy | `Two Pointers`, `String`, `Dynamic Programming` |
+| Two Pointers | :white_check_mark: | [392. Is Subsequence](./392-is-subsequence.ipynb) | Easy | `Two Pointers`, `String`, `Dynamic Programming` |
 | Two Pointers | :x: | [11. Container With Most Water](./) | Medium | `Array`, `Two Pointers`, `Greedy` |
 | Two Pointers | :x: | [1679. Max Number of K-Sum Pairs](./) | Medium | `Array`, `Hash Table`, `Two Pointers`, `Sorting` |
 | Sliding Window | :x: | [643. Maximum Average Subarray I](./) | Easy | `Array`, `Sliding Window` |
@@ -259,7 +259,7 @@
 | Array / String | :x: | [28. Find the Index of the First Occurrence in a String](./) | Easy | `Two Pointers`, `String`, `String Matching` |
 | Array / String | :x: | [68. Text Justification](./) | Hard | `Array`, `String`, `Simulation` |
 | Two Pointers | :x: | [125. Valid Palindrome](./) | Easy | `Two Pointers`, `String` |
-| Two Pointers | :x: | [392. Is Subsequence](./) | Easy | `Two Pointers`, `String`, `Dynamic Programming` |
+| Two Pointers | :white_check_mark: | [392. Is Subsequence](./392-is-subsequence.ipynb) | Easy | `Two Pointers`, `String`, `Dynamic Programming` |
 | Two Pointers | :x: | [167. Two Sum II - Input Array Is Sorted](./) | Medium | `Array`, `Two Pointers`, `Binary Search` |
 | Two Pointers | :x: | [11. Container With Most Water](./) | Medium | `Array`, `Two Pointers`, `Greedy` |
 | Two Pointers | :x: | [15. 3Sum](./) | Medium | `Array`, `Two Pointers`, `Sorting` |
