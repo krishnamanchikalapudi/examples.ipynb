@@ -1,4 +1,4 @@
-# CodingChallenge.ipynb
+# Code Challenges
 
 <a href="https://dayone.dev/machines/algortihms/" target="_new">https://dayone.dev/machines/algortihms/</a>
 

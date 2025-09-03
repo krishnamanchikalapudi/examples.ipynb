@@ -27,6 +27,7 @@
 
 ## Blind top 75 coding challenges
 - https://leetcode.com/problem-list/nbhoml55/
+- https://neetcode.io/practice?tab=blind75
 
 | Solved | Problem | Difficulty | Tags |
 | :----- | :----- | :----- | :----- | 
