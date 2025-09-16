@@ -12,6 +12,8 @@ __pycache__/
 TFdeveloperCertificate/data/*
 /TFdeveloperCertificate/data/*
 
+.$*.bkp
+*/.$*.bkp
 # C extensions
 *.so
 .DS_Store
