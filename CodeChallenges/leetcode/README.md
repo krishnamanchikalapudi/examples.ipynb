@@ -63,7 +63,7 @@
 | :x: | [121. Best Time to Buy and Sell Stock](./) | Easy | `Array`, `Dynamic Programming` |
 | :x: | [124. Binary Tree Maximum Path Sum](./) | Hard | `Dynamic Programming`, `Tree`, `Depth-First Search`, `Binary Tree` |
 | :x: | [125. Valid Palindrome](./) | Easy | `Two Pointers`, `String` |
-| :x: | [128. Longest Consecutive Sequence](./) | Medium | `Array`, `Hash Table`, `Union Find` |
+| :white_check_mark: | [128. Longest Consecutive Sequence](./128-longest-consecutive-sequence.ipynb) | Medium | `Array`, `Hash Table`, `Union Find` |
 | :x: | [133. Clone Graph](./) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` |
 | :x: | [139. Word Break](./) | Medium | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` |
 | :x: | [141. Linked List Cycle](./) | Easy | `Hash Table`, `Linked List`, `Two Pointers` |
@@ -280,7 +280,7 @@
 | Hashmap | :white_check_mark: | [1. Two sum](./1-two-sum.ipynb) | Easy | `Array`, `Hash Table` |
 | Hashmap | :x: | [202. Happy Number](./) | Easy | `Hash Table`, `Math`, `Two Pointers` |
 | Hashmap | :x: | [219. Contains Duplicate II](./) | Easy | `Array`, `Hash Table`, `Sliding Window` |
-| Hashmap | :x: | [128. Longest Consecutive Sequence](./) | Medium | `Array`, `Hash Table`, `Union Find` |
+| Hashmap | :white_check_mark: | [128. Longest Consecutive Sequence](./128-longest-consecutive-sequence.ipynb) | Medium | `Array`, `Hash Table`, `Union Find` |
 | Intervals | :x: | [228. Summary Ranges](./) | Easy | `Array` |
 | Intervals | :x: | [56. Merge Intervals](./) | Medium | `Array`, `Sorting` |
 | Intervals | :x: | [57. Insert Interval](./) | Medium | `Array` |
