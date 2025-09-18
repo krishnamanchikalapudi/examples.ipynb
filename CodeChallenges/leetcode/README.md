@@ -84,7 +84,7 @@
 | :x: | [226. Invert Binary Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | :x: | [230. Kth Smallest Element in a BST](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | :x: | [235. Lowest Common Ancestor of a Binary Search Tree](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
-| :x: | [238. Product of Array Except Self](./) | Medium | `Array`, `Prefix Sum` |
+| :white_check_mark: | [238. Product of Array Except Self](./238-product-of-array-except-self.ipynb) | Medium | `Array`, `Prefix Sum` |
 | :white_check_mark: | [242. Valid Anagram](./242-valid-anagram.ipynb) | Easy | `Hash Table`, `String`, `Sorting` |
 | :x: | [252. Meeting Rooms](./252-meeting-rooms.ipynb) | Easy | `Array`, `Sorting` |
 | :x: | [253. Meeting Rooms II](./253-meeting-rooms-ii.ipynb) | Medium | `Array`, `Two Pointers`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Prefix Sum` |
@@ -139,7 +139,7 @@
 | Array / String | :x: | [605. Can Place Flowers](./) | Easy | `Array`, `Greedy` |
 | Array / String | :x: | [345. Reverse Vowels of a String](./) | Easy | `Two Pointers`, `String` |
 | Array / String | :x: | [151. Reverse Words in a String](./) | Medium | `Two Pointers`, `String` |
-| Array / String | :x: | [238. Product of Array Except Self](./) | Medium | `Array`, `Prefix Sum` |
+| Array / String | :white_check_mark: | [238. Product of Array Except Self](./238-product-of-array-except-self.ipynb) | Medium | `Array`, `Prefix Sum` |
 | Array / String | :x: | [334. Increasing Triplet Subsequence](./) | Medium | `Array`, `Greedy` |
 | Array / String | :x: | [443. String Compression](./) | Medium | `Two PointersString` |
 | Two Pointers | :x: | [283. Move Zeroes](./) | Easy | `Array`, `Two Pointers` |
@@ -246,7 +246,7 @@
 | Array / String | :x: | [45. Jump Game II](./) | Medium | `Array`, `Dynamic Programming`, `Greedy` |
 | Array / String | :x: | [274. H-Index](./) | Medium | `Array`, `Sorting`, `Counting Sort` |
 | Array / String | :x: | [380. Insert Delete GetRandom O(1)](./) | Medium | `Array`, `Hash Table`, `Math`, `Design`, `Randomized` |
-| Array / String | :x: | [238. Product of Array Except Self](./) | Medium | `Array`, `Prefix Sum` |
+| Array / String | :white_check_mark: | [238. Product of Array Except Self](./238-product-of-array-except-self.ipynb) | Medium | `Array`, `Prefix Sum` |
 | Array / String | :x: | [134. Gas Station](./) | Medium | `Array`, `Greedy` |
 | Array / String | :x: | [135. Candy](./) | Hard | `Array`, `Greedy` |
 | Array / String | :x: | [42. Trapping Rain Water](./) | Hard | `Array`, `Two Pointers`, `Dynamic Programming`, `Stack`, `Monotonic Stack` |
