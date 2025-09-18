@@ -4,8 +4,8 @@ Agentic patterns involve using language models to perform tasks that require rea
 
 ## Start the notebooks
 - [Prompt Chaining](./PromptChaining.ipynb)
-- [Routing] (./?.ipynb)
-- [Parallelization] (./?.ipynb)
+- [Routing] (./Routing.ipynb)
+- [Parallelization] (./Parallelization.ipynb)
 - [Reflection] (./?.ipynb)
 - [Tool Use] (./?.ipynb)
 - [Planning] (./?.ipynb)
