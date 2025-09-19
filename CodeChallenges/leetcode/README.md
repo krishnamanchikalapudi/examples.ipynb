@@ -62,7 +62,7 @@
 | :x: | [105. Construct Binary Tree from Preorder and Inorder Traversal](./) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Tree`, `Binary Tree` |
 | :x: | [121. Best Time to Buy and Sell Stock](./) | Easy | `Array`, `Dynamic Programming` |
 | :x: | [124. Binary Tree Maximum Path Sum](./) | Hard | `Dynamic Programming`, `Tree`, `Depth-First Search`, `Binary Tree` |
-| :x: | [125. Valid Palindrome](./) | Easy | `Two Pointers`, `String` |
+| :white_check_mark: | [125. Valid Palindrome](./125-valid-palindrome.ipynb) | Easy | `Two Pointers`, `String` |
 | :white_check_mark: | [128. Longest Consecutive Sequence](./128-longest-consecutive-sequence.ipynb) | Medium | `Array`, `Hash Table`, `Union Find` |
 | :x: | [133. Clone Graph](./) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` |
 | :x: | [139. Word Break](./) | Medium | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` |
@@ -237,7 +237,6 @@
 | Array / String | :white_check_mark: | [88. Merge Sorted Array](./88-merge-sorted-array.ipynb) | Easy | `Array`, `Two Pointers`, `Sorting` |
 | Array / String | :white_check_mark: | [27. Remove Element](./27-remove-element.ipynb) | Easy | `Array`, `Two Pointers` |
 | Array / String | :x: | [26. Remove Duplicates from Sorted Array](./) | Easy | `Array`, `Two Pointers` |
-| Array / String | :x: | [Remove Duplicates from Sorted Array II](./) | Medium | `Array`, `Two Pointers` |
 | Array / String | :x: | [169. Majority Element](./) | Easy | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Counting` |
 | Array / String | :x: | [189. Rotate Array](./) | Medium | `Array`, `Math`, `Two Pointers` |
 | Array / String | :x: | [121. Best Time to Buy and Sell Stock](./) | Easy | `Array`, `Dynamic Programming` |
@@ -258,7 +257,7 @@
 | Array / String | :x: | [6. Zigzag Conversion](./) | Medium | `String` |
 | Array / String | :x: | [28. Find the Index of the First Occurrence in a String](./) | Easy | `Two Pointers`, `String`, `String Matching` |
 | Array / String | :x: | [68. Text Justification](./) | Hard | `Array`, `String`, `Simulation` |
-| Two Pointers | :x: | [125. Valid Palindrome](./) | Easy | `Two Pointers`, `String` |
+| Two Pointers | :white_check_mark: | [125. Valid Palindrome](./125-valid-palindrome.ipynb) | Easy | `Two Pointers`, `String` |
 | Two Pointers | :white_check_mark: | [392. Is Subsequence](./392-is-subsequence.ipynb) | Easy | `Two Pointers`, `String`, `Dynamic Programming` |
 | Two Pointers | :x: | [167. Two Sum II - Input Array Is Sorted](./) | Medium | `Array`, `Two Pointers`, `Binary Search` |
 | Two Pointers | :x: | [11. Container With Most Water](./) | Medium | `Array`, `Two Pointers`, `Greedy` |
