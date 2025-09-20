@@ -9,7 +9,7 @@
 | Day | Solved |  Problem | Difficulty | 
 | :--- | :--- | :----- |  :----- | 
 | 1 | :white_check_mark: | [Plus Minus](./plus-minus.ipynb) | Easy | 
-| 1 | :x: | [Mini-Max Sum](./.ipynb) | | 
+| 1 | :white_check_mark: | [Mini-Max Sum](./mini-max-sum.ipynb) | Easy | 
 | 1 | :x: | [Time Conversion](./.ipynb) | |
 | 2 | :x: | [Lonely Integer](./.ipynb) | |
 | 2 | :x: | [Diagonal Difference](./.ipynb) | |
