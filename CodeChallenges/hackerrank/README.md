@@ -1,6 +1,6 @@
 # Hacker Rank solutions
 - Interview Questions: https://www.hackerrank.com/interview/preparation-kits/
-    - [1 Week Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-five/challenges)
+    - [1 Week Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/)
     - [1 Month Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/)
     - [3 Months Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/)
 
