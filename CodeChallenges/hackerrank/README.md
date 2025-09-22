@@ -10,21 +10,21 @@
 | 2 | :white_check_mark: | [Lonely Integer](./lonely-integer.ipynb) | Easy |
 | 2 | :white_check_mark: | [Diagonal Difference](./diagonal-difference.ipynb) | Easy |
 | 2 | :white_check_mark: | [Counting Sort 1](./countingsort1.ipynb) | Easy |
-| 3 | :x: | [Zig Zag Sequence](./.ipynb) | |
-| 3 | :x: | [Tower Breakers](./.ipynb) | |
-| 3 | :x: | [Caesar Cipher](./.ipynb) | |
-| 4 | :x: | [Grid Challenge](./.ipynb) | |
-| 4 | :x: | [Recursive Digit Sum](./.ipynb) | |
-| 4 | :x: | [New Year Chaos](./.ipynb) | |
-| 5 | :x: | [Merge two sorted linked lists](./.ipynb) | |
-| 5 | :x: | [Queue using Two Stacks](./.ipynb) | |
-| 5 | :x: | [Balanced Brackets](./.ipynb) | |
-| 6 | :x: | [Simple Text Editor](./.ipynb) | |
-| 6 | :x: | [Lego Blocks](./.ipynb) | |
-| 6 | :x: | [Jesse and Cookies](./.ipynb) | |
-| 7 | :x: | [Tree: Preorder Traversal](./.ipynb) | |
-| 7 | :x: | [Tree: Huffman Decoding](./.ipynb) | |
-| 7 | :x: | [No Prefix Set](./.ipynb) | |
+| 3 | :x: | [Zig Zag Sequence](./zig-zag-sequence.ipynb) | Medium |
+| 3 | :x: | [Tower Breakers](./.ipynb) | Easy |
+| 3 | :x: | [Caesar Cipher](./.ipynb) | Easy |
+| 4 | :x: | [Grid Challenge](./.ipynb) | Easy |
+| 4 | :x: | [Recursive Digit Sum](./.ipynb) | Medium |
+| 4 | :x: | [New Year Chaos](./.ipynb) | Medium |
+| 5 | :x: | [Merge two sorted linked lists](./.ipynb) | Easy |
+| 5 | :x: | [Queue using Two Stacks](./.ipynb) | Medium |
+| 5 | :x: | [Balanced Brackets](./.ipynb) | Medium |
+| 6 | :x: | [Simple Text Editor](./.ipynb) | Medium |
+| 6 | :x: | [Lego Blocks](./.ipynb) | Medium |
+| 6 | :x: | [Jesse and Cookies](./.ipynb) | Easy |
+| 7 | :x: | [Tree: Preorder Traversal](./.ipynb) | Easy |
+| 7 | :x: | [Tree: Huffman Decoding](./.ipynb) | Medium |
+| 7 | :x: | [No Prefix Set](./.ipynb) | Hard |
 
 
 ## [1 Month Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/)
@@ -41,8 +41,6 @@
 
 
 <!-- 
-|  | [](./.ipynb) | |
-|  | [](./.ipynb) | |
 | 1 | :x: | [?](./.ipynb) | Easy/Medium/Hard |
 | 1 | :x: | [?](./.ipynb) | Easy/Medium/Hard |
 -->
