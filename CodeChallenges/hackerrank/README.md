@@ -1,7 +1,5 @@
 # Hacker Rank solutions
 - Interview Questions: https://www.hackerrank.com/interview/preparation-kits/
-    - [1 Week Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/)
-
 
 ## [1 Week Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/)
 | Day | Solved |  Problem | Difficulty | 
@@ -11,7 +9,7 @@
 | 1 | :white_check_mark: | [Time Conversion](./time-conversion.ipynb) | Easy |
 | 2 | :white_check_mark: | [Lonely Integer](./lonely-integer.ipynb) | Easy |
 | 2 | :white_check_mark: | [Diagonal Difference](./diagonal-difference.ipynb) | Easy |
-| 2 | :white_check_mark: | [Counting Sort 1](./.ipynb) | Easy |
+| 2 | :white_check_mark: | [Counting Sort 1](./countingsort1.ipynb) | Easy |
 | 3 | :x: | [Zig Zag Sequence](./.ipynb) | |
 | 3 | :x: | [Tower Breakers](./.ipynb) | |
 | 3 | :x: | [Caesar Cipher](./.ipynb) | |
