@@ -1,4 +1,5 @@
 # Leetcode Solutions
+- [Algorithms](https://leetcode.com/problemset/algorithms/)
 
 <a href="https://leetcode.com/kmanchikalapudi" target="_new">
   <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
@@ -125,6 +126,74 @@
   <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 <br/><br/>
+
+## [Easy: Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
+| Category | Solved | Problem | Tags |
+| :----- | :----- | :----- | :----- | 
+|  | :x: | [?](./) | `?`, `?` |
+
+
+## [Medium: Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-medium)
+| Category | Solved | Problem | Tags |
+| :----- | :----- | :----- | :----- | 
+| Array / String | :x: | [3Sum](./) | `?`, `?` |
+| Array / String | :x: | [Set Matrix Zeroes](./) | `?`, `?` |
+| Array / String | :white_check_mark: | [49. Group Anagrams](./49-group-anagrams.ipynb) | Medium | `Array`, `Hash Table`, `String` |
+| Array / String | :x: | [Longest Substring Without Repeating Characters  ](./) | `?`, `?` |
+| Array / String | :x: | [Longest Palindromic Substring ](./) | `?`, `?` |
+| Array / String | :x: | [Increasing Triplet Subsequence  ](./) | `?`, `?` |
+| Array / String | :x: | [Missing Ranges  ](./) | `?`, `?` |
+| Array / String | :x: | [Count and Say](./) | `?`, `?` |
+| Linked List | :x: | [Add Two Numbers](./) | `?`, `?` |
+| Linked List | :x: | [Odd Even Linked List](./) | `?`, `?` |
+| Linked List | :x: | [Intersection of Two Linked Lists](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Binary Tree Inorder Traversal](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Binary Tree Zigzag Level Order Traversal](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Construct Binary Tree from Preorder and Inorder Traversal](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Populating Next Right Pointers in Each Node](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Kth Smallest Element in a BST](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Inorder Successor in BST](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Number of Islands](./) | `?`, `?` |
+| Backtracking | :x: | [Letter Combinations of a Phone Number](./) | `?`, `?` |
+| Backtracking | :x: | [Generate Parentheses](./) | `?`, `?` |
+| Backtracking | :x: | [Permutations](./) | `?`, `?` |
+| Backtracking | :x: | [Subsets](./) | `?`, `?` |
+| Backtracking | :x: | [Word Search](./) | `?`, `?` |
+| Sorting and Searching | :x: | [Sort Colors](./) | `?`, `?` |
+| Sorting and Searching | :white_check_mark: | [347. Top K Frequent Elements](./347-top-k-frequent-elements.ipynb) | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting`, `Quickselect` |
+| Sorting and Searching | :x: | [Kth Largest Element in an Array](./) | `?`, `?` |
+| Sorting and Searching | :x: | [Find Peak Element](./) | `?`, `?` |
+| Sorting and Searching | :x: | [Search for a Range](./) | `?`, `?` |
+| Sorting and Searching | :x: | [Merge Intervals](./) | `?`, `?` |
+| Sorting and Searching | :x: | [Search in Rotated Sorted Array](./) | `?`, `?` |
+| Sorting and Searching | :x: | [Meeting Rooms II](./) | `?`, `?` |
+| Sorting and Searching | :x: | [Search a 2D Matrix II](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Jump Game](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Unique Paths](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Coin Change](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Longest Increasing Subsequence](./) | `?`, `?` |
+| Design | :x: | [Flatten 2D Vector](./) | `?`, `?` |
+| Design | :x: | [Serialize and Deserialize Binary Tree](./) | `?`, `?` |
+| Design | :x: | [Insert Delete GetRandom O(1)](./) | `?`, `?` |
+| Design | :x: | [Design Tic-Tac-Toe](./) | `?`, `?` |
+| Math | :x: | [Happy Number](./) | `?`, `?` |
+| Math | :x: | [Factorial Trailing Zeroes](./) | `?`, `?` |
+| Math | :x: | [Excel Sheet Column Number](./) | `?`, `?` |
+| Math | :x: | [Pow(x, n)](./) | `?`, `?` |
+| Math | :x: | [Sqrt(x)](./) | `?`, `?` |
+| Math | :x: | [Divide Two Integers](./) | `?`, `?` |
+| Math | :x: | [Fraction to Recurring Decimal](./) | `?`, `?` |
+| Others | :x: | [Sum of Two Integers](./) | `?`, `?` |
+| Others | :x: | [Evaluate Reverse Polish Notation](./) | `?`, `?` |
+| Others | :x: | [Majority Element](./) | `?`, `?` |
+| Others | :x: | [Find the Celebrity](./) | `?`, `?` |
+| Others | :x: | [Task Scheduler](./) | `?`, `?` |
+
+
+## [Hard: Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-hard/)
+| Category | Solved | Problem | Tags |
+| :----- | :----- | :----- | :----- | 
+|  | :x: | [?](./) | `?`, `?` |
 
 
 
