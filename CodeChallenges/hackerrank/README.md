@@ -1,6 +1,27 @@
 # Hacker Rank solutions
 - Interview Questions: https://www.hackerrank.com/interview/preparation-kits/
 
+
+
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<br/><br/>
+
+
 ## [1 Week Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/)
 | Day | Solved |  Problem | Difficulty | 
 | :--- | :--- | :----- |  :----- | 
@@ -26,12 +47,49 @@
 | 7 | :x: | [Tree: Huffman Decoding](./.ipynb) | Medium |
 | 7 | :x: | [No Prefix Set](./.ipynb) | Hard |
 
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
 
 ## [1 Month Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/)
 | Day | Solved |  Problem | Difficulty | 
 | :--- | :--- | :----- |  :----- | 
 | 1 | :x: | [?](./.ipynb) | Easy/Medium/Hard |
 | 1 | :x: | [?](./.ipynb) | Easy/Medium/Hard |
+
+
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
+
 
 ## [3 Months Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/)
 | Day | Solved |  Problem | Difficulty | 
@@ -45,6 +103,26 @@
 | 1 | :x: | [?](./.ipynb) | Easy/Medium/Hard |
 -->
 
+
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
+
+
 ## [Problem Solving: Algorithms](https://www.hackerrank.com/domains/algorithms)
 | Solved |  Problem | Difficulty |
 | :--- | :--- | :----- | 
@@ -52,6 +130,26 @@
 | :x: | [?](./.ipynb) | Easy/Medium/Hard |
 | :x: | [?](./.ipynb) | Easy/Medium/Hard |
 | :x: | [?](./.ipynb) | Easy/Medium/Hard |
+
+
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
+
 
 ## [Problem Solving: Data Structures](https://www.hackerrank.com/domains/data-structures)
 | Solved |  Problem | Difficulty |
@@ -69,3 +167,32 @@
 
 -->
 
+
+
+
+
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<br/><br/>

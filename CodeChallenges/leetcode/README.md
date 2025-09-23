@@ -36,7 +36,7 @@
 | :white_check_mark: | [3. Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters.ipynb) | Medium | `Hash Table`, `String`, `Sliding Window`|
 | :x: | [5. Longest Palindromic Substring](./) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
 | :x: | [11. Container With Most Water](./) | Medium | `Array`, `Two Pointers`, `Greedy` |
-| :x: | [15. 3Sum](./) | Medium | `Array`, `Two Pointers`, `Sorting` |
+| :white_check_mark: | [15. 3Sum](./15-3sum.ipynb) | Medium | `Array`, `Two Pointers`, `Sorting` |
 | :x: | [19. Remove Nth Node From End of List](./) | Medium | `Linked List`, `Two Pointers` |
 | :x: | [20. Valid Parentheses](./) | Easy | `String`, `Stack` |
 | :x: | [21. Merge Two Sorted Lists](./) | Easy | `Linked List`, `Recursion` |
@@ -52,7 +52,7 @@
 | :x: | [57. Insert Interval](./) | Medium | `Array` |
 | :x: | [62. Unique Paths](./) | Medium | `Math`, `Dynamic Programming`, `Combinatorics` |
 | :x: | [70. Climbing Stairs](./) | Easy | `Math`, `Dynamic Programming`, `Memoization` |
-| :x: | [73. Set Matrix Zeroes](./) | Medium | `Array`, `Hash Table`, `Matrix` |
+| :x: | [73. Set Matrix Zeroes](./73-set-matrix-zeroes.ipynb) | Medium | `Array`, `Hash Table`, `Matrix` |
 | :x: | [76. Minimum Window Substring](./) | Hard | `Hash Table`, `String`, `Sliding Window` |
 | :x: | [79. Word Search](./) | Medium | `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix` |
 | :x: | [91. Decode Ways](./) | Medium | `String`, `Dynamic Programming` |
@@ -115,29 +115,95 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
   <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/kmanchikalapudi" target="_new">
-  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-</a>
 <br/><br/>
 
 ## [Easy: Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
 | Category | Solved | Problem | Tags |
 | :----- | :----- | :----- | :----- | 
-|  | :x: | [?](./) | `?`, `?` |
+| Array | :x: | [Remove Duplicates from Sorted Array](./) | `?`, `?` |
+| Array | :x: | [Best Time to Buy and Sell Stock II ](./) | `?`, `?` |
+| Array | :x: | [Rotate Array](./) | `?`, `?` |
+| Array | :x: | [Contains Duplicate  ](./) | `?`, `?` |
+| Array | :x: | [Single Number ](./) | `?`, `?` |
+| Array | :x: | [Intersection of Two Arrays II ](./) | `?`, `?` |
+| Array | :x: | [Plus One ](./) | `?`, `?` |
+| Array | :x: | [Move Zeroes](./) | `?`, `?` |
+| Array | :white_check_mark: | [Two sum](./1-two-sum.ipynb) | `Array`, `Hash Table` |
+| Array | :x: | [Valid Sudoku ](./) | `?`, `?` |
+| Array | :x: | [Rotate Image](./) | `?`, `?` |
+| Strings | :x: | [Reverse String](./) | `?`, `?` |
+| Strings | :x: | [Reverse Integer](./) | `?`, `?` |
+| Strings | :x: | [First Unique Character in a String](./) | `?`, `?` |
+| Strings | :white_check_mark: | [Valid Anagram](./242-valid-anagram.ipynb) | `Hash Table`, `String`, `Sorting` |
+| Strings | :white_check_mark: | [Valid Palindrome](./125-valid-palindrome.ipynb) | `Two Pointers`, `String` |
+| Strings | :x: | [String to Integer (atoi)](./) | `?`, `?` |
+| Strings | :x: | [Implement strStr()](./) | `?`, `?` |
+| Strings | :x: | [Longest Common Prefix](./) | `?`, `?` |
+| Linked List | :x: | [Delete Node in a Linked List](./) | `?`, `?` |
+| Linked List | :x: | [Remove Nth Node From End of List](./) | `?`, `?` |
+| Linked List | :x: | [Reverse Linked List](./) | `?`, `?` |
+| Linked List | :x: | [Merge Two Sorted Lists](./) | `?`, `?` |
+| Linked List | :x: | [Palindrome Linked List](./) | `?`, `?` |
+| Linked List | :x: | [Linked List Cycle](./) | `?`, `?` |
+| Trees | :x: | [Maximum Depth of Binary Tree](./) | `?`, `?` |
+| Trees | :x: | [Validate Binary Search Tree](./) | `?`, `?` |
+| Trees | :x: | [Symmetric Tree](./) | `?`, `?` |
+| Trees | :x: | [Binary Tree Level Order Traversal](./) | `?`, `?` |
+| Trees | :x: | [Convert Sorted Array to Binary Search Tree](./) | `?`, `?` |
+| Sorting and Searching | :x: | [Merge Sorted Array](./) | `?`, `?` |
+| Sorting and Searching | :x: | [First Bad Version](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Climbing Stairs](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Best Time to Buy and Sell Stock](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Maximum Subarray](./) | `?`, `?` |
+| Dynamic Programming | :x: | [House Robber](./) | `?`, `?` |
+| Design | :x: | [Shuffle an Array](./) | `?`, `?` |
+| Design | :x: | [Min Stack](./) | `?`, `?` |
+| Math | :x: | [Fizz Buzz](./) | `?`, `?` |
+| Math | :x: | [Count Primes](./) | `?`, `?` |
+| Math | :x: | [Power of Three](./) | `?`, `?` |
+| Math | :x: | [Roman to Integer](./) | `?`, `?` |
+| Others | :x: | [Number of 1 Bits](./) | `?`, `?` |
+| Others | :x: | [Hamming Distance](./) | `?`, `?` |
+| Others | :x: | [Reverse Bits](./) | `?`, `?` |
+| Others | :x: | [Pascal's Triangle](./) | `?`, `?` |
+| Others | :x: | [Valid Parentheses](./) | `?`, `?` |
+| Others | :x: | [Missing Number](./) | `?`, `?` |
 
+
+
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
 
 ## [Medium: Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-medium)
 | Category | Solved | Problem | Tags |
 | :----- | :----- | :----- | :----- | 
-| Array / String | :x: | [3Sum](./) | `?`, `?` |
-| Array / String | :x: | [Set Matrix Zeroes](./) | `?`, `?` |
+| Array / String | :white_check_mark: | [3Sum](./15-3sum.ipynb) | `Array`, `Two Pointers`, `Sorting` |
+| Array / String | :x: | [Set Matrix Zeroes](./73-set-matrix-zeroes.ipynb) | `Array`, `Hash Table`, `Matrix` |
 | Array / String | :white_check_mark: | [49. Group Anagrams](./49-group-anagrams.ipynb) | Medium | `Array`, `Hash Table`, `String` |
 | Array / String | :x: | [Longest Substring Without Repeating Characters  ](./) | `?`, `?` |
 | Array / String | :x: | [Longest Palindromic Substring ](./) | `?`, `?` |
@@ -190,12 +256,96 @@
 | Others | :x: | [Task Scheduler](./) | `?`, `?` |
 
 
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
+
 ## [Hard: Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-hard/)
 | Category | Solved | Problem | Tags |
 | :----- | :----- | :----- | :----- | 
-|  | :x: | [?](./) | `?`, `?` |
+| Array and Strings | :white_check_mark: | [Product of Array Except Self](./238-product-of-array-except-self.ipynb) | `Array`, `Prefix Sum` |
+| Array and Strings | :x: | [Spiral Matrix](./) | `?`, `?` |
+| Array and Strings | :x: | [4Sum II](./) | `?`, `?` |
+| Array and Strings | :x: | [Container With Most Water](./) | `?`, `?` |
+| Array and Strings | :x: | [Game of Life](./) | `?`, `?` |
+| Array and Strings | :x: | [First Missing Positive](./) | `?`, `?` |
+| Array and Strings | :x: | [Longest Consecutive Sequence](./) | `?`, `?` |
+| Array and Strings | :x: | [Find the Duplicate Number](./) | `?`, `?` |
+| Array and Strings | :x: | [Longest Substring with At Most K Distinct Characters](./) | `?`, `?` |
+| Array and Strings | :x: | [Basic Calculator II](./) | `?`, `?` |
+| Array and Strings | :x: | [Sliding Window Maximum](./) | `?`, `?` |
+| Array and Strings | :x: | [Minimum Window Substring](./) | `?`, `?` |
+| Linked List | :x: | [Merge k Sorted Lists](./) | `?`, `?` |
+| Linked List | :x: | [Sort List](./) | `?`, `?` |
+| Linked List | :x: | [Copy List with Random Pointer](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Word Ladder](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Surrounded Regions](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Lowest Common Ancestor of a Binary Tree](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Binary Tree Maximum Path Sum](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Friend Circles](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Course Schedule](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Course Schedule II](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Longest Increasing Path in a Matrix](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Alien Dictionary](./) | `?`, `?` |
+| Trees and Graphs | :x: | [Count of Smaller Numbers After Self](./) | `?`, `?` |
+| Backtracking | :x: | [Palindrome Partitioning](./) | `?`, `?` |
+| Backtracking | :x: | [Word Search II](./) | `?`, `?` |
+| Backtracking | :x: | [Remove Invalid Parentheses](./) | `?`, `?` |
+| Backtracking | :x: | [Wildcard Matching](./) | `?`, `?` |
+| Backtracking | :x: | [Regular Expression Matching](./) | `?`, `?` |
+| Sorting and Searching | :x: | [Wiggle Sort II](./) | `?`, `?` |
+| Sorting and Searching | :x: | [Kth Smallest Element in a Sorted Matrix](./) | `?`, `?` |
+| Sorting and Searching | :x: | [Median of Two Sorted Arrays](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Maximum Product Subarray](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Decode Ways](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Best Time to Buy and Sell Stock with Cooldown](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Perfect Squares](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Word Break](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Word Break II](./) | `?`, `?` |
+| Dynamic Programming | :x: | [Burst Balloons](./) | `?`, `?` |
+| Design | :x: | [LRU Cache](./) | `?`, `?` |
+| Design | :x: | [Implement Trie (Prefix Tree)](./) | `?`, `?` |
+| Design | :x: | [Flatten Nested List Iterator](./) | `?`, `?` |
+| Design | :x: | [Find Median from Data Stream](./) | `?`, `?` |
+| Design | :x: | [Range Sum Query 2D - Mutable](./) | `?`, `?` |
+| Math | :x: | [Largest Number](./) | `?`, `?` |
+| Math | :x: | [Max Points on a Line](./) | `?`, `?` |
+| Others | :x: | [Queue Reconstruction by Height](./) | `?`, `?` |
+| Others | :x: | [Trapping Rain Water](./) | `?`, `?` |
+| Others | :x: | [The Skyline Problem](./) | `?`, `?` |
+| Others | :x: | [Largest Rectangle in Histogram](./) | `?`, `?` |
 
-
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
 
 ## Top interview 75 coding challenges
 - https://leetcode.com/studyplan/leetcode-75/
@@ -285,15 +435,15 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
   <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/kmanchikalapudi" target="_new">
-  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 <br/><br/>
 
@@ -330,7 +480,7 @@
 | Two Pointers | :white_check_mark: | [392. Is Subsequence](./392-is-subsequence.ipynb) | Easy | `Two Pointers`, `String`, `Dynamic Programming` |
 | Two Pointers | :x: | [167. Two Sum II - Input Array Is Sorted](./) | Medium | `Array`, `Two Pointers`, `Binary Search` |
 | Two Pointers | :x: | [11. Container With Most Water](./) | Medium | `Array`, `Two Pointers`, `Greedy` |
-| Two Pointers | :x: | [15. 3Sum](./) | Medium | `Array`, `Two Pointers`, `Sorting` |
+| Two Pointers | :white_check_mark: | [15. 3Sum](./15-3sum.ipynb) | Medium | `Array`, `Two Pointers`, `Sorting` |
 | Sliding Window | :x: | [209. Minimum Size Subarray Sum](./) | Medium | `Array`, `Binary Search`, `Sliding Window`, `Prefix Sum` |
 | Sliding Window | :white_check_mark: | [3. Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters.ipynb)  | Medium | `Hash Table`, `String`, `Sliding Window` |
 | Sliding Window | :x: | [30. Substring with Concatenation of All Words](./) | Hard | `Hash Table`, `String`, `Sliding Window` |
@@ -338,7 +488,7 @@
 | Matrix | :x: | [36. Valid Sudoku](./) | Medium | `Array`, `Hash Table`, `Matrix` |
 | Matrix | :x: | [54. Spiral Matrix](./) | Medium | `Array`, `Matrix`, `Simulation` |
 | Matrix | :x: | [48. Rotate Image](./) | Medium | `Array`, `Math`, `Matrix` |
-| Matrix | :x: | [73. Set Matrix Zeroes](./) | Medium | `Array`, `Hash Table`, `Matrix` |
+| Matrix | :x: | [73. Set Matrix Zeroes](./73-set-matrix-zeroes.ipynb) | Medium | `Array`, `Hash Table`, `Matrix` |
 | Matrix | :x: | [289. Game of Life](./) | Medium | `Array`, `Matrix`, `Simulation` |
 | Hashmap | :x: | [383. Ransom Note](./) | Easy | `Hash Table`, `String`, `Counting` |
 | Hashmap | :x: | [205. Isomorphic Strings](./) | Easy | `Hash TableS`, `tring` |
@@ -460,15 +610,15 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
   <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/kmanchikalapudi" target="_new">
-  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 <br/><br/>
 
@@ -579,26 +729,9 @@
 | Math | :x: | [1538. Guess the Majority in a Hidden Array](./) | Medium | `Array`, `Math`, `Interactive`` |
 | Math | :x: | [1183. Maximum Number of Ones](./) | Hard | `Math`, `Greedy`, `Sorting`, `Heap (Priority Queue)` |
 
-
-<!--
-
-| :x: | [](./) | Easy Medium Hard | ``, `` |
-| :x: | [](./) | Easy Medium Hard | ``, `` |
-
-https://rpa.sccl.org/login?url=https://www.oreilly.com/library-access/
-Master Data Structures and Algorithms Interviews - Ace Leetcode & Blind 75+ # https://learning-oreilly-com.rpa.sccl.org/course/master-data-structures/9781837022670/
-
-Data Structures and Algorithms: The Complete Masterclass# https://learning-oreilly-com.rpa.sccl.org/videos/-/9781801078504/
-
- -->
-
 <br/><br/>
 <a href="https://leetcode.com/kmanchikalapudi" target="_new">
   <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/krishnamanchikalapudi" target="_new">
-  <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@dayonedev" target="_new">
