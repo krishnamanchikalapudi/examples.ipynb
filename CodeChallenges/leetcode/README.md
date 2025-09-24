@@ -580,7 +580,7 @@
 | Bit Manipulation | :x: | [190. Reverse Bits](./) | Easy | `Divide and Conquer`, `Bit Manipulation` |
 | Bit Manipulation | :x: | [191. Number of 1 Bits](./) | Easy | `Divide and Conquer`, `Bit Manipulation` |
 | Bit Manipulation | :white_check_mark: | [136. Single Number](./136-single-number.ipynb) | Easy | `Array`, `Bit Manipulation` |
-| Bit Manipulation | :x: | [137. Single Number II](./) | Easy | `Array`, `Bit Manipulation` |
+| Bit Manipulation | :white_check_mark: | [137. Single Number II](./137-single-number-ii.ipynb) | Easy | `Array`, `Bit Manipulation` |
 | Bit Manipulation | :x: | [201. Bitwise AND of Numbers Range](./) | Medium | `Bit Manipulation` |
 | Math | :x: | [9. Palindrome Number](./) | Easy | `Math` |
 | Math | :x: | [66. Plus One](./) | Easy | `Array`, `Math` |
