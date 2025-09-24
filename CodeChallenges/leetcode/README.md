@@ -141,7 +141,7 @@
 | Array | :white_check_mark: | [Two sum](./1-two-sum.ipynb) | `Array`, `Hash Table` |
 | Array | :x: | [Valid Sudoku ](./) | `?`, `?` |
 | Array | :x: | [Rotate Image](./) | `?`, `?` |
-| Strings | :x: | [Reverse String](./) | `?`, `?` |
+| Strings | :white_check_mark: | [Reverse String](./344-reverse-string.ipynb) | `Two Pointers`, `String` |
 | Strings | :x: | [Reverse Integer](./) | `?`, `?` |
 | Strings | :x: | [First Unique Character in a String](./) | `?`, `?` |
 | Strings | :white_check_mark: | [Valid Anagram](./242-valid-anagram.ipynb) | `Hash Table`, `String`, `Sorting` |
