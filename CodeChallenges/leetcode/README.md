@@ -133,8 +133,8 @@
 | Array | :x: | [Remove Duplicates from Sorted Array](./) | `?`, `?` |
 | Array | :x: | [Best Time to Buy and Sell Stock II ](./) | `?`, `?` |
 | Array | :x: | [Rotate Array](./) | `?`, `?` |
-| Array | :x: | [Contains Duplicate  ](./) | `?`, `?` |
-| Array | :x: | [Single Number ](./) | `?`, `?` |
+| Array | :white_check_mark: | [Contains Duplicate](./217-contains-duplicate.ipynb) | `Array`, `Hash Table`, `Sorting`|
+| Array | :white_check_mark: | [136. Single Number](./136-single-number.ipynb) | `Array`, `Bit Manipulation` |
 | Array | :x: | [Intersection of Two Arrays II ](./) | `?`, `?` |
 | Array | :x: | [Plus One ](./) | `?`, `?` |
 | Array | :x: | [Move Zeroes](./) | `?`, `?` |
@@ -419,7 +419,7 @@
 | DP - Multidimensional | :x: | [714. Best Time to Buy and Sell Stock with Transaction Fee](./) | Medium | `Array`, `Dynamic Programming`, `Greedy` |
 | DP - Multidimensional | :x: | [72. Edit Distance](./) | Medium | `String`, `Dynamic Programming` |
 | Bit Manipulation | :x: | [338. Counting Bits](./) | Easy | `Dynamic Programming`, `Bit Manipulation` |
-| Bit Manipulation | :x: | [136. Single Number](./) | Easy | `Array`, `Bit Manipulation` |
+| Bit Manipulation | :white_check_mark: | [136. Single Number](./136-single-number.ipynb) | Easy | `Array`, `Bit Manipulation` |
 | Bit Manipulation | :x: | [1318. Minimum Flips to Make a OR b Equal to c](./) | Medium | `Bit Manipulation` |
 | Trie | :x: | [208. Implement Trie (Prefix Tree)](./) | Medium | `Hash Table`, `String`, `Design`, `Trie` |
 | Trie | :x: | [1268. Search Suggestions System](./) | Medium | `Array`, `String`, `Binary Search`, `Trie`, `Sorting`, `Heap (Priority Queue)` |
@@ -579,7 +579,7 @@
 | Bit Manipulation | :x: | [67. Add Binary](./) | Easy | `Math`, `String`, `Bit Manipulation`, `Simulation` |
 | Bit Manipulation | :x: | [190. Reverse Bits](./) | Easy | `Divide and Conquer`, `Bit Manipulation` |
 | Bit Manipulation | :x: | [191. Number of 1 Bits](./) | Easy | `Divide and Conquer`, `Bit Manipulation` |
-| Bit Manipulation | :x: | [136. Single Number](./) | Easy | `Array`, `Bit Manipulation` |
+| Bit Manipulation | :white_check_mark: | [136. Single Number](./136-single-number.ipynb) | Easy | `Array`, `Bit Manipulation` |
 | Bit Manipulation | :x: | [137. Single Number II](./) | Easy | `Array`, `Bit Manipulation` |
 | Bit Manipulation | :x: | [201. Bitwise AND of Numbers Range](./) | Medium | `Bit Manipulation` |
 | Math | :x: | [9. Palindrome Number](./) | Easy | `Math` |
