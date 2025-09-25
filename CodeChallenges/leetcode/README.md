@@ -56,10 +56,10 @@
 | :x: | [76. Minimum Window Substring](./) | Hard | `Hash Table`, `String`, `Sliding Window` |
 | :x: | [79. Word Search](./) | Medium | `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix` |
 | :x: | [91. Decode Ways](./) | Medium | `String`, `Dynamic Programming` |
-| :x: | [98. Validate Binary Search Tree](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
+| :x: | [98. Validate Binary Search Tree](./98-validate-binary-search-tree.ipynb) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | :x: | [100. Same Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | :x: | [102. Binary Tree Level Order Traversal](./) | Medium | `Tree`, `Breadth-First Search`, `Binary Tree` |
-| :x: | [104. Maximum Depth of Binary Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
+| :white_check_mark: | [104. Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | :x: | [105. Construct Binary Tree from Preorder and Inorder Traversal](./) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Tree`, `Binary Tree` |
 | :x: | [121. Best Time to Buy and Sell Stock](./) | Easy | `Array`, `Dynamic Programming` |
 | :x: | [124. Binary Tree Maximum Path Sum](./) | Hard | `Dynamic Programming`, `Tree`, `Depth-First Search`, `Binary Tree` |
@@ -82,7 +82,7 @@
 | :x: | [212. Word Search II](./) | Hard | `Array`, `String`, `Backtracking`, `Trie`, `Matrix` |
 | :x: | [213. House Robber II](./) | Medium | `Array`, `Dynamic Programming` |
 | :white_check_mark: | [217. Contains Duplicate](./217-contains-duplicate.ipynb) | Easy | `Array`, `Hash Table`, `Sorting` |
-| :x: | [226. Invert Binary Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
+| :white_check_mark: | [226. Invert Binary Tree](./226-invert-binary-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | :x: | [230. Kth Smallest Element in a BST](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | :x: | [235. Lowest Common Ancestor of a Binary Search Tree](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | :white_check_mark: | [238. Product of Array Except Self](./238-product-of-array-except-self.ipynb) | Medium | `Array`, `Prefix Sum` |
@@ -155,8 +155,8 @@
 | Linked List | :x: | [Merge Two Sorted Lists](./) | `?`, `?` |
 | Linked List | :x: | [Palindrome Linked List](./) | `?`, `?` |
 | Linked List | :x: | [Linked List Cycle](./) | `?`, `?` |
-| Trees | :x: | [Maximum Depth of Binary Tree](./) | `?`, `?` |
-| Trees | :x: | [Validate Binary Search Tree](./) | `?`, `?` |
+| Trees | :white_check_mark: | [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree.ipynb) | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
+| Trees | :x: | [Validate Binary Search Tree](./98-validate-binary-search-tree.ipynb) | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | Trees | :x: | [Symmetric Tree](./) | `?`, `?` |
 | Trees | :x: | [Binary Tree Level Order Traversal](./) | `?`, `?` |
 | Trees | :x: | [Convert Sorted Array to Binary Search Tree](./) | `?`, `?` |
@@ -226,7 +226,7 @@
 | Backtracking | :x: | [Subsets](./) | `?`, `?` |
 | Backtracking | :x: | [Word Search](./) | `?`, `?` |
 | Sorting and Searching | :x: | [Sort Colors](./) | `?`, `?` |
-| Sorting and Searching | :white_check_mark: | [347. Top K Frequent Elements](./347-top-k-frequent-elements.ipynb) | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting`, `Quickselect` |
+| Sorting and Searching | :white_check_mark: | [Top K Frequent Elements](./347-top-k-frequent-elements.ipynb) | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting`, `Quickselect` |
 | Sorting and Searching | :x: | [Kth Largest Element in an Array](./) | `?`, `?` |
 | Sorting and Searching | :x: | [Find Peak Element](./) | `?`, `?` |
 | Sorting and Searching | :x: | [Search for a Range](./) | `?`, `?` |
@@ -384,7 +384,7 @@
 | Linked List | :x: | [328. Odd Even Linked List](./) | Medium | `Linked List` |
 | Linked List | :x: | [206. Reverse Linked List](./) | Easy | `Linked List`, `Recursion` |
 | Linked List | :x: | [2130. Maximum Twin Sum of a Linked List](./) | Medium | `Linked List`, `Two Pointers`, `Stack` |
-| Binary Tree - DFS | :x: | [104. Maximum Depth of Binary Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
+| Binary Tree - DFS | :white_check_mark: | [104. Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | Binary Tree - DFS | :x: | [872. Leaf-Similar Trees](./) | Easy | `Tree`, `Depth-First Search`, `Binary Tree` |
 | Binary Tree - DFS | :x: | [1448. Count Good Nodes in Binary Tree](./) | Medium | `Tree`, `Depth-First Search`, `Breadth-First Search `, `Binary Tree` |
 | Binary Tree - DFS | :x: | [437. Path Sum III](./) | Medium | `Tree`, `Depth-First Search`, `Binary Tree` |
@@ -519,9 +519,9 @@
 | Linked List | :x: | [61. Rotate List](./) | Medium | `Linked List`, `Two Pointers` |
 | Linked List | :x: | [86. Partition List](./) | Medium | `Linked List`, `Two Pointers` |
 | Linked List | :x: | [146. LRU Cache](./) | Medium | `Hash Table`, `Linked List`, `Design`, `Doubly-Linked List` |
-| Binary Tree General | :x: | [104. Maximum Depth of Binary Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
+| Binary Tree General | :white_check_mark: | [104. Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | Binary Tree General | :x: | [100. Same Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
-| Binary Tree General | :x: | [226. Invert Binary Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
+| Binary Tree General | :white_check_mark: | [226. Invert Binary Tree](./226-invert-binary-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | Binary Tree General | :x: | [101. Symmetric Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | Binary Tree General | :x: | [105. Construct Binary Tree from Preorder and Inorder Traversal](./) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Tree`, `Binary Tree` |
 | Binary Tree General | :x: | [106. Construct Binary Tree from Inorder and Postorder Traversal](./) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Tree`, `Binary Tree` |
@@ -539,7 +539,7 @@
 | Binary Tree BFS | :x: | [103. Binary Tree Zigzag Level Order Traversal](./) | Medium | `Tree`, `Breadth-First Search`, `Binary Tree` |
 | Binary Search Tree | :x: | [530. Minimum Absolute Difference in BST](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | Binary Search Tree | :x: | [230. Kth Smallest Element in a BST](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree` |
-| Binary Search Tree | :x: | [98. Validate Binary Search Tree](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree` |
+| Binary Search Tree | :x: | [98. Validate Binary Search Tree](./98-validate-binary-search-tree.ipynb) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree` |
 | Graph General | :x: | [200. Number of Islands](./) | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Matrix` |
 | Graph General | :x: | [130. Surrounded Regions](./) | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Matrix` |
 | Graph General | :x: | [133. Clone Graph](./) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` |
