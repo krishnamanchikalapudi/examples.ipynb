@@ -26,108 +26,9 @@
 </a>
 
 
-## Blind top 75 coding challenges
-- https://leetcode.com/problem-list/nbhoml55/
-- https://neetcode.io/practice?tab=blind75
+## [Top Interview Questions: EASY](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
+- https://leetcode.com/explore/interview/card/top-interview-questions-easy/
 
-| Solved | Problem | Difficulty | Tags |
-| :----- | :----- | :----- | :----- | 
-| :white_check_mark: | [1. Two sum](./1-two-sum.ipynb) | Easy | `Array`, `Hash Table` |
-| :white_check_mark: | [3. Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters.ipynb) | Medium | `Hash Table`, `String`, `Sliding Window`|
-| :x: | [5. Longest Palindromic Substring](./) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
-| :x: | [11. Container With Most Water](./) | Medium | `Array`, `Two Pointers`, `Greedy` |
-| :white_check_mark: | [15. 3Sum](./15-3sum.ipynb) | Medium | `Array`, `Two Pointers`, `Sorting` |
-| :x: | [19. Remove Nth Node From End of List](./) | Medium | `Linked List`, `Two Pointers` |
-| :x: | [20. Valid Parentheses](./) | Easy | `String`, `Stack` |
-| :x: | [21. Merge Two Sorted Lists](./) | Easy | `Linked List`, `Recursion` |
-| :x: | [23. Merge k Sorted Lists](./) | Hard | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort` |
-| :x: | [33. Search in Rotated Sorted Array](./) | Medium | `Array`, `Binary Search` |
-| :x: | [39. Combination Sum](./) | Medium | `Array`, `Backtracking` |
-| :x: | [48. Rotate Image](./) | Medium | `Array`, `Math`, `Matrix` |
-| :white_check_mark: | [49. Group Anagrams](./49-group-anagrams.ipynb) | Medium | `Array`, `Hash Table`, `String`, `Sorting` |
-| :x: | [53. Maximum Subarray](./) | Medium | `Array`, `Divide and Conquer`, `Dynamic Programming` |
-| :x: | [54. Spiral Matrix](./) | Medium | `Array`, `Matrix`, `Simulation` |
-| :x: | [55. Jump Game](./) | Medium | `Array`, `Dynamic Programming`, `Greedy` |
-| :x: | [56. Merge Intervals](./) | Medium | `Array`, `Sorting` |
-| :x: | [57. Insert Interval](./) | Medium | `Array` |
-| :x: | [62. Unique Paths](./) | Medium | `Math`, `Dynamic Programming`, `Combinatorics` |
-| :x: | [70. Climbing Stairs](./) | Easy | `Math`, `Dynamic Programming`, `Memoization` |
-| :x: | [73. Set Matrix Zeroes](./73-set-matrix-zeroes.ipynb) | Medium | `Array`, `Hash Table`, `Matrix` |
-| :x: | [76. Minimum Window Substring](./) | Hard | `Hash Table`, `String`, `Sliding Window` |
-| :x: | [79. Word Search](./) | Medium | `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix` |
-| :x: | [91. Decode Ways](./) | Medium | `String`, `Dynamic Programming` |
-| :x: | [98. Validate Binary Search Tree](./98-validate-binary-search-tree.ipynb) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
-| :x: | [100. Same Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
-| :x: | [102. Binary Tree Level Order Traversal](./) | Medium | `Tree`, `Breadth-First Search`, `Binary Tree` |
-| :white_check_mark: | [104. Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
-| :x: | [105. Construct Binary Tree from Preorder and Inorder Traversal](./) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Tree`, `Binary Tree` |
-| :x: | [121. Best Time to Buy and Sell Stock](./) | Easy | `Array`, `Dynamic Programming` |
-| :x: | [124. Binary Tree Maximum Path Sum](./) | Hard | `Dynamic Programming`, `Tree`, `Depth-First Search`, `Binary Tree` |
-| :white_check_mark: | [125. Valid Palindrome](./125-valid-palindrome.ipynb) | Easy | `Two Pointers`, `String` |
-| :white_check_mark: | [128. Longest Consecutive Sequence](./128-longest-consecutive-sequence.ipynb) | Medium | `Array`, `Hash Table`, `Union Find` |
-| :x: | [133. Clone Graph](./) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` |
-| :x: | [139. Word Break](./) | Medium | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` |
-| :x: | [141. Linked List Cycle](./) | Easy | `Hash Table`, `Linked List`, `Two Pointers` |
-| :x: | [143. Reorder List](./) | Medium | `Linked List`, `Two Pointers`, `Stack`, `Recursion` |
-| :x: | [152. Maximum Product Subarray](./) | Medium | `Array`, `Dynamic Programming` |
-| :x: | [153. Find Minimum in Rotated Sorted Array](./) |Medium | `Array`, `Binary Search` |
-| :x: | [190. Reverse Bits](./) | Easy | `Divide and Conquer`, `Bit Manipulation` |
-| :x: | [191. Number of 1 Bits](./) | Easy | `Divide and Conquer`, `Bit Manipulation` |
-| :x: | [198. House Robber](./) | Medium | `Array`, `Dynamic Programming` |
-| :x: | [200. Number of Islands](./) | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Matrix` |
-| :x: | [206. Reverse Linked List](./) | Easy | `Linked List`, `Recursion` |
-| :x: | [207. Course Schedule](./) | Medium | `Depth-First Search`, `Breadth-First Search`, `Graph`, `Topological Sort` |
-| :x: | [208. Implement Trie (Prefix Tree)](./) | Medium | `Hash Table`, `String`, `Design`, `Trie` |
-| :x: | [211. Design Add and Search Words Data Structure](./) | Medium | `String`, `Depth-First Search`, `Design`, `Trie` |
-| :x: | [212. Word Search II](./) | Hard | `Array`, `String`, `Backtracking`, `Trie`, `Matrix` |
-| :x: | [213. House Robber II](./) | Medium | `Array`, `Dynamic Programming` |
-| :white_check_mark: | [217. Contains Duplicate](./217-contains-duplicate.ipynb) | Easy | `Array`, `Hash Table`, `Sorting` |
-| :white_check_mark: | [226. Invert Binary Tree](./226-invert-binary-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
-| :x: | [230. Kth Smallest Element in a BST](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
-| :x: | [235. Lowest Common Ancestor of a Binary Search Tree](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
-| :white_check_mark: | [238. Product of Array Except Self](./238-product-of-array-except-self.ipynb) | Medium | `Array`, `Prefix Sum` |
-| :white_check_mark: | [242. Valid Anagram](./242-valid-anagram.ipynb) | Easy | `Hash Table`, `String`, `Sorting` |
-| :x: | [252. Meeting Rooms](./252-meeting-rooms.ipynb) | Easy | `Array`, `Sorting` |
-| :x: | [253. Meeting Rooms II](./253-meeting-rooms-ii.ipynb) | Medium | `Array`, `Two Pointers`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Prefix Sum` |
-| :x: | [261. Graph Valid Tree](./261-graph-valid-tree.ipynb) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` |
-| :x: | [268. Missing Number](./) | Easy | `Array`, `Hash Table`, `Math`, `Binary Search`, `Bit Manipulation`, `Sorting` |
-| :x:: | [269. Alien Dictionary](./269-alien-dictionary.ipynb) | Hard | `Array`, `String`, `Depth-First Search`, `Breadth-First Search`, `Graph`, `Topological Sort` |
-| :x: | [271. Encode and Decode Strings](./271-encode-and-decode-strings.ipynb) | Medium | `Array`, `String`, ` Design` |
-| :x: | [295. Find Median from Data Stream](./) | Hard | `Two Pointers`, `Design`, `Sorting`, `Heap (Priority Queue)`, `Data Stream` |
-| :x: | [297. Serialize and Deserialize Binary Tree](./) | Hard | `String`, `Tree`, `Depth-First Search`, `Breadth-First Search`, `Design`, `Binary Tree` |
-| :x: | [300. Longest Increasing Subsequence](./) | Medium | `ArrayBinary SearchDynamic Programming` |
-| :x: | [322. Coin Change](./) | Medium | `ArrayDynamic ProgrammingBreadth-First Search` |
-| :x: | [323. Number of Connected Components in an Undirected Graph](./323-number-of-connected-components-in-an-undirected-graph.ipynb) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` |
-| :x: | [338. Counting Bits](./) | Easy | `Dynamic Programming`, `Bit Manipulation` |
-| :white_check_mark: | [347. Top K Frequent Elements](./347-top-k-frequent-elements.ipynb) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting`, `Quickselect` |
-| :x: | [371. Sum of Two Integers](./) | Medium | `Math`, `Bit Manipulation` |
-| :x: | [417. Pacific Atlantic Water Flow](./) | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
-| :x: | [424. Longest Repeating Character Replacement](./) | Medium | `Hash Table`, `String`, `Sliding Window` |
-| :x: | [435. Non-overlapping Intervals](./) | Medium | `Array`, `Dynamic Programming`, `Greedy`, `Sorting` |
-| :x: | [572. Subtree of Another Tree](./) | Easy | `Tree`, `Depth-First Search`, `String Matching`, `Binary Tree`, `Hash Function` |
-| :x: | [647. Palindromic Substrings](./) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
-| :x: | [1143. Longest Common Subsequence](./) | Medium | `String`, `Dynamic Programming` |
-
-
-<br/><br/>
-<a href="https://leetcode.com/kmanchikalapudi" target="_new">
-  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@dayonedev" target="_new">
-  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@dayonedev" target="_new">
-  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<br/><br/>
-
-## [Easy: Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
 | Category | Solved | Problem | Tags |
 | :----- | :----- | :----- | :----- | 
 | Array | :x: | [Remove Duplicates from Sorted Array](./) | `?`, `?` |
@@ -199,7 +100,10 @@
 </a>
 <br/><br/>
 
-## [Medium: Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-medium)
+
+## [Top Interview Questions: MEDIUM](https://leetcode.com/explore/interview/card/top-interview-questions-medium)
+- https://leetcode.com/explore/interview/card/top-interview-questions-medium
+
 | Category | Solved | Problem | Tags |
 | :----- | :----- | :----- | :----- | 
 | Array / String | :white_check_mark: | [3Sum](./15-3sum.ipynb) | `Array`, `Two Pointers`, `Sorting` |
@@ -255,7 +159,6 @@
 | Others | :x: | [Find the Celebrity](./) | `?`, `?` |
 | Others | :x: | [Task Scheduler](./) | `?`, `?` |
 
-
 <br/><br/>
 <a href="https://leetcode.com/kmanchikalapudi" target="_new">
   <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
@@ -274,7 +177,10 @@
 </a>
 <br/><br/>
 
-## [Hard: Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-hard/)
+
+## [Top Interview Questions: HARD](https://leetcode.com/explore/interview/card/top-interview-questions-hard/)
+- https://leetcode.com/explore/interview/card/top-interview-questions-hard/ 
+ 
 | Category | Solved | Problem | Tags |
 | :----- | :----- | :----- | :----- | 
 | Array and Strings | :white_check_mark: | [Product of Array Except Self](./238-product-of-array-except-self.ipynb) | `Array`, `Prefix Sum` |
@@ -346,6 +252,7 @@
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br/><br/>
+
 
 ## Top interview 75 coding challenges
 - https://leetcode.com/studyplan/leetcode-75/
@@ -602,6 +509,108 @@
 | Multidimensional DP | :x: | [123. Best Time to Buy and Sell Stock III](./) | Hard | `Array`, `Dynamic Programming` |
 | Multidimensional DP | :x: | [188. Best Time to Buy and Sell Stock IV](./) | Hard | `Array`, `Dynamic Programming` |
 | Multidimensional DP | :x: | [221. Maximal Square](./) | Medium | `Array`, `Dynamic Programming`, `Matrix` |
+
+
+<br/><br/>
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
+
+
+## Blind top 75 coding challenges
+- https://leetcode.com/problem-list/nbhoml55/
+- https://neetcode.io/practice?tab=blind75
+
+| Solved | Problem | Difficulty | Tags |
+| :----- | :----- | :----- | :----- | 
+| :white_check_mark: | [1. Two sum](./1-two-sum.ipynb) | Easy | `Array`, `Hash Table` |
+| :white_check_mark: | [3. Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters.ipynb) | Medium | `Hash Table`, `String`, `Sliding Window`|
+| :x: | [5. Longest Palindromic Substring](./) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
+| :x: | [11. Container With Most Water](./) | Medium | `Array`, `Two Pointers`, `Greedy` |
+| :white_check_mark: | [15. 3Sum](./15-3sum.ipynb) | Medium | `Array`, `Two Pointers`, `Sorting` |
+| :x: | [19. Remove Nth Node From End of List](./) | Medium | `Linked List`, `Two Pointers` |
+| :x: | [20. Valid Parentheses](./) | Easy | `String`, `Stack` |
+| :x: | [21. Merge Two Sorted Lists](./) | Easy | `Linked List`, `Recursion` |
+| :x: | [23. Merge k Sorted Lists](./) | Hard | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort` |
+| :x: | [33. Search in Rotated Sorted Array](./) | Medium | `Array`, `Binary Search` |
+| :x: | [39. Combination Sum](./) | Medium | `Array`, `Backtracking` |
+| :x: | [48. Rotate Image](./) | Medium | `Array`, `Math`, `Matrix` |
+| :white_check_mark: | [49. Group Anagrams](./49-group-anagrams.ipynb) | Medium | `Array`, `Hash Table`, `String`, `Sorting` |
+| :x: | [53. Maximum Subarray](./) | Medium | `Array`, `Divide and Conquer`, `Dynamic Programming` |
+| :x: | [54. Spiral Matrix](./) | Medium | `Array`, `Matrix`, `Simulation` |
+| :x: | [55. Jump Game](./) | Medium | `Array`, `Dynamic Programming`, `Greedy` |
+| :x: | [56. Merge Intervals](./) | Medium | `Array`, `Sorting` |
+| :x: | [57. Insert Interval](./) | Medium | `Array` |
+| :x: | [62. Unique Paths](./) | Medium | `Math`, `Dynamic Programming`, `Combinatorics` |
+| :x: | [70. Climbing Stairs](./) | Easy | `Math`, `Dynamic Programming`, `Memoization` |
+| :x: | [73. Set Matrix Zeroes](./73-set-matrix-zeroes.ipynb) | Medium | `Array`, `Hash Table`, `Matrix` |
+| :x: | [76. Minimum Window Substring](./) | Hard | `Hash Table`, `String`, `Sliding Window` |
+| :x: | [79. Word Search](./) | Medium | `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix` |
+| :x: | [91. Decode Ways](./) | Medium | `String`, `Dynamic Programming` |
+| :x: | [98. Validate Binary Search Tree](./98-validate-binary-search-tree.ipynb) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
+| :x: | [100. Same Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
+| :x: | [102. Binary Tree Level Order Traversal](./) | Medium | `Tree`, `Breadth-First Search`, `Binary Tree` |
+| :white_check_mark: | [104. Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
+| :x: | [105. Construct Binary Tree from Preorder and Inorder Traversal](./) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Tree`, `Binary Tree` |
+| :x: | [121. Best Time to Buy and Sell Stock](./) | Easy | `Array`, `Dynamic Programming` |
+| :x: | [124. Binary Tree Maximum Path Sum](./) | Hard | `Dynamic Programming`, `Tree`, `Depth-First Search`, `Binary Tree` |
+| :white_check_mark: | [125. Valid Palindrome](./125-valid-palindrome.ipynb) | Easy | `Two Pointers`, `String` |
+| :white_check_mark: | [128. Longest Consecutive Sequence](./128-longest-consecutive-sequence.ipynb) | Medium | `Array`, `Hash Table`, `Union Find` |
+| :x: | [133. Clone Graph](./) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` |
+| :x: | [139. Word Break](./) | Medium | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` |
+| :x: | [141. Linked List Cycle](./) | Easy | `Hash Table`, `Linked List`, `Two Pointers` |
+| :x: | [143. Reorder List](./) | Medium | `Linked List`, `Two Pointers`, `Stack`, `Recursion` |
+| :x: | [152. Maximum Product Subarray](./) | Medium | `Array`, `Dynamic Programming` |
+| :x: | [153. Find Minimum in Rotated Sorted Array](./) |Medium | `Array`, `Binary Search` |
+| :x: | [190. Reverse Bits](./) | Easy | `Divide and Conquer`, `Bit Manipulation` |
+| :x: | [191. Number of 1 Bits](./) | Easy | `Divide and Conquer`, `Bit Manipulation` |
+| :x: | [198. House Robber](./) | Medium | `Array`, `Dynamic Programming` |
+| :x: | [200. Number of Islands](./) | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Matrix` |
+| :x: | [206. Reverse Linked List](./) | Easy | `Linked List`, `Recursion` |
+| :x: | [207. Course Schedule](./) | Medium | `Depth-First Search`, `Breadth-First Search`, `Graph`, `Topological Sort` |
+| :x: | [208. Implement Trie (Prefix Tree)](./) | Medium | `Hash Table`, `String`, `Design`, `Trie` |
+| :x: | [211. Design Add and Search Words Data Structure](./) | Medium | `String`, `Depth-First Search`, `Design`, `Trie` |
+| :x: | [212. Word Search II](./) | Hard | `Array`, `String`, `Backtracking`, `Trie`, `Matrix` |
+| :x: | [213. House Robber II](./) | Medium | `Array`, `Dynamic Programming` |
+| :white_check_mark: | [217. Contains Duplicate](./217-contains-duplicate.ipynb) | Easy | `Array`, `Hash Table`, `Sorting` |
+| :white_check_mark: | [226. Invert Binary Tree](./226-invert-binary-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
+| :x: | [230. Kth Smallest Element in a BST](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
+| :x: | [235. Lowest Common Ancestor of a Binary Search Tree](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
+| :white_check_mark: | [238. Product of Array Except Self](./238-product-of-array-except-self.ipynb) | Medium | `Array`, `Prefix Sum` |
+| :white_check_mark: | [242. Valid Anagram](./242-valid-anagram.ipynb) | Easy | `Hash Table`, `String`, `Sorting` |
+| :x: | [252. Meeting Rooms](./252-meeting-rooms.ipynb) | Easy | `Array`, `Sorting` |
+| :x: | [253. Meeting Rooms II](./253-meeting-rooms-ii.ipynb) | Medium | `Array`, `Two Pointers`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Prefix Sum` |
+| :x: | [261. Graph Valid Tree](./261-graph-valid-tree.ipynb) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` |
+| :x: | [268. Missing Number](./) | Easy | `Array`, `Hash Table`, `Math`, `Binary Search`, `Bit Manipulation`, `Sorting` |
+| :x:: | [269. Alien Dictionary](./269-alien-dictionary.ipynb) | Hard | `Array`, `String`, `Depth-First Search`, `Breadth-First Search`, `Graph`, `Topological Sort` |
+| :x: | [271. Encode and Decode Strings](./271-encode-and-decode-strings.ipynb) | Medium | `Array`, `String`, ` Design` |
+| :x: | [295. Find Median from Data Stream](./) | Hard | `Two Pointers`, `Design`, `Sorting`, `Heap (Priority Queue)`, `Data Stream` |
+| :x: | [297. Serialize and Deserialize Binary Tree](./) | Hard | `String`, `Tree`, `Depth-First Search`, `Breadth-First Search`, `Design`, `Binary Tree` |
+| :x: | [300. Longest Increasing Subsequence](./) | Medium | `ArrayBinary SearchDynamic Programming` |
+| :x: | [322. Coin Change](./) | Medium | `ArrayDynamic ProgrammingBreadth-First Search` |
+| :x: | [323. Number of Connected Components in an Undirected Graph](./323-number-of-connected-components-in-an-undirected-graph.ipynb) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` |
+| :x: | [338. Counting Bits](./) | Easy | `Dynamic Programming`, `Bit Manipulation` |
+| :white_check_mark: | [347. Top K Frequent Elements](./347-top-k-frequent-elements.ipynb) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting`, `Quickselect` |
+| :x: | [371. Sum of Two Integers](./) | Medium | `Math`, `Bit Manipulation` |
+| :x: | [417. Pacific Atlantic Water Flow](./) | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
+| :x: | [424. Longest Repeating Character Replacement](./) | Medium | `Hash Table`, `String`, `Sliding Window` |
+| :x: | [435. Non-overlapping Intervals](./) | Medium | `Array`, `Dynamic Programming`, `Greedy`, `Sorting` |
+| :x: | [572. Subtree of Another Tree](./) | Easy | `Tree`, `Depth-First Search`, `String Matching`, `Binary Tree`, `Hash Function` |
+| :x: | [647. Palindromic Substrings](./) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
+| :x: | [1143. Longest Common Subsequence](./) | Medium | `String`, `Dynamic Programming` |
 
 
 <br/><br/>
