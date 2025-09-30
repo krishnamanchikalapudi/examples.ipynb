@@ -186,7 +186,7 @@
 | Array and Strings | :white_check_mark: | [Product of Array Except Self](./238-product-of-array-except-self.ipynb) | `Array`, `Prefix Sum` |
 | Array and Strings | :x: | [Spiral Matrix](./) | `?`, `?` |
 | Array and Strings | :x: | [4Sum II](./) | `?`, `?` |
-| Array and Strings | :x: | [Container With Most Water](./) | `?`, `?` |
+| Array and Strings | :x: | [Container With Most Water](./11-container-with-most-water.ipynb) | `Array`, `Two Pointers`, `Greedy`|
 | Array and Strings | :x: | [Game of Life](./) | `?`, `?` |
 | Array and Strings | :x: | [First Missing Positive](./) | `?`, `?` |
 | Array and Strings | :x: | [Longest Consecutive Sequence](./) | `?`, `?` |
@@ -270,7 +270,7 @@
 | Array / String | :x: | [443. String Compression](./) | Medium | `Two PointersString` |
 | Two Pointers | :x: | [283. Move Zeroes](./) | Easy | `Array`, `Two Pointers` |
 | Two Pointers | :white_check_mark: | [392. Is Subsequence](./392-is-subsequence.ipynb) | Easy | `Two Pointers`, `String`, `Dynamic Programming` |
-| Two Pointers | :x: | [11. Container With Most Water](./) | Medium | `Array`, `Two Pointers`, `Greedy` |
+| Two Pointers | :x: | [11. Container With Most Water](./11-container-with-most-water.ipynb) | Medium | `Array`, `Two Pointers`, `Greedy` |
 | Two Pointers | :x: | [1679. Max Number of K-Sum Pairs](./) | Medium | `Array`, `Hash Table`, `Two Pointers`, `Sorting` |
 | Sliding Window | :x: | [643. Maximum Average Subarray I](./) | Easy | `Array`, `Sliding Window` |
 | Sliding Window | :x: | [1456. Maximum Number of Vowels in a Substring of Given Length](./) | Medium | `String`, `Sliding Window` |
@@ -386,7 +386,7 @@
 | Two Pointers | :white_check_mark: | [125. Valid Palindrome](./125-valid-palindrome.ipynb) | Easy | `Two Pointers`, `String` |
 | Two Pointers | :white_check_mark: | [392. Is Subsequence](./392-is-subsequence.ipynb) | Easy | `Two Pointers`, `String`, `Dynamic Programming` |
 | Two Pointers | :x: | [167. Two Sum II - Input Array Is Sorted](./) | Medium | `Array`, `Two Pointers`, `Binary Search` |
-| Two Pointers | :x: | [11. Container With Most Water](./) | Medium | `Array`, `Two Pointers`, `Greedy` |
+| Two Pointers | :x: | [11. Container With Most Water](./11-container-with-most-water.ipynb) | Medium | `Array`, `Two Pointers`, `Greedy` |
 | Two Pointers | :white_check_mark: | [15. 3Sum](./15-3sum.ipynb) | Medium | `Array`, `Two Pointers`, `Sorting` |
 | Sliding Window | :x: | [209. Minimum Size Subarray Sum](./) | Medium | `Array`, `Binary Search`, `Sliding Window`, `Prefix Sum` |
 | Sliding Window | :white_check_mark: | [3. Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters.ipynb)  | Medium | `Hash Table`, `String`, `Sliding Window` |
@@ -539,7 +539,7 @@
 | :white_check_mark: | [1. Two sum](./1-two-sum.ipynb) | Easy | `Array`, `Hash Table` |
 | :white_check_mark: | [3. Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters.ipynb) | Medium | `Hash Table`, `String`, `Sliding Window`|
 | :x: | [5. Longest Palindromic Substring](./) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
-| :x: | [11. Container With Most Water](./) | Medium | `Array`, `Two Pointers`, `Greedy` |
+| :x: | [11. Container With Most Water](./11-container-with-most-water.ipynb) | Medium | `Array`, `Two Pointers`, `Greedy` |
 | :white_check_mark: | [15. 3Sum](./15-3sum.ipynb) | Medium | `Array`, `Two Pointers`, `Sorting` |
 | :x: | [19. Remove Nth Node From End of List](./) | Medium | `Linked List`, `Two Pointers` |
 | :x: | [20. Valid Parentheses](./) | Easy | `String`, `Stack` |
@@ -610,6 +610,7 @@
 | :x: | [435. Non-overlapping Intervals](./) | Medium | `Array`, `Dynamic Programming`, `Greedy`, `Sorting` |
 | :x: | [572. Subtree of Another Tree](./) | Easy | `Tree`, `Depth-First Search`, `String Matching`, `Binary Tree`, `Hash Function` |
 | :x: | [647. Palindromic Substrings](./) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
+| :white_check_mark: | [876. Middle of the Linked List](./876-middle-of-the-linked-list.ipynb) | Easy | `Two Pointers`, `Linked List` |
 | :x: | [1143. Longest Common Subsequence](./) | Medium | `String`, `Dynamic Programming` |
 
 
