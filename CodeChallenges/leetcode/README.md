@@ -260,7 +260,7 @@
 | Category | Solved | Problem | Difficulty | Tags |
 | :----- | :----- | :----- | :----- | :----- | 
 | Array / String | :white_check_mark: | [1768. Merge Strings Alternately](./1768-merge-strings-alternately.ipynb) | Easy | `Two Pointers`, `String` |
-| Array / String | :x: | [1071. Greatest Common Divisor of Strings](./) | Easy | `Math`, `String` |
+| Array / String | :white_check_mark: | [1071. Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings.ipynb) | Easy | `Math`, `String` |
 | Array / String | :x: | [1431. Kids With the Greatest Number of Candies](./) | Easy | `Array` |
 | Array / String | :x: | [605. Can Place Flowers](./) | Easy | `Array`, `Greedy` |
 | Array / String | :x: | [345. Reverse Vowels of a String](./) | Easy | `Two Pointers`, `String` |
