@@ -259,7 +259,7 @@
 
 | Category | Solved | Problem | Difficulty | Tags |
 | :----- | :----- | :----- | :----- | :----- | 
-| Array / String | :x: | [1768. Merge Strings Alternately](./) | Easy | `Two Pointers`, `String` |
+| Array / String | :white_check_mark: | [1768. Merge Strings Alternately](./1768-merge-strings-alternately.ipynb) | Easy | `Two Pointers`, `String` |
 | Array / String | :x: | [1071. Greatest Common Divisor of Strings](./) | Easy | `Math`, `String` |
 | Array / String | :x: | [1431. Kids With the Greatest Number of Candies](./) | Easy | `Array` |
 | Array / String | :x: | [605. Can Place Flowers](./) | Easy | `Array`, `Greedy` |
