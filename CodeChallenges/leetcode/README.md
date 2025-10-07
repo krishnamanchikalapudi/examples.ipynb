@@ -262,7 +262,7 @@
 | Array / String | :white_check_mark: | [1768. Merge Strings Alternately](./1768-merge-strings-alternately.ipynb) | Easy | `Two Pointers`, `String` |
 | Array / String | :white_check_mark: | [1071. Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings.ipynb) | Easy | `Math`, `String` |
 | Array / String | :white_check_mark: | [1431. Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies.ipynb) | Easy | `Array` |
-| Array / String | :x: | [605. Can Place Flowers](./) | Easy | `Array`, `Greedy` |
+| Array / String | :white_check_mark | [605. Can Place Flowers](./605-can-place-flowers.ipynb) | Easy | `Array`, `Greedy` |
 | Array / String | :x: | [345. Reverse Vowels of a String](./) | Easy | `Two Pointers`, `String` |
 | Array / String | :x: | [151. Reverse Words in a String](./) | Medium | `Two Pointers`, `String` |
 | Array / String | :white_check_mark: | [238. Product of Array Except Self](./238-product-of-array-except-self.ipynb) | Medium | `Array`, `Prefix Sum` |
