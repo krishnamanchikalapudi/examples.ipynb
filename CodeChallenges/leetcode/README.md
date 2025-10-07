@@ -77,7 +77,7 @@
 | Others | :x: | [Hamming Distance](./) | `?`, `?` |
 | Others | :x: | [Reverse Bits](./) | `?`, `?` |
 | Others | :x: | [Pascal's Triangle](./) | `?`, `?` |
-| Others | :x: | [Valid Parentheses](./) | `?`, `?` |
+| Others | white_check_mark: | [Valid Parentheses](./20-valid-parentheses.ipynb) |`String`, `Stack` |
 | Others | :x: | [Missing Number](./) | `?`, `?` |
 
 
@@ -410,7 +410,7 @@
 | Intervals | :x: | [56. Merge Intervals](./) | Medium | `Array`, `Sorting` |
 | Intervals | :x: | [57. Insert Interval](./) | Medium | `Array` |
 | Intervals | :x: | [452. Minimum Number of Arrows to Burst Balloons](./) | Medium | `Array`, `Greedy`, `Sorting` |
-| Stack | :x: | [20. Valid Parentheses](./) | Easy | `String`, `Stack` |
+| Stack | white_check_mark: | [20. Valid Parentheses](./20-valid-parentheses.ipynb) | Easy | `String`, `Stack` |
 | Stack | :x: | [71. Simplify Path](./) | Medium | `String`, Stack` |
 | Stack | :x: | [155. Min Stack](./) | Medium | `Stack`, Design` |
 | Stack | :x: | [150. Evaluate Reverse Polish Notation](./) | Medium | `Array`, Math`, Stack` |
@@ -542,7 +542,7 @@
 | :white_check_mark: | [11. Container With Most Water](./11-container-with-most-water.ipynb) | Medium | `Array`, `Two Pointers`, `Greedy` |
 | :white_check_mark: | [15. 3Sum](./15-3sum.ipynb) | Medium | `Array`, `Two Pointers`, `Sorting` |
 | :x: | [19. Remove Nth Node From End of List](./) | Medium | `Linked List`, `Two Pointers` |
-| :x: | [20. Valid Parentheses](./) | Easy | `String`, `Stack` |
+| white_check_mark: | [20. Valid Parentheses](./20-valid-parentheses.ipynb) | Easy | `String`, `Stack` |
 | :x: | [21. Merge Two Sorted Lists](./) | Easy | `Linked List`, `Recursion` |
 | :x: | [23. Merge k Sorted Lists](./) | Hard | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort` |
 | :x: | [33. Search in Rotated Sorted Array](./) | Medium | `Array`, `Binary Search` |
