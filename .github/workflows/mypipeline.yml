@@ -43,11 +43,15 @@ jobs:
 
         - name: "Install Jupyter NoteBook"  
           run: |
-            pip3 install -U notebook jupyter-book ghp-import
-            
-        - name: "Build the notebooks"
+            pip3 install -U notebook jupyter-book ghp-import nbval pytest papermill
+
+        - name: "Run nbval tests"
           run: |
-            jupyter-book clean build 1-two-sum.ipynb
+             pytest --nbval-lax --nbval-sanitize-with ".*" 1-two-sum.ipynb
+
+        - name: "Execute notebook with Papermill"  # Example for execution
+          run: |
+            papermill 1-two-sum.ipynb 3-longest-substring-without-repeating-characters.ipynb
 
         - name: "Leetcode: Summary "
           run: |
