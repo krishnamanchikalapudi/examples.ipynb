@@ -16,21 +16,34 @@ env:
   BUILD_ID: "ga-${{github.run_number}}"
 jobs:
   leetcodeNotebooks:
-    name: "LeetCode"
-    runs-on: ubuntu-latest
-    
+    name: "Docker package"
+    runs-on: ubuntu-latest # https://github.com/actions/runner-images
+    strategy:
+        fail-fast: false
+        matrix:
+            os: [ubuntu-latest]
+            java: [17]
+            include:
+            - language: ['java-kotlin']
+              build-mode: none 
     defaults:
        run:
+         # working-directory: "${{env.DEFAULT_WORKSPACE}}"
          working-directory: "${{env.DEFAULT_WORKSPACE}}/CodeChallenges/leetcode"
     steps:
+        - name: "Clone VCS"
+          uses: actions/checkout@v5 # ref: https://github.com/actions/checkout
+
+        # - name: "Python setup"
+        #   uses: actions/setup-python@v6  # ref: https://github.com/actions/setup-python
+        #   with:
+        #     python-version: '3.12'
+
         - name: "Env vars"
           run: |
             pwd
             tree .
             echo "TODAYS_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
-
-        - name: "Clone VCS"
-          uses: actions/checkout@v4 # ref: https://github.com/actions/checkout
 
         - name: "Install Jupyter NoteBook"  
           run: |
