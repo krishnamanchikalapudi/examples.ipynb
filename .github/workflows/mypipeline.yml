@@ -1,0 +1,59 @@
+name: "MY Pipeline"
+on:
+  push:
+    branches: 
+      - '**'
+permissions:
+  actions: read # for detecting the Github Actions environment.
+  id-token: write # for creating OIDC tokens for signing.
+  packages: write # for uploading attestations.
+  contents: read
+  security-events: write # Required for uploading code scanning.
+  attestations: write
+  pages: write
+env:
+  DEFAULT_WORKSPACE: "${{github.workspace}}"  # /home/runner/work/examples.ipynb/examples.ipynb
+  BUILD_ID: "ga-${{github.run_number}}"
+jobs:
+  leetcodeNotebooks:
+    name: "LeetCode"
+    runs-on: ubuntu-latest
+    
+    defaults:
+       run:
+         working-directory: "${{env.DEFAULT_WORKSPACE}}/CodeChallenges/leetcode"
+    steps:
+        - name: "Env vars"
+          run: |
+            echo "TODAYS_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+        - name: "Clone VCS"
+          uses: actions/checkout@v4 # ref: https://github.com/actions/checkout
+
+        - name: "Install Jupyter NoteBook"  
+          run: |
+            pip3 install -U jupyter-book ghp-import
+            
+        - name: "Build the notebooks"
+          run: |
+            jupyter-book clean build --all .
+
+        - name: "Leetcode: Summary "
+          run: |
+            echo "# :ship: Leet Code: Summary :pushpin:" >> $GITHUB_STEP_SUMMARY
+            echo " " >> $GITHUB_STEP_SUMMARY
+            echo " " >> $GITHUB_STEP_SUMMARY
+            echo " Build on: ${{env.TODAYS_DATE}} " >> $GITHUB_STEP_SUMMARY
+            echo " - ubuntu-latest installed with: " >> $GITHUB_STEP_SUMMARY
+            echo "    - $(java --version) " >> $GITHUB_STEP_SUMMARY
+            echo "    - $(mvn -v) " >> $GITHUB_STEP_SUMMARY
+            echo "    - $(docker -v) " >> $GITHUB_STEP_SUMMARY
+            echo "    - $(python3 -V) " >> $GITHUB_STEP_SUMMARY
+            echo "    - $(pip3 -V) " >> $GITHUB_STEP_SUMMARY
+            echo "    - NPM version: $(npm -v) " >> $GITHUB_STEP_SUMMARY
+            echo "    - Node version: $(node -v) " >> $GITHUB_STEP_SUMMARY
+            echo " - Variables info" >> $GITHUB_STEP_SUMMARY
+            echo "    - Build ID: ${{env.BUILD_ID}} " >> $GITHUB_STEP_SUMMARY
+            echo " " >> $GITHUB_STEP_SUMMARY
+
+  
