@@ -332,7 +332,7 @@
 | Trie | :x: | [1268. Search Suggestions System](./) | Medium | `Array`, `String`, `Binary Search`, `Trie`, `Sorting`, `Heap (Priority Queue)` |
 | Intervals | :x: | [435. Non-overlapping Intervals](./) | Medium | `Array`, `Dynamic Programming`, `Greedy`, `Sorting` |
 | Intervals | :x: | [452. Minimum Number of Arrows to Burst Balloons](./) | Medium | `Array`, `Greedy`, `Sorting` |
-| Monotonic Stack | :x: | [739. Daily Temperatures](./) | Medium | `Array`, `Stack`, `Monotonic Stack` |
+| Monotonic Stack | :white_check_mark: | [739. Daily Temperatures](./739-daily-temperatures.ipynb) | Medium | `Array`, `Stack`, `Monotonic Stack` |
 | Monotonic Stack | :x: | [901. Online Stock Span](./) | Medium | `Stack`, `Design`, `Monotonic Stack`, `Data Stream` |
 
 
