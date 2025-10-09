@@ -51,7 +51,7 @@ jobs:
             
         - name: "Build the notebooks"
           run: |
-            jupyter-book clean build --all .
+            jupyter-book clean build .
 
         - name: "Leetcode: Summary "
           run: |
