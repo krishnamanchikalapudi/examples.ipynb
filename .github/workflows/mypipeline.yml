@@ -51,7 +51,7 @@ jobs:
             
         - name: "Build the notebooks"
           run: |
-            jupyter-book clean build .
+            jupyter-book clean build 1-two-sum.ipynb
 
         - name: "Leetcode: Summary "
           run: |
