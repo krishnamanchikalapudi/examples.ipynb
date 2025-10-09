@@ -43,7 +43,7 @@ jobs:
 
         - name: "Install Jupyter NoteBook"  
           run: |
-            pip3 install -U jupyter-book ghp-import
+            pip3 install -U notebook jupyter-book ghp-import
             
         - name: "Build the notebooks"
           run: |
