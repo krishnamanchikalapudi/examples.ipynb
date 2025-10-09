@@ -25,6 +25,8 @@ jobs:
     steps:
         - name: "Env vars"
           run: |
+            pwd
+            tree .
             echo "TODAYS_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
         - name: "Clone VCS"
