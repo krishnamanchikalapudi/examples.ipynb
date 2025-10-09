@@ -22,14 +22,10 @@ jobs:
         fail-fast: false
         matrix:
             os: [ubuntu-latest]
-            java: [17]
-            include:
-            - language: ['java-kotlin']
-              build-mode: none 
+            python: [3.11]
     defaults:
-       run:
-         # working-directory: "${{env.DEFAULT_WORKSPACE}}"
-         working-directory: "${{env.DEFAULT_WORKSPACE}}/CodeChallenges/leetcode"
+      run:
+        working-directory: "${{env.DEFAULT_WORKSPACE}}/CodeChallenges/leetcode"
     steps:
         - name: "Clone VCS"
           uses: actions/checkout@v5 # ref: https://github.com/actions/checkout
