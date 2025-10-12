@@ -47,7 +47,7 @@ jobs:
 
         - name: "Run nbval tests"
           run: |
-             pytest --nbval-lax --nbval-sanitize-with ".*" 1-two-sum.ipynb
+            pytest --nbval-lax --nbval-sanitize-with ".*" 1-two-sum.ipynb
 
         - name: "Execute notebook with Papermill"  # Example for execution
           run: |
