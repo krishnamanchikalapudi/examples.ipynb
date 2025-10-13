@@ -599,7 +599,7 @@
 | :x: | [271. Encode and Decode Strings](./271-encode-and-decode-strings.ipynb) | Medium | `Array`, `String`, ` Design` |
 | :x: | [295. Find Median from Data Stream](./) | Hard | `Two Pointers`, `Design`, `Sorting`, `Heap (Priority Queue)`, `Data Stream` |
 | :x: | [297. Serialize and Deserialize Binary Tree](./) | Hard | `String`, `Tree`, `Depth-First Search`, `Breadth-First Search`, `Design`, `Binary Tree` |
-| :x: | [300. Longest Increasing Subsequence](./) | Medium | `ArrayBinary SearchDynamic Programming` |
+| :x: | [300. Longest Increasing Subsequence](./) | Medium | `Array`, `Binary Search`, `Dynamic Programming` |
 | :x: | [322. Coin Change](./) | Medium | `ArrayDynamic ProgrammingBreadth-First Search` |
 | :x: | [323. Number of Connected Components in an Undirected Graph](./323-number-of-connected-components-in-an-undirected-graph.ipynb) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` |
 | :x: | [338. Counting Bits](./) | Easy | `Dynamic Programming`, `Bit Manipulation` |
