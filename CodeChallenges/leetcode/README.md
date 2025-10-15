@@ -477,7 +477,7 @@
 | Binary Search | :x: | [162. Find Peak Element](./) | Medium | `Array`, `Binary Search` |
 | Binary Search | :x: | [33. Search in Rotated Sorted Array](./) | Medium | `Array`, `Binary Search` |
 | Binary Search | :x: | [34. Find First and Last Position of Element in Sorted Array](./) | Medium | `Array`, `Binary Search` |
-| Binary Search | :x: | [153. Find Minimum in Rotated Sorted Array](./) | Medium | `Array`, `Binary Search` |
+| Binary Search | :white_check_mark: | [153. Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array.ipynb) | Medium | `Array`, `Binary Search` |
 | Binary Search | :x: | [4. Median of Two Sorted Arrays](./) | Hard | `Array`, `Binary Search, `Divide and Conquer` |
 | Heap | :x: | [215. Kth Largest Element in an Array](./) | Medium | `Array`, `Divide and Conquer`, `Sorting`, `Heap (Priority Queue)`, `Quickselect` |
 | Heap | :x: | [502. IPO](./) | Hard | `Array`, `Greedy`, `Sorting`, `Heap (Priority Queue)` |
@@ -574,7 +574,7 @@
 | :x: | [141. Linked List Cycle](./) | Easy | `Hash Table`, `Linked List`, `Two Pointers` |
 | :x: | [143. Reorder List](./) | Medium | `Linked List`, `Two Pointers`, `Stack`, `Recursion` |
 | :x: | [152. Maximum Product Subarray](./) | Medium | `Array`, `Dynamic Programming` |
-| :x: | [153. Find Minimum in Rotated Sorted Array](./) |Medium | `Array`, `Binary Search` |
+| :white_check_mark: | [153. Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array.ipynb) |Medium | `Array`, `Binary Search` |
 | :x: | [190. Reverse Bits](./) | Easy | `Divide and Conquer`, `Bit Manipulation` |
 | :x: | [191. Number of 1 Bits](./) | Easy | `Divide and Conquer`, `Bit Manipulation` |
 | :x: | [198. House Robber](./) | Medium | `Array`, `Dynamic Programming` |
