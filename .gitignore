@@ -12,6 +12,8 @@ __pycache__/
 TFdeveloperCertificate/data/*
 /TFdeveloperCertificate/data/*
 
+*.nbconvert.ipynb
+**/*.nbconvert.ipynb
 .$*.bkp
 */.$*.bkp
 # C extensions
