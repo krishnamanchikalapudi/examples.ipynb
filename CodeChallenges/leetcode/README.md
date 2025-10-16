@@ -135,7 +135,7 @@
 | Sorting and Searching | :x: | [Find Peak Element](./) | `?`, `?` |
 | Sorting and Searching | :x: | [Search for a Range](./) | `?`, `?` |
 | Sorting and Searching | :x: | [Merge Intervals](./) | `?`, `?` |
-| Sorting and Searching | :x: | [Search in Rotated Sorted Array](./) | `?`, `?` |
+| Sorting and Searching | :white_check_mark: | [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array.ipynb) | `Array`, `Binary Search` |
 | Sorting and Searching | :x: | [Meeting Rooms II](./) | `?`, `?` |
 | Sorting and Searching | :x: | [Search a 2D Matrix II](./) | `?`, `?` |
 | Dynamic Programming | :x: | [Jump Game](./) | `?`, `?` |
@@ -475,7 +475,7 @@
 | Binary Search | :x: | [35. Search Insert Position](./) | Easy | `Array`, `Binary Search` |
 | Binary Search | :x: | [74. Search a 2D Matrix](./) | Medium | `Array`, `Binary Search`, `Matrix` |
 | Binary Search | :x: | [162. Find Peak Element](./) | Medium | `Array`, `Binary Search` |
-| Binary Search | :x: | [33. Search in Rotated Sorted Array](./) | Medium | `Array`, `Binary Search` |
+| Binary Search | :white_check_mark: | [33. Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array.ipynb) | Medium | `Array`, `Binary Search` |
 | Binary Search | :x: | [34. Find First and Last Position of Element in Sorted Array](./) | Medium | `Array`, `Binary Search` |
 | Binary Search | :white_check_mark: | [153. Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array.ipynb) | Medium | `Array`, `Binary Search` |
 | Binary Search | :x: | [4. Median of Two Sorted Arrays](./) | Hard | `Array`, `Binary Search, `Divide and Conquer` |
@@ -545,7 +545,7 @@
 | white_check_mark: | [20. Valid Parentheses](./20-valid-parentheses.ipynb) | Easy | `String`, `Stack` |
 | :x: | [21. Merge Two Sorted Lists](./) | Easy | `Linked List`, `Recursion` |
 | :x: | [23. Merge k Sorted Lists](./) | Hard | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort` |
-| :x: | [33. Search in Rotated Sorted Array](./) | Medium | `Array`, `Binary Search` |
+| :white_check_mark: | [33. Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array.ipynb) | Medium | `Array`, `Binary Search` |
 | :x: | [39. Combination Sum](./) | Medium | `Array`, `Backtracking` |
 | :x: | [48. Rotate Image](./) | Medium | `Array`, `Math`, `Matrix` |
 | :white_check_mark: | [49. Group Anagrams](./49-group-anagrams.ipynb) | Medium | `Array`, `Hash Table`, `String`, `Sorting` |
