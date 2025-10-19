@@ -427,7 +427,7 @@
 | Linked List | :x: | [86. Partition List](./) | Medium | `Linked List`, `Two Pointers` |
 | Linked List | :x: | [146. LRU Cache](./) | Medium | `Hash Table`, `Linked List`, `Design`, `Doubly-Linked List` |
 | Binary Tree General | :white_check_mark: | [104. Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
-| Binary Tree General | :x: | [100. Same Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
+| Binary Tree General | :white_check_mark: | [100. Same Tree](./100-same-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | Binary Tree General | :white_check_mark: | [226. Invert Binary Tree](./226-invert-binary-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | Binary Tree General | :x: | [101. Symmetric Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | Binary Tree General | :x: | [105. Construct Binary Tree from Preorder and Inorder Traversal](./) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Tree`, `Binary Tree` |
@@ -561,7 +561,7 @@
 | :x: | [79. Word Search](./) | Medium | `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix` |
 | :x: | [91. Decode Ways](./) | Medium | `String`, `Dynamic Programming` |
 | :x: | [98. Validate Binary Search Tree](./98-validate-binary-search-tree.ipynb) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
-| :x: | [100. Same Tree](./) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
+| :white_check_mark: | [100. Same Tree](./100-same-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | :x: | [102. Binary Tree Level Order Traversal](./) | Medium | `Tree`, `Breadth-First Search`, `Binary Tree` |
 | :white_check_mark: | [104. Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | :x: | [105. Construct Binary Tree from Preorder and Inorder Traversal](./) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Tree`, `Binary Tree` |
