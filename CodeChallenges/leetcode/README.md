@@ -608,7 +608,7 @@
 | :x: | [417. Pacific Atlantic Water Flow](./) | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
 | :x: | [424. Longest Repeating Character Replacement](./) | Medium | `Hash Table`, `String`, `Sliding Window` |
 | :x: | [435. Non-overlapping Intervals](./) | Medium | `Array`, `Dynamic Programming`, `Greedy`, `Sorting` |
-| :x: | [572. Subtree of Another Tree](./) | Easy | `Tree`, `Depth-First Search`, `String Matching`, `Binary Tree`, `Hash Function` |
+| :white_check_mark | [572. Subtree of Another Tree](./572-subtree-of-another-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `String Matching`, `Binary Tree`, `Hash Function` |
 | :x: | [647. Palindromic Substrings](./) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
 | :white_check_mark: | [876. Middle of the Linked List](./876-middle-of-the-linked-list.ipynb) | Easy | `Two Pointers`, `Linked List` |
 | :x: | [1143. Longest Common Subsequence](./) | Medium | `String`, `Dynamic Programming` |
