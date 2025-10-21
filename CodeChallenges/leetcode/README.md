@@ -588,7 +588,7 @@
 | :white_check_mark: | [217. Contains Duplicate](./217-contains-duplicate.ipynb) | Easy | `Array`, `Hash Table`, `Sorting` |
 | :white_check_mark: | [226. Invert Binary Tree](./226-invert-binary-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | :x: | [230. Kth Smallest Element in a BST](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
-| :x: | [235. Lowest Common Ancestor of a Binary Search Tree](./) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
+| white_check_mark: | [235. Lowest Common Ancestor of a Binary Search Tree](./235-lowest-common-ancestor-of-a-binary-search-tree) | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | :white_check_mark: | [238. Product of Array Except Self](./238-product-of-array-except-self.ipynb) | Medium | `Array`, `Prefix Sum` |
 | :white_check_mark: | [242. Valid Anagram](./242-valid-anagram.ipynb) | Easy | `Hash Table`, `String`, `Sorting` |
 | :x: | [252. Meeting Rooms](./252-meeting-rooms.ipynb) | Easy | `Array`, `Sorting` |
