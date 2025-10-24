@@ -12,6 +12,8 @@ __pycache__/
 TFdeveloperCertificate/data/*
 /TFdeveloperCertificate/data/*
 
+*.pytest_cache
+**/*.pytest_cache
 *.nbconvert.ipynb
 **/*.nbconvert.ipynb
 .$*.bkp
