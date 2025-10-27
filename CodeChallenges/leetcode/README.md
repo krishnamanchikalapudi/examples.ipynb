@@ -134,7 +134,7 @@
 | Sorting and Searching | :x: | [Kth Largest Element in an Array](./) | `?`, `?` |
 | Sorting and Searching | :x: | [Find Peak Element](./) | `?`, `?` |
 | Sorting and Searching | :x: | [Search for a Range](./) | `?`, `?` |
-| Sorting and Searching | :x: | [Merge Intervals](./) | `?`, `?` |
+| Sorting and Searching | :white_check_mark: | [Merge Intervals](./56-merge-intervals.ipynb) | `?`, `?` |
 | Sorting and Searching | :white_check_mark: | [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array.ipynb) | `Array`, `Binary Search` |
 | Sorting and Searching | :x: | [Meeting Rooms II](./) | `?`, `?` |
 | Sorting and Searching | :x: | [Search a 2D Matrix II](./) | `?`, `?` |
@@ -407,7 +407,7 @@
 | Hashmap | :x: | [219. Contains Duplicate II](./) | Easy | `Array`, `Hash Table`, `Sliding Window` |
 | Hashmap | :white_check_mark: | [128. Longest Consecutive Sequence](./128-longest-consecutive-sequence.ipynb) | Medium | `Array`, `Hash Table`, `Union Find` |
 | Intervals | :x: | [228. Summary Ranges](./) | Easy | `Array` |
-| Intervals | :x: | [56. Merge Intervals](./) | Medium | `Array`, `Sorting` |
+| Intervals | :white_check_mark: | [56. Merge Intervals](./56-merge-intervals.ipynb) | Medium | `Array`, `Sorting` |
 | Intervals | :x: | [57. Insert Interval](./) | Medium | `Array` |
 | Intervals | :x: | [452. Minimum Number of Arrows to Burst Balloons](./) | Medium | `Array`, `Greedy`, `Sorting` |
 | Stack | white_check_mark: | [20. Valid Parentheses](./20-valid-parentheses.ipynb) | Easy | `String`, `Stack` |
@@ -552,7 +552,7 @@
 | :x: | [53. Maximum Subarray](./) | Medium | `Array`, `Divide and Conquer`, `Dynamic Programming` |
 | :x: | [54. Spiral Matrix](./) | Medium | `Array`, `Matrix`, `Simulation` |
 | :x: | [55. Jump Game](./) | Medium | `Array`, `Dynamic Programming`, `Greedy` |
-| :x: | [56. Merge Intervals](./) | Medium | `Array`, `Sorting` |
+| :white_check_mark: | [56. Merge Intervals](./56-merge-intervals.ipynb) | Medium | `Array`, `Sorting` |
 | :x: | [57. Insert Interval](./) | Medium | `Array` |
 | :x: | [62. Unique Paths](./) | Medium | `Math`, `Dynamic Programming`, `Combinatorics` |
 | :x: | [70. Climbing Stairs](./) | Easy | `Math`, `Dynamic Programming`, `Memoization` |
