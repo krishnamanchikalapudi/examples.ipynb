@@ -220,7 +220,7 @@
 | Dynamic Programming | :x: | [Decode Ways](./) | `?`, `?` |
 | Dynamic Programming | :x: | [Best Time to Buy and Sell Stock with Cooldown](./) | `?`, `?` |
 | Dynamic Programming | :x: | [Perfect Squares](./) | `?`, `?` |
-| Dynamic Programming | :x: | [Word Break](./) | `?`, `?` |
+| Dynamic Programming | :white_check_mark: | [Word Break](./139-word-break.ipynb) | `?`, `?` |
 | Dynamic Programming | :x: | [Word Break II](./) | `?`, `?` |
 | Dynamic Programming | :x: | [Burst Balloons](./) | `?`, `?` |
 | Design | :x: | [LRU Cache](./) | `?`, `?` |
@@ -497,7 +497,7 @@
 | Math | :x: | [149. Max Points on a Line](./) | Hard | `Array`, `Hash Table`, `Math`, `Geometry` |
 | 1D DP | :x: | [70. Climbing Stairs](./) | Easy | `Math`, `Dynamic Programming`, `Memoization` |
 | 1D DP | :x: | [198. House Robber](./) | Medium | `Array`, `Dynamic Programming` |
-| 1D DP | :x: | [139. Word Break](./) | Medium | `Array`, `Hash Table`, `String` |
+| 1D DP | :white_check_mark: | [139. Word Break](./139-word-break.ipynb) | Medium | `Array`, `Hash Table`, `String` |
 | 1D DP | :x: | [322. Coin Change](./) | Medium | `Array`, `Dynamic Programming`, `Breadth-First Search` |
 | 1D DP | :x: | [300. Longest Increasing Subsequence](./) | Medium | `Array`, `Binary Search`, `Dynamic Programming` |
 | Multidimensional DP | :x: | [120. Triangle](./) | Medium | `Array`, `Dynamic Programming`  |
@@ -570,7 +570,7 @@
 | :white_check_mark: | [125. Valid Palindrome](./125-valid-palindrome.ipynb) | Easy | `Two Pointers`, `String` |
 | :white_check_mark: | [128. Longest Consecutive Sequence](./128-longest-consecutive-sequence.ipynb) | Medium | `Array`, `Hash Table`, `Union Find` |
 | :x: | [133. Clone Graph](./) | Medium | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph` |
-| :x: | [139. Word Break](./) | Medium | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` |
+| :white_check_mark: | [139. Word Break](./139-word-break.ipynb) | Medium | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` |
 | :x: | [141. Linked List Cycle](./) | Easy | `Hash Table`, `Linked List`, `Two Pointers` |
 | :x: | [143. Reorder List](./) | Medium | `Linked List`, `Two Pointers`, `Stack`, `Recursion` |
 | :x: | [152. Maximum Product Subarray](./) | Medium | `Array`, `Dynamic Programming` |
