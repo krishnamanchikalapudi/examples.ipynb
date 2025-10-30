@@ -31,7 +31,23 @@
 | :----- | :----- | 
 | :white_check_mark: | [ABCs](./abcs.ipynb) | 
 | :white_check_mark: | [All Wrong](./allwrong.ipynb) | 
-| :x: | [Battleship](./battleship.ipynb) |
+| :white_check_mark: | [Battleship](./battleship.ipynb) |
+
+
+<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
 
 ## Coding Puzzles: Level 1
 
@@ -74,6 +90,21 @@
 | :x: | [Scoreboard Inference 2](./) | 
 | :x: | [Tunnel Time](./) | 
 
+<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
+
 ## Coding Puzzles: Level 3
 
 | Solved | Problem | 
@@ -82,6 +113,21 @@
 | :x: | [Rabbit Hole 2](./) | 
 | :x: | [Slippery Trip](./) | 
 | :x: | [Stack Stabilization 2](./) | 
+
+<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@dayonedev" target="_new">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UCiLziPE9aPxCouSsX0lJ--A" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
 
 ## Coding Puzzles: Level 4
 
