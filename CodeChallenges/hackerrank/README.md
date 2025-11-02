@@ -152,15 +152,35 @@
 
 
 ## [Problem Solving: Data Structures](https://www.hackerrank.com/domains/data-structures)
-| Solved |  Problem | Difficulty |
-| :--- | :--- | :----- | 
-| :x: | [?](./.ipynb) | Easy/Medium/Hard |
-| :x: | [?](./.ipynb) | Easy/Medium/Hard |
-| :x: | [?](./.ipynb) | Easy/Medium/Hard |
-| :x: | [?](./.ipynb) | Easy/Medium/Hard |
+| Category | Solved | Problem | 
+| :----- | :----- | :----- | 
+| Array | :x: | [Arrays - DS](./?.ipynb) |
+| Array | :x: | [2D Array - DS](./?.ipynb) |
+| Array | :x: | [Dynamic Array](./?.ipynb) |
+| Array | :x: | [Left Rotation](./?.ipynb) |
+| Array | :x: | [Sparse Arrays](./?.ipynb) |
+| Array | :x: | [Array Manipulation](./?.ipynb) |
+| LinkedList | :x: | [Print the Elements of a Linked List](./?.ipynb) |
+| LinkedList | :x: | [Insert a Node at the Tail of a Linked List](./?.ipynb) |
+| LinkedList | :x: | [Insert a node at the head of a linked list](./?.ipynb) |
+| LinkedList | :x: | [Insert a node at a specific position in a linked list](./?.ipynb) |
+| LinkedList | :x: | [Delete a Node](./?.ipynb) |
+| LinkedList | :x: | [Print in Reverse](./?.ipynb) |
+| LinkedList | :x: | [Reverse a linked list](./?.ipynb) |
+| LinkedList | :x: | [Compare two linked lists](./?.ipynb) |
+| LinkedList | :x: | [Merge two sorted linked lists](./?.ipynb) |
+| LinkedList | :x: | [Get Node Value](./?.ipynb) |
+| LinkedList | :x: | [Delete duplicate-value nodes from a sorted linked list](./?.ipynb) |
+| LinkedList | :x: | [Cycle Detection](./?.ipynb) |
+| LinkedList | :x: | [Find Merge Point of Two Lists](./?.ipynb) |
+| LinkedList | :x: | [Inserting a Node Into a Sorted Doubly Linked List](./?.ipynb) |
+| LinkedList | :x: | [Reverse a doubly linked list](./?.ipynb) |
 
 
 <!-- 
+|  | :x: | [](./?.ipynb) |
+|  | :x: | [](./?.ipynb) |
+
 |  | :white_check_mark: Easy :negative_squared_cross_mark: Medium :negative_squared_cross_mark: Hard |
 |  | :white_check_mark: Easy :negative_squared_cross_mark: Medium :negative_squared_cross_mark: Hard |
 |  | :white_check_mark: Easy :negative_squared_cross_mark: Medium :negative_squared_cross_mark: Hard |

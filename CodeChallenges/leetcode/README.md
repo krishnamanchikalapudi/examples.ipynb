@@ -107,10 +107,10 @@
 | Category | Solved | Problem | Tags |
 | :----- | :----- | :----- | :----- | 
 | Array / String | :white_check_mark: | [3Sum](./15-3sum.ipynb) | `Array`, `Two Pointers`, `Sorting` |
-| Array / String | :x: | [Set Matrix Zeroes](./73-set-matrix-zeroes.ipynb) | `Array`, `Hash Table`, `Matrix` |
+| Array / String | :white_check_mark: | [Set Matrix Zeroes](./73-set-matrix-zeroes.ipynb) | `Array`, `Hash Table`, `Matrix` |
 | Array / String | :white_check_mark: | [49. Group Anagrams](./49-group-anagrams.ipynb) | Medium | `Array`, `Hash Table`, `String` |
 | Array / String | :x: | [Longest Substring Without Repeating Characters  ](./) | `?`, `?` |
-| Array / String | :x: | [Longest Palindromic Substring ](./) | `?`, `?` |
+| Array / String | :white_check_mark: | [Longest Palindromic Substring ](./5-longest-palindromic-substring.ipynb) | `Two Pointers`, `String`, `Dynamic Programming` |
 | Array / String | :x: | [Increasing Triplet Subsequence  ](./) | `?`, `?` |
 | Array / String | :x: | [Missing Ranges  ](./) | `?`, `?` |
 | Array / String | :x: | [Count and Say](./) | `?`, `?` |
@@ -395,7 +395,7 @@
 | Matrix | :x: | [36. Valid Sudoku](./) | Medium | `Array`, `Hash Table`, `Matrix` |
 | Matrix | :x: | [54. Spiral Matrix](./) | Medium | `Array`, `Matrix`, `Simulation` |
 | Matrix | :x: | [48. Rotate Image](./) | Medium | `Array`, `Math`, `Matrix` |
-| Matrix | :x: | [73. Set Matrix Zeroes](./73-set-matrix-zeroes.ipynb) | Medium | `Array`, `Hash Table`, `Matrix` |
+| Matrix | :white_check_mark: | [73. Set Matrix Zeroes](./73-set-matrix-zeroes.ipynb) | Medium | `Array`, `Hash Table`, `Matrix` |
 | Matrix | :x: | [289. Game of Life](./) | Medium | `Array`, `Matrix`, `Simulation` |
 | Hashmap | :x: | [383. Ransom Note](./) | Easy | `Hash Table`, `String`, `Counting` |
 | Hashmap | :x: | [205. Isomorphic Strings](./) | Easy | `Hash TableS`, `tring` |
@@ -503,7 +503,7 @@
 | Multidimensional DP | :x: | [120. Triangle](./) | Medium | `Array`, `Dynamic Programming`  |
 | Multidimensional DP | :x: | [64. Minimum Path Sum](./) | Medium | `Array`, `Dynamic Programming`, `Matrix` |
 | Multidimensional DP | :x: | [63. Unique Paths II](./) | Medium | `Array`, `Dynamic Programming`, `Matrix` |
-| Multidimensional DP | :x: | [5. Longest Palindromic Substring](./) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
+| Multidimensional DP | :white_check_mark: | [5. Longest Palindromic Substring](./5-longest-palindromic-substring.ipynb) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
 | Multidimensional DP | :x: | [97. Interleaving String](./) | Medium | `String`, `Dynamic Programming` |
 | Multidimensional DP | :x: | [72. Edit Distance](./) | Medium | `String`, `Dynamic Programming` |
 | Multidimensional DP | :x: | [123. Best Time to Buy and Sell Stock III](./) | Hard | `Array`, `Dynamic Programming` |
@@ -538,7 +538,7 @@
 | :----- | :----- | :----- | :----- | 
 | :white_check_mark: | [1. Two sum](./1-two-sum.ipynb) | Easy | `Array`, `Hash Table` |
 | :white_check_mark: | [3. Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters.ipynb) | Medium | `Hash Table`, `String`, `Sliding Window`|
-| :x: | [5. Longest Palindromic Substring](./) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
+| :white_check_mark: | [5. Longest Palindromic Substring](./5-longest-palindromic-substring.ipynb) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
 | :white_check_mark: | [11. Container With Most Water](./11-container-with-most-water.ipynb) | Medium | `Array`, `Two Pointers`, `Greedy` |
 | :white_check_mark: | [15. 3Sum](./15-3sum.ipynb) | Medium | `Array`, `Two Pointers`, `Sorting` |
 | :x: | [19. Remove Nth Node From End of List](./) | Medium | `Linked List`, `Two Pointers` |
@@ -556,7 +556,7 @@
 | :x: | [57. Insert Interval](./) | Medium | `Array` |
 | :x: | [62. Unique Paths](./) | Medium | `Math`, `Dynamic Programming`, `Combinatorics` |
 | :x: | [70. Climbing Stairs](./) | Easy | `Math`, `Dynamic Programming`, `Memoization` |
-| :x: | [73. Set Matrix Zeroes](./73-set-matrix-zeroes.ipynb) | Medium | `Array`, `Hash Table`, `Matrix` |
+| :white_check_mark: | [73. Set Matrix Zeroes](./73-set-matrix-zeroes.ipynb) | Medium | `Array`, `Hash Table`, `Matrix` |
 | :x: | [76. Minimum Window Substring](./) | Hard | `Hash Table`, `String`, `Sliding Window` |
 | :x: | [79. Word Search](./) | Medium | `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix` |
 | :x: | [91. Decode Ways](./) | Medium | `String`, `Dynamic Programming` |
@@ -609,7 +609,7 @@
 | :x: | [424. Longest Repeating Character Replacement](./) | Medium | `Hash Table`, `String`, `Sliding Window` |
 | :x: | [435. Non-overlapping Intervals](./) | Medium | `Array`, `Dynamic Programming`, `Greedy`, `Sorting` |
 | :white_check_mark | [572. Subtree of Another Tree](./572-subtree-of-another-tree.ipynb) | Easy | `Tree`, `Depth-First Search`, `String Matching`, `Binary Tree`, `Hash Function` |
-| :x: | [647. Palindromic Substrings](./) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
+| :white_check_mark | [647. Palindromic Substrings](./647-palindromic-substrings.ipynb) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
 | :white_check_mark: | [876. Middle of the Linked List](./876-middle-of-the-linked-list.ipynb) | Easy | `Two Pointers`, `Linked List` |
 | :x: | [1143. Longest Common Subsequence](./) | Medium | `String`, `Dynamic Programming` |
 
