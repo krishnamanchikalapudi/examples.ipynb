@@ -140,7 +140,7 @@
 | Sorting and Searching | :x: | [Search a 2D Matrix II](./) | `?`, `?` |
 | Dynamic Programming | :x: | [Jump Game](./) | `?`, `?` |
 | Dynamic Programming | :x: | [Unique Paths](./) | `?`, `?` |
-| Dynamic Programming | :x: | [Coin Change](./) | `?`, `?` |
+| Dynamic Programming | :white_check_mark: | [Coin Change](./322-coin-change.ipynb) | `Array`, `Dynamic Programming`, `Breadth-First Search` |
 | Dynamic Programming | :x: | [Longest Increasing Subsequence](./) | `?`, `?` |
 | Design | :x: | [Flatten 2D Vector](./) | `?`, `?` |
 | Design | :x: | [Serialize and Deserialize Binary Tree](./) | `?`, `?` |
@@ -498,7 +498,7 @@
 | 1D DP | :x: | [70. Climbing Stairs](./) | Easy | `Math`, `Dynamic Programming`, `Memoization` |
 | 1D DP | :x: | [198. House Robber](./) | Medium | `Array`, `Dynamic Programming` |
 | 1D DP | :white_check_mark: | [139. Word Break](./139-word-break.ipynb) | Medium | `Array`, `Hash Table`, `String` |
-| 1D DP | :x: | [322. Coin Change](./) | Medium | `Array`, `Dynamic Programming`, `Breadth-First Search` |
+| 1D DP | :white_check_mark: | [322. Coin Change](./322-coin-change.ipynb) | Medium | `Array`, `Dynamic Programming`, `Breadth-First Search` |
 | 1D DP | :x: | [300. Longest Increasing Subsequence](./) | Medium | `Array`, `Binary Search`, `Dynamic Programming` |
 | Multidimensional DP | :x: | [120. Triangle](./) | Medium | `Array`, `Dynamic Programming`  |
 | Multidimensional DP | :x: | [64. Minimum Path Sum](./) | Medium | `Array`, `Dynamic Programming`, `Matrix` |
@@ -600,7 +600,7 @@
 | :x: | [295. Find Median from Data Stream](./) | Hard | `Two Pointers`, `Design`, `Sorting`, `Heap (Priority Queue)`, `Data Stream` |
 | :x: | [297. Serialize and Deserialize Binary Tree](./) | Hard | `String`, `Tree`, `Depth-First Search`, `Breadth-First Search`, `Design`, `Binary Tree` |
 | :x: | [300. Longest Increasing Subsequence](./) | Medium | `Array`, `Binary Search`, `Dynamic Programming` |
-| :x: | [322. Coin Change](./) | Medium | `ArrayDynamic ProgrammingBreadth-First Search` |
+| :white_check_mark: | [322. Coin Change](./322-coin-change.ipynb) | Medium | `Array`, Dynamic Programming`, `Breadth-First Search` |
 | :x: | [323. Number of Connected Components in an Undirected Graph](./323-number-of-connected-components-in-an-undirected-graph.ipynb) | Medium | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph` |
 | :x: | [338. Counting Bits](./) | Easy | `Dynamic Programming`, `Bit Manipulation` |
 | :white_check_mark: | [347. Top K Frequent Elements](./347-top-k-frequent-elements.ipynb) | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting`, `Quickselect` |
